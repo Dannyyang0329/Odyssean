@@ -4,6 +4,9 @@ body {
     padding: 0;
     box-sizing: border-box;
     overflow-x: hidden;
+    background: linear-gradient(45deg, #ff9a9e, #fad0c4);
+    animation: gradient 3s ease infinite;
+    background-size: 400% 400%;
 }
 
 nav {
@@ -167,6 +170,7 @@ nav ul li a:hover {
     background-color: #e03570;
 }
 
+/* Start of popular-destinations */
 .popular-destinations {
     padding: 50px 20px;
     text-align: center;
@@ -185,26 +189,69 @@ nav ul li a:hover {
     gap: 20px;
 }
 
-.card {
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+.popular-destinations table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-collapse: separate;
+    border-spacing: 10px;
 }
-
+.popular-destinations th, td {
+    padding: 30px;
+}
+.card {
+    width: 220px;
+    height: 285px;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
 .card img {
-    width: 100%;
-    height: 200px;
+    width: 220px;
+    height: 220px;
     object-fit: cover;
 }
-
-.card-info {
-    padding: 20px;
+.card-body {
+    text-align: center;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card-title {
+    font-size: 16px;
+    font-weight: bold;
+    overflow: hidden;
+}
+.card-score {
+    font-size: 14px;
+    color: #696969;
 }
 
-.card-info h3 {
-    margin: 0 0 10px;
+.explore-button {
+    background: linear-gradient(45deg, #ff6b6b, #ffca28);
+    height: 70px;
+    width: 250px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
 }
+
+.explore-button:hover {
+    background: linear-gradient(45deg, #ff6b6b, #ffca28);
+    transform: scale(1.1);
+}
+
+/* End of popular-destinations */
 
 .features {
     padding: 50px 20px;
@@ -229,63 +276,6 @@ nav ul li a:hover {
     background: #f4f4f4;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.announcements {
-    padding: 50px 20px;
-    text-align: center;
-    background: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 100%);
-    animation: fadeInUp 2s;
-}
-
-.announcements h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-
-.tips-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-}
-
-.tip {
-    padding: 20px;
-    background: #fff;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.subscribe {
-    padding: 50px 20px;
-    background-color: #00bfa5;
-    text-align: center;
-    color: #fff;
-    animation: fadeInUp 2s;
-}
-
-.subscribe input {
-    padding: 10px;
-    font-size: 1em;
-    border: none;
-    border-radius: 5px;
-    width: 60%;
-    max-width: 400px;
-    margin-right: 10px;
-}
-
-.subscribe button {
-    padding: 10px 20px;
-    font-size: 1em;
-    border: none;
-    border-radius: 5px;
-    background-color: #ff4081;
-    color: #fff;
-    cursor: pointer;
-}
-
-.subscribe button:hover {
-    background-color: #e03570;
 }
 
 footer {
