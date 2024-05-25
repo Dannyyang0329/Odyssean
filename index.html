@@ -5,14 +5,15 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Odyssean</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="index_styles.css">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+        <!-- Load the attractions of each country -->
         <script src="data/attractions.js"></script>
     </head>
     <body>
         <!-- navigation bar -->
         <nav>
-            <div class="logo">Odyssean</div>
+            <a href="index.html" class="logo"> Odyssean</a>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="explore.html">Explore</a></li>
@@ -23,23 +24,15 @@
         <!-- hero -->
         <header class="hero" id="hero">
             <div class="hero-content">
-                <h1>Discover A New Place</h1>
+                <h1 id="hero-text">To travel is to live</h1>
                 <p id="quote">Find great places to stay, eat, shop, or for vacation</p>
-                <div class="search-bar">
-                    <input type="text" placeholder="From">
-                    <input type="text" placeholder="Where">
-                    <input type="date" placeholder="Check-in">
-                    <input type="date" placeholder="Check-out">
-                    <input type="number" placeholder="Travelers">
-                    <button>Search</button>
-                </div>
                 <button class="cta-button">Explore Now</button>
             </div>
         </header>
 
-        <!-- Most Popular Destinations -->
+        <!-- Popular Travel Destinations -->
         <section id="popular-destinations" class="popular-destinations">
-            <h2>Most Popular Destinations</h2>
+            <h2>Popular Travel Destinations</h2>
             <table>
                 <tr>
                     <td></td>
@@ -63,11 +56,12 @@
                     <td></td>
                 </tr>
             </table>
-            <button class="explore-button" onclick="window.location.href='earth.html'">Explore All Attractions</button>
+            <br>
+            <button class="explore-button" onclick="window.location.href='earth.html'">Explore More</button>
         </section>
 
-        <!-- 網站特色功能區 -->
-        <section class="features">
+        <!-- Features -->
+        <!-- <section class="features">
             <h2>Our Best Travel Agency</h2>
             <div class="features-grid">
                 <div class="feature">
@@ -87,26 +81,12 @@
                     <p>A wonderful serenity has taken possession of my entire soul.</p>
                 </div>
             </div>
-        </section>
+        </section> -->
 
-        <!-- 頁尾 -->
+        <!-- footer -->
         <footer>
-            <div class="footer-grid">
-                <div class="footer-section">
-                    <h3>Made by</h3>
-                    <ul>
-                        <li>F74094067 資訊113 楊育勝</li>
-                        <li>F74094025 資訊113 林昱崴</li>
-                </div>
-                <div class="footer-section">
-                    <h3>Have any Questions?</h3>
-                    <ul>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                </div>
-            </div>
+            <p>&copy; 2024 Odyssean. All rights reserved.</p>
         </footer>
-
-        <script src="app.js"></script>
+        <script src="index_scripts.js"></script>
     </body>
 </html>
