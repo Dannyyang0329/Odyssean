@@ -1,0 +1,71 @@
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px 25px 40px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 2s ease-in-out, transform 2s ease-in-out;
+}
+.container header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.container p {
+    font-size: 18px;
+    color: #888;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+.fields {
+    display: flex;
+    justify-content: space-between;
+}
+.field {
+    flex: 1;
+    margin-right: 10px;
+}
+label {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input, textarea {
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+}
+
+
+#message {
+    width: auto;
+}
+
+button {
+    padding: 10px;
+    background: #ff007f;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+button:hover {
+    background: #e60073;
+}

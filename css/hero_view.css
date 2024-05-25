@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* overflow-x: hidden; */
-    background: linear-gradient(45deg, #ff9a9e, #fad0c4);   
+    background: linear-gradient(45deg, gray, black);
     animation: gradient 3s ease infinite;
     background-size: 400% 400%;
 }
+
 
 /* Navagation bar */
 nav {
@@ -64,7 +64,8 @@ nav ul li a:hover::before {
     opacity: 1;
 }
 
-/* hero */
+
+/* Hero view */
 .hero {
     height: 100vh;
     display: flex;
@@ -76,96 +77,24 @@ nav ul li a:hover::before {
     background: url('https://source.unsplash.com/1920x1080/?travel') no-repeat center center/cover;
     transition: opacity 0.5s;
 }
-
 .hero::before {
     content: '';
     position: absolute;
     top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(60, 60, 60, 0.5);
 }
-.hero h1 {
-    font-size: 3em;
-    margin-bottom: 10px;
-    animation: fadeInDown 1s;
-}
-.hero p {
-    font-size: 1.2em;
-    margin-bottom: 20px;
-    animation: fadeInDown 1.5s;
-}
-.container {
-    max-width: 600px;
-    margin: 30px auto;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 2s ease-in-out, transform 2s ease-in-out;
+.hero-content {
+    position: relative;
+    z-index: 1;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
-}
 
-.fields {
-    display: flex;
-    justify-content: space-between;
+/* Animation keyframes */
+@keyframes fadeInOutDelay {
+    0% { opacity: 0; }
+    20% { opacity: 0; }
+    100% { opacity: 1; }
 }
-
-.field {
-    flex: 1;
-    margin-right: 10px;
-}
-
-label {
-    margin-left: 15px;
-    margin-bottom: 5px;
-    font-weight: bold;
-}
-
-input, textarea {
-    margin-left: 15px;
-    margin-right: 5px;
-    margin-bottom: 20px;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    width: 90%;
-}
-
-#message {
-    width: auto;
-}
-
-button {
-    padding: 10px;
-    background: #ff007f;
-    border: none;
-    border-radius: 5px;
-    color: #fff;
-    font-size: 1em;
-    cursor: pointer;
-    margin-left: 15px;
-    margin-right: 5px;
-}
-
-button:hover {
-    background: #e60073;
-}
-
-footer {
-    text-align: center;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    /* width: 100%; */
-    bottom: 0;
-}
-
-footer p {
-    margin: 0;
-    font-size: 1em;
-    color: #fff;
+#page-container {
+    animation: fadeInOutDelay 1s ease-in-out;
 }

@@ -4,61 +4,62 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us - Odyssean</title>
-    <link rel="stylesheet" href="contact_us_styles.css">
+    <link rel="stylesheet" href="css/hero_view.css">
+    <link rel="stylesheet" href="css/contact_us_styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- navigation bar -->
-    <nav>
-        <a href="index.html" class="logo"> Odyssean</a>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="explore.html">Explore</a></li>
-            <li><a href="contact_us.html">Contact Us</a></li>
-        </ul>
-    </nav>
+    <div id="page-container">
+        <!-- navigation bar -->
+        <nav>
+            <a href="index.html" class="logo"> Odyssean</a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="explore.html">Explore</a></li>
+                <li><a href="contact_us.html">Contact Us</a></li>
+            </ul>
+        </nav>
 
-    <!-- hero -->
-    <header class="hero" id="hero">
-        <div class="container" id="formContainer">
-            <header>
-                <h1>Contact Us</h1>
-                <p>We would love to hear from you! Please fill out this form and we will get in touch with you shortly.</p>
-            </header>
-            <form id="contactForm">
-                <div class="fields">
-                    <div class="field">
-                        <label for="firstName">First Name</label>
-                        <input type="text" id="firstName" name="firstName" required>
+        <!-- hero -->
+        <header class="hero" id="hero">
+            <div class="container" id="formContainer">
+                <header>
+                    <h1>Contact Us</h1>
+                    <p>We would love to hear from you!</p>
+                    <p>Please fill out this form and we will get in touch with you shortly.</p>
+                </header>
+                <form id="contactForm">
+                    <div class="fields">
+                        <div class="field">
+                            <label for="firstName">First Name</label>
+                            <input type="text" id="firstName" name="firstName" required>
+                        </div>
+                        <div class="field">
+                            <label for="lastName">Last Name</label>
+                            <input type="text" id="lastName" name="lastName" required>
+                        </div>
                     </div>
-                    <div class="field">
-                        <label for="lastName">Last Name</label>
-                        <input type="text" id="lastName" name="lastName" required>
+                    
+                    <div class="fields">
+                        <div class="field">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="field">
+                            <label for="phone">Phone</label>
+                            <input type="text" id="phone" name="phone" pattern="[0-9]{9,}" placeholder="Ex: 0912345678">
+                        </div>
                     </div>
-                </div>
-                
-                <div class="fields">
-                    <div class="field">
-                        <label for="email">Email</label>
-                        <input type="email" id="email" name="email" required>
-                    </div>
-                    <div class="field">
-                        <label for="phone">Phone</label>
-                        <input type="text" id="phone" name="phone" pattern="[0-9]{9,}" placeholder="Ex: 0912345678">
-                    </div>
-                </div>
-    
-                <label for="message">Message</label>
-                <textarea id="message" name="message" rows="3" required></textarea>
-    
-                <button type="submit">Submit</button>
-            </form>
-        </div>
-    </header>
+        
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" rows="3" required></textarea>
+        
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </header>
+    </div>
 
-    <footer>
-        <p>&copy; 2024 Odyssean. All rights reserved.</p>
-    </footer>
     <script src="contact_us_scripts.js"></script>
 </body>
 </html>

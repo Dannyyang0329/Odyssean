@@ -5,88 +5,77 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Odyssean</title>
-        <link rel="stylesheet" href="index_styles.css">
+        <link rel="stylesheet" href="css/hero_view.css">
+        <link rel="stylesheet" href="css/card.css">
+        <link rel="stylesheet" href="css/index_styles.css">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
         <!-- Load the attractions of each country -->
         <script src="data/attractions.js"></script>
     </head>
     <body>
-        <!-- navigation bar -->
-        <nav>
-            <a href="index.html" class="logo"> Odyssean</a>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="explore.html">Explore</a></li>
-                <li><a href="contact_us.html">Contact Us</a></li>
-            </ul>
-        </nav>
+        <div id="page-container">
+            <!-- navigation bar -->
+            <nav>
+                <a href="index.html" class="logo"> Odyssean</a>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="explore.html">Explore</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
+                </ul>
+            </nav>
 
-        <!-- hero -->
-        <header class="hero" id="hero">
-            <div class="hero-content">
-                <h1 id="hero-text">To travel is to live</h1>
-                <p id="quote">Find great places to stay, eat, shop, or for vacation</p>
-                <button class="cta-button">Explore Now</button>
-            </div>
-        </header>
+            <!-- hero -->
+            <header class="hero" id="hero">
+                <div class="hero-content">
+                    <h1 id="hero-text">To travel is to live</h1>
+                    <p id="quote">Find great places to stay, eat, shop, or for vacation</p>
+                    <button class="cta-button" onclick="window.location.href='explore.html'">
+                        Explore Now
+                    </button>
+                </div>
+            </header>
 
-        <!-- Popular Travel Destinations -->
-        <section id="popular-destinations" class="popular-destinations">
-            <h2>Popular Travel Destinations</h2>
-            <table>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-            </table>
-            <br>
-            <button class="explore-button" onclick="window.location.href='earth.html'">Explore More</button>
-        </section>
+            <!-- Popular Travel Destinations -->
+            <section id="popular-destinations" class="popular-destinations">
+                <div>
+                    <h2>Popular Travel Destinations</h2>
+                    <table>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                    <br>
+                    <button class="explore-button" onclick="window.location.href='explore.html'">
+                        Explore More
+                    </button>
+                </div>
+            </section>
 
-        <!-- Features -->
-        <!-- <section class="features">
-            <h2>Our Best Travel Agency</h2>
-            <div class="features-grid">
-                <div class="feature">
-                    <h3>Special Activities</h3>
-                    <p>A wonderful serenity has taken possession of my entire soul.</p>
-                </div>
-                <div class="feature">
-                    <h3>Travel Arrangements</h3>
-                    <p>A wonderful serenity has taken possession of my entire soul.</p>
-                </div>
-                <div class="feature">
-                    <h3>Private Guide</h3>
-                    <p>A wonderful serenity has taken possession of my entire soul.</p>
-                </div>
-                <div class="feature">
-                    <h3>Location Manager</h3>
-                    <p>A wonderful serenity has taken possession of my entire soul.</p>
-                </div>
-            </div>
-        </section> -->
+            <!-- footer -->
+            <footer>
+                <p>&copy; 2024 Odyssean. All rights reserved.</p>
+            </footer>
+        </div>
 
-        <!-- footer -->
-        <footer>
-            <p>&copy; 2024 Odyssean. All rights reserved.</p>
-        </footer>
-        <script src="index_scripts.js"></script>
+
+        <script src="javascript/index_scripts.js"></script>
     </body>
 </html>
