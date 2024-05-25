@@ -1,7 +1,6 @@
 .container {
-    max-width: 600px;
-    margin: 30px auto;
-    padding: 20px 25px 40px;
+    max-width: 640px;
+    padding: 20px 25px;
     background: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -9,61 +8,58 @@
     transform: translateY(20px);
     transition: opacity 2s ease-in-out, transform 2s ease-in-out;
 }
-.container header {
-    text-align: center;
-    margin-bottom: 30px;
-}
 .container h1 {
+    margin: 12px  0px;
     font-size: 36px;
-    margin-bottom: 10px;
+}
+.contact-us-message {
+    margin: 20px;
 }
 .container p {
+    margin: 0;
     font-size: 18px;
     color: #888;
 }
+
 
 form {
     display: flex;
     flex-direction: column;
 }
-.fields {
-    display: flex;
-    justify-content: space-between;
+
+table {
+    margin: 0 16px;
 }
-.field {
-    flex: 1;
-    margin-right: 10px;
+table th {
+    padding: 28px 4px 8px 4px;
+    border: none;
+    border-radius: 8px;
 }
-label {
-    margin-left: 15px;
-    margin-bottom: 5px;
-    font-weight: bold;
-}
-input, textarea {
-    margin-left: 15px;
-    margin-right: 5px;
-    margin-bottom: 20px;
-    padding: 10px;
+table input {
+    margin: 0;
+    padding: 10px 6px;
     border: none;
     border-radius: 5px;
-    width: 90%;
+    width: 80%;
+    font-size: 1em;
 }
-
-
-#message {
-    width: auto;
+table textarea {
+    padding: 12px 6px;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
 }
 
 button {
+    width: 60%;
     padding: 10px;
+    margin: 24px 10px 20px 10px;
     background: #ff007f;
     border: none;
     border-radius: 5px;
     color: #fff;
     font-size: 1em;
     cursor: pointer;
-    margin-left: 15px;
-    margin-right: 5px;
 }
 
 button:hover {

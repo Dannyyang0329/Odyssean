@@ -25,36 +25,39 @@
             <div class="container" id="formContainer">
                 <header>
                     <h1>Contact Us</h1>
-                    <p>We would love to hear from you!</p>
-                    <p>Please fill out this form and we will get in touch with you shortly.</p>
+                    <div class="contact-us-message">
+                        <p>We would love to hear from you!</p>
+                        <p>Please fill out this form and we will get in touch with you shortly.</p>
+                    </div>
                 </header>
                 <form id="contactForm">
-                    <div class="fields">
-                        <div class="field">
-                            <label for="firstName">First Name</label>
-                            <input type="text" id="firstName" name="firstName" required>
-                        </div>
-                        <div class="field">
-                            <label for="lastName">Last Name</label>
-                            <input type="text" id="lastName" name="lastName" required>
-                        </div>
-                    </div>
-                    
-                    <div class="fields">
-                        <div class="field">
-                            <label for="email">Email</label>
-                            <input type="email" id="email" name="email" required>
-                        </div>
-                        <div class="field">
-                            <label for="phone">Phone</label>
-                            <input type="text" id="phone" name="phone" pattern="[0-9]{9,}" placeholder="Ex: 0912345678">
-                        </div>
-                    </div>
-        
-                    <label for="message">Message</label>
-                    <textarea id="message" name="message" rows="3" required></textarea>
-        
-                    <button type="submit">Submit</button>
+                    <table>
+                        <tr>
+                            <th><label for="firstName">First Name</label></td>
+                            <th><label for="lastName">Last Name</label></td>
+                        </tr>
+                        <tr>
+                            <td><input type="text" id="firstName" name="firstName" required></td>
+                            <td><input type="text" id="lastName" name="lastName" required></td>
+                        </tr>
+                        <tr>
+                            <th><label for="email">Email</label></td>
+                            <th><label for="phone">Phone</label></td>
+                        </tr>
+                        <tr>
+                            <td><input type="email" id="email" name="email" required></td>
+                            <td><input type="text" id="phone" name="phone" pattern="[0-9]{9,}" placeholder="Ex: 0912345678"></td>
+                        </tr>
+                        <tr>
+                            <th colspan="2"><label id="message-label">Message</label></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><textarea id="message" name="message" rows="4" required></textarea></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><button type="submit">Submit</button></td>
+                        </tr>
+                    </table>
                 </form>
             </div>
         </header>
