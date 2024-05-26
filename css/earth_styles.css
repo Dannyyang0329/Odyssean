@@ -28,7 +28,7 @@ body {
     display: inline-block;
     max-width: 100%;
     font-size: 2.5rem;
-    background-image: linear-gradient(to right, #ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff, #ff0000);
+    background-image: linear-gradient(to right, #ff0000, #ffff00, #00ff00, #00ffff, #ff00ff, #ff0000);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

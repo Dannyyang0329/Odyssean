@@ -1,12 +1,7 @@
 // import Globe from 'globe.gl';
 // import {Globe} from '//unpkg.com/globe.gl';
 
-function test() {
-    var randomColor = Math.floor(Math.random()*16777215).toString(16);
-    globe.backgroundColor('#' + randomColor);
-}
-
-const globe = Globe()
+const globe = Globe();
 var myDOMElement = document.getElementById('globeViz');
 fetch('data/ne_110m_admin_0_countries.geojson').then((res) => res.json()).then((countries) => {
     globe(myDOMElement)
@@ -35,6 +30,17 @@ fetch('data/ne_110m_admin_0_countries.geojson').then((res) => res.json()).then((
             localStorage.setItem("country", d.ADMIN);
             window.open("explore.html", "_self");
         })
+    
+    const camera = globe.camera();
+    const renderer = globe.renderer();
+    renderer.setAnimationLoop(() => {
+        if(globe.pointOfView().altitude <= 2) {
+            globe.pointOfView({ altitude: 2 });
+        }
+        renderer.render(globe.scene(), camera);
+    });
+    globe.controls().update();
+
 
     // Add rotation
     globe.controls().autoRotate = true;
