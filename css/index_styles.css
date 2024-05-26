@@ -38,12 +38,12 @@
 }
 .popular-destinations h2 {
     font-size: 2em;
-    margin-bottom: 20px;
+    margin: 10 0 40px;
+    /* margin-bottom: 20px; */
 }
 .popular-destinations table {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
     border-collapse: separate;
     border-spacing: 10px;
     text-align: left;
@@ -51,7 +51,6 @@
 .popular-destinations th, td {
     padding: 20px;
 }
-
 
 
 .explore-button {
@@ -72,7 +71,6 @@
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
 }
-
 
 footer {
     text-align: center;

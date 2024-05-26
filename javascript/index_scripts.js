@@ -38,36 +38,37 @@ function getRandomAttractions(data, count) {
     return { attractions: attractions, attractions_country: attractions_country};
 }
 
-// display random attractions in the table
-function displayAttractions(attractions, attractions_country) {
-    const table = document.querySelector('table');
-    const rows = table.querySelectorAll('tr');
-
-    // set 5 attractions to the each row of the table
-    for(var i = 0; i < 3; i++) {
-        attractions.slice(i * 5, i * 5 + 5).forEach((attraction, index) => {
-            const cell = rows[i].children[index];
-            var result = `
-            <div class="card">
+// display random attractions 
+function displayAttractions(randomAttractions) {
+    const cardContainer = document.createElement('div');
+    cardContainer.id = 'card-container';
+    cardContainer.classList.add('card-container');
+    for (let i = 0; i < 3; i++) {
+        randomAttractions.attractions.slice(i * 5, i * 5 + 5).forEach((attraction, index) => {
+            const card = document.createElement('div');
+            card.classList.add('card');
+            card.innerHTML = `
                 <div class="card-image">
                     <img src="${attraction.image_url}" alt="${attraction.name}">
                 </div>
                 <div class="card-content">
                     <h3 class="card-title">${attraction.name}</h3>
-                    <p class="card-location">${attractions_country[i * 5 + index]}</p>
+                    <p class="card-location">${randomAttractions.attractions_country[i * 5 + index]}</p>
                     <div class="card-rating">
-                    <span class="rating-score">${attraction.score}</span>
-                    <span class="rating-stars">`;
-            for (let j = 0; j < Math.round(attraction.score); j++)
-                result += "&#9733;";
-            result +=`</span>
+                        <span class="rating-score">${attraction.score}</span>
+                        <span class="rating-stars">
+                            ${Array(Math.round(attraction.score)).fill('&#9733;').join('')}
+                        </span>
                     </div>
                 </div>
-            </div>`;
-            cell.innerHTML = result;
+            `;
+            cardContainer.appendChild(card);
         });
     }
+    const destinationsSection = document.getElementById('card-view');
+    destinationsSection.appendChild(cardContainer);
 }
 
 const randomAttractions = getRandomAttractions(data, 15);
-displayAttractions(randomAttractions.attractions, randomAttractions.attractions_country);
+displayAttractions(randomAttractions);
+

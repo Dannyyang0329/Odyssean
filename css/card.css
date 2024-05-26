@@ -7,6 +7,7 @@
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     transition: transform 0.2s, box-shadow 0.2s;
     overflow: hidden;
+    text-align: left;
 }
 .card:hover img {
     filter: brightness(110%);
@@ -65,4 +66,13 @@
 .rating-stars {
     font-size: 16px;
     color: #ffc107;
+}
+
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-gap: 50px;
+    max-width: 1300px;
+    margin: 0 auto;
 }
