@@ -47,11 +47,11 @@ table textarea {
     padding: 12px 6px;
     border: none;
     border-radius: 5px;
-    width: 80%;
+    width: 90%;
 }
 
 button {
-    width: 60%;
+    width: 50%;
     padding: 10px;
     margin: 24px 10px 20px 10px;
     background: #ff007f;

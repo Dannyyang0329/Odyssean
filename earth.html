@@ -1,65 +1,37 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            body {
-                margin: 0;
-                overflow: hidden;
-            }
-        </style>
+        <link rel="stylesheet" href="css/explore.css">
+        <link rel="stylesheet" href="css/hero_view.css">
+        <link rel="stylesheet" href="css/earth_styles.css">
         <script src="//unpkg.com/globe.gl"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     </head>
     
     <body>
-        <div id="globeViz" style="width: 100vw; height: 100vh;"></div>
+        <div id="page-container">
+            <!-- navigation bar -->
+            <nav>
+                <a href="index.html" class="logo"> Odyssean</a>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="explore.html">Explore</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
+                </ul>
+            </nav>
 
-        <script>
-            let globe, renderer, camera, scene;
+            
+            <div class="earth-container">
+                <div id="textOverlay">
+                    <h1>Unveil the wonders of the world, choose a nation to embark on an odyssey.</h1>
+                </div>
+                <div id="globeViz"></div>
+            </div>
+            <div>
+                <p id=content></p>
+            </div>
+        </div>
 
-            fetch('data/ne_110m_admin_0_countries.geojson').then((res) => res.json()).then((countries) => {
-                globe = Globe()
-                .globeImageUrl('//unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
-                .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
-                .polygonsData(countries.features)
-                .polygonCapColor(() => 'rgba(200, 0, 0, 0.0)')
-                .polygonSideColor(() => 'rgba(0, 100, 0, 0.15)')
-                .polygonStrokeColor(() => 'skyblue')
-                .polygonLabel(({ properties: d }) => `<br><br><b>${d.ADMIN}</b>`)
-                .polygonAltitude(() => '0.01')
-                // Add hover event
-                .onPolygonHover((hoverD) => globe
-                    .polygonAltitude(
-                        hoverD ? ({ properties: d }) => (d === hoverD.properties ? 0.06 : 0.01) : 0.01
-                    )
-                    .polygonCapColor(
-                        hoverD ? ({ properties: d }) => (d === hoverD.properties ? 'rgba(255, 165, 0, 0.8)' : 'rgba(200, 0, 0, 0.0)') : 'rgba(200, 0, 0, 0.0)'
-                    )
-                )
-                // Add click event
-                .onPolygonClick(({ properties: d }) =>
-                    alert(`${d.ADMIN} (${d.ISO_A2}) clicked!`)
-                )
-                (document.getElementById('globeViz'));
-
-
-                renderer = globe.renderer();
-                camera = globe.camera();
-                scene = globe.scene();
-
-                // Add rotation
-                globe.controls().autoRotate = true;
-                globe.controls().autoRotateSpeed = 0.25;
-
-                // Change the camera position when the window is resized
-                window.addEventListener('resize', onWindowResize, false);
-            });
-
-            function onWindowResize() {
-                camera.aspect = window.innerWidth / window.innerHeight;
-                camera.updateProjectionMatrix();
-                renderer.setSize(window.innerWidth, window.innerHeight);
-            }
-        </script>
+        <script src="javascript/earth_scripts.js"></script>
     </body>
 </html>

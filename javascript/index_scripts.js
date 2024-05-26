@@ -71,4 +71,3 @@ function displayAttractions(randomAttractions) {
 
 const randomAttractions = getRandomAttractions(data, 15);
 displayAttractions(randomAttractions);
-

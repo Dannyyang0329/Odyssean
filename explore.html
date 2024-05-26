@@ -1,137 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive World Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #ffe2e2;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        #map-container {
-            width: 80%;
-            height: 80%;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            border-radius: 15px;
-            overflow: hidden;
-        }
-        #map {
-            width: 100%;
-            height: 100%;
-        }
-        .leaflet-popup-content-wrapper {
-            border-radius: 10px;
-        }
-        .leaflet-popup-content {
-            font-size: 14px;
-            color: #333;
-        }
-        .explore-button {
-            display: inline-block;
-            margin-top: 10px;
-            background: linear-gradient(45deg, #ff6b6b, #ffca28);
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 25px;
-            cursor: pointer;
-            transition: background 0.3s ease-in-out;
-            text-align: center;
-            text-decoration: none;
-        }
-        .explore-button:hover {
-            background: linear-gradient(45deg, #ffca28, #ff6b6b);
-            transform: scale(1.1);
-        }
-        #search-bar {
-            position: absolute;
-            top: 10px;
-            left: 50%;
-            transform: translateX(-50%);
-            z-index: 1000;
-            width: 60%;
-            display: flex;
-        }
-        #search-input {
-            width: 80%;
-            padding: 10px;
-            border: 2px solid #ff6b6b;
-            border-radius: 25px 0 0 25px;
-            outline: none;
-            font-size: 16px;
-        }
-        #search-button {
-            width: 20%;
-            padding: 10px;
-            border: none;
-            background: #ff6b6b;
-            color: white;
-            border-radius: 0 25px 25px 0;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        #search-button:hover {
-            background: #ff4b4b;
-        }
-    </style>
-</head>
-<body>
-    <div id="map-container">
-        <div id="search-bar">
-            <input type="text" id="search-input" placeholder="Search for a country..." />
-            <button id="search-button">Search</button>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Interactive World Map</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+        <link rel="stylesheet" href="css/explore.css"/>
+    </head>
+    <body>
+        <div id="map-container">
+            <div id="search-bar">
+                <input type="text" id="search-input" placeholder="Search for a country..."/>
+                <button id="search-button">Search</button>
+            </div>
+            <div id="map"></div>
         </div>
-        <div id="map"></div>
-    </div>
 
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script>
-        // 初始化地圖
-        var map = L.map('map').setView([20, 0], 2);
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        <script>
+            // 初始化地圖
+            var map = L.map('map').setView([20, 0], 2);
+            if(localStorage.getItem("country")) {
+                document.getElementById("search-input").value = localStorage.getItem("country");
+                localStorage.removeItem("country");
+            }
 
-        // 加入地圖圖層
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+            // 加入地圖圖層
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
 
-        // 添加國家點擊事件（這裡以GeoJSON數據為例）
-        fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
-            .then(response => response.json())
-            .then(data => {
-                L.geoJSON(data, {
-                    onEachFeature: function (feature, layer) {
-                        layer.on('click', function () {
-                            var countryName = feature.properties.ADMIN;
-                            var popupContent = '<b>' + countryName + '</b><br><a href="#" class="explore-button">Explore</a>';
-                            layer.bindPopup(popupContent).openPopup();
-                        });
-                    },
-                    style: function (feature) {
-                        return {
-                            color: "#ff6b6b",
-                            weight: 1,
-                            fillColor: "#ffca28",
-                            fillOpacity: 0.6
-                        };
-                    }
-                }).addTo(map);
+            // 添加國家點擊事件（這裡以GeoJSON數據為例）
+            fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
+                .then(response => response.json())
+                .then(data => {
+                    L.geoJSON(data, {
+                        onEachFeature: function (feature, layer) {
+                            layer.on('click', function () {
+                                var countryName = feature.properties.ADMIN;
+                                var popupContent = '<b>' + countryName + '</b><br><a href="#" class="explore-button">Explore</a>';
+                                layer.bindPopup(popupContent).openPopup();
+                            });
+                        },
+                        style: function (feature) {
+                            return {
+                                color: "#ff6b6b",
+                                weight: 1,
+                                fillColor: "#ffca28",
+                                fillOpacity: 0.6
+                            };
+                        }
+                    }).addTo(map);
+                });
+
+            // 搜尋功能
+            document.getElementById('search-button').addEventListener('click', function() {
+                var query = document.getElementById('search-input').value;
+                geocoder.geocode(query, function(results) {
+                    var latLng = results[0].center;
+                    map.setView(latLng, 5);
+                });
             });
-
-        // 搜尋功能
-        document.getElementById('search-button').addEventListener('click', function() {
-            var query = document.getElementById('search-input').value;
-            geocoder.geocode(query, function(results) {
-                var latLng = results[0].center;
-                map.setView(latLng, 5);
-            });
-        });
-    </script>
-</body>
+        </script>
+    </body>
 </html>
