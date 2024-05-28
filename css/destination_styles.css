@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe2e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Destination info */
+#destination-info {
+    background: linear-gradient(135deg, #e0f7fa 0%, #80deea 100%);
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    margin: 40px auto;
+    width: 900px;
+    padding: 40px;
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  #destination-info::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    pointer-events: none;
+  }
+  
+  #destination-info h1 {
+    font-size: 2.5em;
+    color: #00796b;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .image-content {
+    flex: 0 0 150px; /* 控制圖片容器的寬度 */
+    text-align: center;
+  }
+  
+  #destination-image {
+    max-width: 100%;
+    height: auto;
+    border: 4px solid #ddd;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  #destination-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .destination-info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .text-content {
+    flex: 1;
+    line-height: 1.6;
+  }
+  
+  #country-description {
+    font-size: 1.2em;
+    color: #004d40;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+  .country-details {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.1em;
+    color: #004d40;
+  }
+  
+  .country-details li {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    position: relative;
+  }
+  
+  .country-details li::before {
+    content: '✔';
+    color: #00796b;
+    position: absolute;
+    left: 0;
+    font-size: 1.2em;
+    line-height: 1;
+  }

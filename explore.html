@@ -3,64 +3,54 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Interactive World Map</title>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
-        <link rel="stylesheet" href="css/explore.css"/>
+        <title>Odyssean - Explore</title>
+        <script src="data/attractions.js"></script>
+        <link rel="stylesheet" href="css/hero_view.css"/>
+        <link rel="stylesheet" href="css/card.css"/>
+        <link rel="stylesheet" href="css/explore_styles.css"/>
+        <script src="javascript/neighbor_carousel.js"></script>
     </head>
     <body>
-        <div id="map-container">
-            <div id="search-bar">
-                <input type="text" id="search-input" placeholder="Search for a country..."/>
-                <button id="search-button">Search</button>
+        <div id="page-container">
+            <nav>
+                <a href="index.html" class="logo"> Odyssean</a>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="earth.html">Explore</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
+                </ul>
+            </nav>
+            
+            <header id="main-country-section">
+                <div id="country-info">
+                    <div class="header-container">
+                        <h1 id="country-name"></h1>
+                        <div class="image-content">
+                            <img id="country-flag" alt="Country Flag">
+                        </div>
+                    </div>
+                    <div class="country-info-container">
+                        <div class="text-content">
+                            <p id="country-description"></p>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <section id="popular-destinations" class="popular-destinations">
+                <h2 id="popular-destinations-title">Popular Destinations in</h2>
+                <div id="main-card-view"></div>
+            </section>
+
+            <div id="neighbor-country-wrapper">
+                <h2 id="neighbor-country-title">Neighbor Countries</h2>
+                <div id="neighbor-country-container"></div>
             </div>
-            <div id="map"></div>
+
+            <footer>
+                <p>&copy; 2024 Odyssean. All rights reserved.</p>
+            </footer>
         </div>
-
-        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-        <script>
-            // 初始化地圖
-            var map = L.map('map').setView([20, 0], 2);
-            if(localStorage.getItem("country")) {
-                document.getElementById("search-input").value = localStorage.getItem("country");
-                localStorage.removeItem("country");
-            }
-
-            // 加入地圖圖層
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            }).addTo(map);
-
-            // 添加國家點擊事件（這裡以GeoJSON數據為例）
-            fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
-                .then(response => response.json())
-                .then(data => {
-                    L.geoJSON(data, {
-                        onEachFeature: function (feature, layer) {
-                            layer.on('click', function () {
-                                var countryName = feature.properties.ADMIN;
-                                var popupContent = '<b>' + countryName + '</b><br><a href="#" class="explore-button">Explore</a>';
-                                layer.bindPopup(popupContent).openPopup();
-                            });
-                        },
-                        style: function (feature) {
-                            return {
-                                color: "#ff6b6b",
-                                weight: 1,
-                                fillColor: "#ffca28",
-                                fillOpacity: 0.6
-                            };
-                        }
-                    }).addTo(map);
-                });
-
-            // 搜尋功能
-            document.getElementById('search-button').addEventListener('click', function() {
-                var query = document.getElementById('search-input').value;
-                geocoder.geocode(query, function(results) {
-                    var latLng = results[0].center;
-                    map.setView(latLng, 5);
-                });
-            });
-        </script>
+        <script src="javascript/explore_scripts.js"></script>
     </body>
 </html>

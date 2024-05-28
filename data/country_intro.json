@@ -1,0 +1,950 @@
+{
+    "Afghanistan": {
+        "intro_text": "Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central Asia and South Asia.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-1-scaled.jpg"
+    },
+    "Albania": {
+        "intro_text": "Albania, on Southeastern Europe\u2019s Balkan Peninsula, is a small country with Adriatic and Ionian coastlines and an interior crossed by the Albanian Alps. The country has many castles and archaeological sites. Capital Tirana centers on sprawling Skanderbeg Square, site of the National History Museum, with exhibits spanning antiquity to post-communism, and frescoed Et\u2019hem Bey Mosque. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/albania-albanian-flag-png-square-large.png"
+    },
+    "Algeria": {
+        "intro_text": "Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-3-scaled.jpg"
+    },
+    "American Samoa": {
+        "intro_text": "American Samoa is a U.S. territory covering 7 South Pacific islands and atolls. Tutuila, the largest island, is home to the capital Pago Pago, whose natural harbor is framed by volcanic peaks including 1,716-ft.-high Rainmaker Mountain. Divided between the islands Tutuila, Ofu and Ta\u2018\u016b, the National Park of American Samoa highlights the territory's tropical scenery with rainforests, beaches and reefs. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/samoa-flag-png-large.png"
+    },
+    "Andorra": {
+        "intro_text": "Andorra is a tiny, independent principality situated between France and Spain in the Pyrenees mountains. It\u2019s known for its ski resorts and a tax-haven status that encourages duty-free shopping. Capital Andorra la Vella has boutiques and jewelers on Meritxell Avenue and several shopping centers. The old quarter, Barri Antic, houses Romanesque Santa Coloma Church, with a circular bell tower. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-4-scaled.jpg"
+    },
+    "Angola": {
+        "intro_text": "Angola is a Southern African nation whose varied terrain encompasses tropical Atlantic beaches, a labyrinthine system of rivers and Sub-Saharan desert that extends across the border into Namibia. The country's colonial history is reflected in its Portuguese-influenced cuisine and its landmarks including Fortaleza de S\u00e3o Miguel, a fortress built by the Portuguese in 1576 to defend the capital, Luanda. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-5-scaled.jpg"
+    },
+    "Anguilla": {
+        "intro_text": "Anguilla, a British Overseas Territory in the Eastern Caribbean, comprises a small main island and several offshore islets. Its beaches range from long sandy stretches like Rendezvous Bay, overlooking neighboring Saint Martin island, to secluded coves reached by boat, such as at Little Bay. Protected areas include Big Spring Cave, known for its prehistoric petroglyphs, and East End Pond, a wildlife conservation site. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/800px-Flag_of_Anguilla.svg.png"
+    },
+    "Antarctica": {
+        "intro_text": "Antarctica, the southernmost continent and site of the South Pole, is a virtually uninhabited, ice-covered landmass. Most cruises to the continent visit the Antarctic Peninsula, which stretches toward South America. It\u2019s known for the Lemaire Channel and Paradise Harbor, striking, iceberg-flanked passageways, and Port Lockroy, a former British research station turned museum. The peninsula\u2019s isolated terrain also shelters rich wildlife, including many penguins. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/640px-Antarctica_%28orthographic_projection%29.svg.png"
+    },
+    "Antigua and Barbuda": {
+        "intro_text": "Antigua and Barbuda is an independent Commonwealth country comprising its 2 namesake islands and several smaller ones. Positioned where the Atlantic and Caribbean meet, it's known for reef-lined beaches, rainforests and resorts. Its English Harbour is a yachting hub and the site of historic Nelson's Dockyard. In the capital, St. John's, the national museum displays indigenous and colonial artefacts. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-6-scaled.jpg"
+    },
+    "Argentina": {
+        "intro_text": "Argentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km\u00b2, making it the second-largest country in South America after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the world.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-7-scaled.jpg"
+    },
+    "Armenia": {
+        "intro_text": "Armenia is a nation, and former Soviet republic, in the mountainous Caucasus region between Asia and Europe. Among the earliest Christian civilizations, it\u2019s defined by religious sites including the Greco-Roman Temple of Garni and 4th-century Etchmiadzin Cathedral, headquarters of the Armenian Church. Khor Virap Monastery is a pilgrimage site near Mount Ararat, a dormant volcano just across the border in Turkey. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-8-scaled.jpg"
+    },
+    "Aruba": {
+        "intro_text": "Aruba, officially the Country of Aruba, is a constituent country within the Kingdom of the Netherlands, situated in the south of the Caribbean Sea. Aruba is located approximately 29 kilometres north of the Venezuelan peninsula of Paraguan\u00e1 and 80 kilometres northwest of Cura\u00e7ao.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/1200px-Flag_of_Aruba.svg.png"
+    },
+    "Australia": {
+        "intro_text": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. Australia is the largest country by area in Oceania and the world's sixth-largest country.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-9-scaled.jpg"
+    },
+    "Austria": {
+        "intro_text": "Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine federal states, one of which is the capital, Vienna, the most populous city and federal state.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-10-scaled.jpg"
+    },
+    "Azerbaijan": {
+        "intro_text": "Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe. Its capital, Baku, is famed for its medieval walled Inner City. Within the Inner City lies the Palace of the Shirvanshahs, a royal retreat dating to the 15th century, and the centuries-old stone Maiden Tower, which dominates the city skyline. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-11-scaled.jpg"
+    },
+    "Bahamas": {
+        "intro_text": "The Bahamas, officially the Commonwealth of The Bahamas, is a country in North America. It is an island country within the Lucayan Archipelago of the West Indies in the Atlantic Ocean. It contains 97% of the Lucayan Archipelago's land area and 88% of its population.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-12-scaled.jpg"
+    },
+    "Bahrain": {
+        "intro_text": "Bahrain, officially the Kingdom of Bahrain, is an island country in West Asia. It is situated on the Persian Gulf, and comprises a small archipelago made up of 50 natural islands and an additional 33 artificial islands, centered on Bahrain Island which makes up around 83 percent of the country's landmass.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-13-scaled.jpg"
+    },
+    "Bangladesh": {
+        "intro_text": "Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-14-scaled.jpg"
+    },
+    "Barbados": {
+        "intro_text": "Barbados is an eastern Caribbean island and an independent British Commonwealth nation. Bridgetown, the capital, is a cruise-ship port with colonial buildings and Nidhe Israel, a synagogue founded in 1654. Around the island are beaches, botanical gardens, the Harrison\u2019s Cave formation, and 17th-century plantation houses like St. Nicholas Abbey. Local traditions include afternoon tea and cricket, the national sport. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-15-scaled.jpg"
+    },
+    "Belarus": {
+        "intro_text": "Belarus, officially the Republic of Belarus, is a landlocked country in Eastern Europe. It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-16-scaled.jpg"
+    },
+    "Belgium": {
+        "intro_text": "Belgium, a country in Western Europe, is known for medieval towns, Renaissance architecture and as headquarters of the European Union and NATO. The country has distinctive regions including Dutch-speaking Flanders to the north, French-speaking Wallonia to the south and a German-speaking community to the east. The bilingual capital, Brussels, has ornate guildhalls at Grand-Place and elegant art-nouveau buildings. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-18-scaled.jpg"
+    },
+    "Belize": {
+        "intro_text": "Belize is a nation on the eastern coast of Central America, with Caribbean Sea shorelines to the east and dense jungle to the west. Offshore, the massive Belize Barrier Reef, dotted with hundreds of low-lying islands called cayes, hosts rich marine life. Belize\u2019s jungle areas are home to Mayan ruins like Caracol, renowned for its towering pyramid; lagoon-side Lamanai; and Altun Ha, just outside Belize City. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-19-scaled.jpg"
+    },
+    "Benin": {
+        "intro_text": "Benin, a French-speaking West African nation, is a birthplace of the vodun (or \u201cvoodoo\u201d) religion and home to the former Dahomey Kingdom from circa 1600\u20131900. In Abomey, Dahomey's former capital, the Historical Museum occupies two royal palaces with bas-reliefs recounting the kingdom\u2019s past and a throne mounted on human skulls. To the north, Pendjari National Park offers safaris with elephants, hippos and lions. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-20-scaled.jpg"
+    },
+    "Bermuda": {
+        "intro_text": "Bermuda is a British island territory in the North Atlantic Ocean known for its pink-sand beaches such as Elbow Beach and Horseshoe Bay. Its massive Royal Naval Dockyard complex combines modern attractions like the interactive Dolphin Quest with maritime history at the National Museum of Bermuda. The island has a distinctive blend of British and American culture, which can be found in the capital, Hamilton. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/800px-Flag_of_Bermuda.svg.png"
+    },
+    "Bhutan": {
+        "intro_text": "Bhutan, a Buddhist kingdom on the Himalayas\u2019 eastern edge, is known for its monasteries, fortresses (or dzongs) and dramatic landscapes that range from subtropical plains to steep mountains and valleys. In the High Himalayas, peaks such as 7,326m Jomolhari are popular trekking destinations. Paro Taktsang monastery (also known as Tiger\u2019s Nest) clings to cliffs above the forested Paro Valley. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-21-scaled.jpg"
+    },
+    "Bolivia": {
+        "intro_text": "Bolivia is a country in central South America, with a varied terrain spanning Andes Mountains, the Atacama Desert and Amazon Basin rainforest. At more than 3,500m, its administrative capital, La Paz, sits on the Andes\u2019 Altiplano plateau with snow-capped Mt. Illimani in the background. Nearby is glass-smooth Lake Titicaca, the continent\u2019s largest lake, straddling the border with Peru. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-scaled.jpg"
+    },
+    "Bosnia and Herzegovina": {
+        "intro_text": "Bosnia and Herzegovina is a country on the Balkan Peninsula in southeastern Europe. Its countryside is home to medieval villages, rivers and lakes, plus the craggy Dinaric Alps. National capital Sarajevo has a well preserved old quarter, Ba\u0161\u010dar\u0161ija, with landmarks like 16th-century Gazi Husrev-bey Mosque. Ottoman-era Latin Bridge is the site of the assassination of Archduke Franz Ferdinand, which ignited World War I. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-22-scaled.jpg"
+    },
+    "Botswana": {
+        "intro_text": "Botswana, a landlocked country in Southern Africa, has a landscape defined by the Kalahari Desert and the Okavango Delta, which becomes a lush animal habitat during the seasonal floods. The massive Central Kalahari Game Reserve, with its fossilized river valleys and undulating grasslands, is home to numerous animals including giraffes, cheetahs, hyenas and wild dogs. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-23-scaled.jpg"
+    },
+    "Brazil": {
+        "intro_text": "Brazil, officially the Federative Republic of Brazil, is the largest and easternmost country in South America and in Latin America. Brazil is the world's fifth-largest country by area and the seventh most populous. Its capital is Bras\u00edlia, and its most populous city is S\u00e3o Paulo.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"
+    },
+    "British Virgin Islands": {
+        "intro_text": "The British Virgin Islands, part of a volcanic archipelago in the Caribbean, is a British overseas territory. Comprising 4 main islands and many smaller ones, it's known for its reef-lined beaches and as a yachting destination. The largest island, Tortola, is home to the capital, Road Town, and rainforest-filled Sage Mountain National Park. On Virgin Gorda island is the Baths, a labyrinth of beachside boulders. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg"
+    },
+    "Brunei": {
+        "intro_text": "Brunei is a tiny nation on the island of Borneo, in 2 distinct sections surrounded by Malaysia and the South China Sea. It's known for its beaches and biodiverse rainforest, much of it protected within reserves. The capital, Bandar Seri Begawan, is home to the opulent Jame\u2019Asr Hassanil Bolkiah mosque and its 29 golden domes. The capital's massive Istana Nurul Iman palace is the residence of Brunei\u2019s ruling sultan. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/brunei-flag-png-large.png"
+    },
+    "Bulgaria": {
+        "intro_text": "Bulgaria is a Balkan nation with diverse terrain encompassing Black Sea coastline, a mountainous interior and rivers, including the Danube. A cultural melting pot with Greek, Slavic, Ottoman, and Persian influences, it has a rich heritage of traditional dance, music, costumes, and crafts. At the foot of domed Vitosha mountain is its capital city, Sofia, dating to the 5th century B.C. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/bulgaria-flag-png-large.png"
+    },
+    "Burkina Faso": {
+        "intro_text": "Burkina Faso is a landlocked country in West Africa. It covers an area of 274,223 km\u00b2, bordered by Mali to the northwest, Niger to the northeast, Benin to the southeast, Togo and Ghana to the south, and Ivory Coast to the southwest. As of 2021, the country had an estimated population of 20,321,378.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/burkina-faso-flag-png-large.png"
+    },
+    "Burundi": {
+        "intro_text": "Burundi, officially the Republic of Burundi, is a landlocked country in the Great Rift Valley at the junction between the African Great Lakes region and East Africa.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/burundi-flag-png-large.png"
+    },
+    "Cambodia": {
+        "intro_text": "Cambodia is a Southeast Asian nation whose landscape spans low-lying plains, the Mekong Delta, mountains and Gulf of Thailand coastline. Phnom Penh, its capital, is home to the art deco Central Market, glittering Royal Palace and the National Museum's historical and archaeological exhibits. In the country's northwest are the ruins of Angkor Wat, a massive stone temple complex built during the Khmer Empire. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/cambodia-flag-png-large.png"
+    },
+    "Cameroon": {
+        "intro_text": "Cameroon, on the Gulf of Guinea, is a Central African country of varied terrain and wildlife. Its inland capital, Yaound\u00e9, and its biggest city, the seaport Douala, are transit points to ecotourism sites as well as beach resorts like Kribi \u2013 near the Chutes de la Lob\u00e9 waterfalls, which plunge directly into the sea \u2013 and Limbe, where the Limbe Wildlife Centre houses rescued primates. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/cameroon-flag-png-large.png"
+    },
+    "Canada": {
+        "intro_text": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png"
+    },
+    "Cape Verde": {
+        "intro_text": "Cape Verde or Cabo Verde, officially the Republic of Cabo Verde, is an archipelago and island country of West Africa in the central Atlantic Ocean, consisting of ten volcanic islands with a combined land area of about 4,033 square kilometres.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/cape-verde-flag-png-large.png"
+    },
+    "Cayman Islands": {
+        "intro_text": "The Cayman Islands, a British Overseas Territory, encompasses 3 islands in the western Caribbean Sea. Grand Cayman, the largest island, is known for its beach resorts and varied scuba diving and snorkelling sites. Cayman Brac is a popular launch point for deep-sea fishing excursions. Little Cayman, the smallest island, is home to diverse wildlife, from endangered iguanas to seabirds such as red-footed boobies. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg"
+    },
+    "Central African Republic": {
+        "intro_text": "The Central African Republic, formerly known as Ubangi-Shari, is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the east, the Democratic Republic of the Congo to the south, the Republic of the Congo to the southwest, and Cameroon to the west.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/central-african-republic-flag-png-large.png"
+    },
+    "Chad": {
+        "intro_text": "Chad, officially the Republic of Chad, is an independent state at the crossroads of North and Central Africa. The landlocked country is bordered by Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon to the southwest, Nigeria to the southwest, and Niger to the west.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/chad-flag-png-large.png"
+    },
+    "Chile": {
+        "intro_text": "Chile is a long, narrow country stretching along South America's western edge, with more than 6,000km of Pacific Ocean coastline. Santiago, its capital, sits in a valley surrounded by the Andes and Chilean Coast Range mountains. The city's palm-lined Plaza de Armas contains the neoclassical cathedral and the National History Museum. The massive Parque Metropolitano offers swimming pools, a botanical garden and zoo. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/chile-flag-png-large.png"
+    },
+    "China": {
+        "intro_text": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.4 billion, it is the world's second-most populous country. China spans the equivalent of five time zones and borders fourteen countries by land.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png"
+    },
+    "Christmas Island": {
+        "intro_text": "Christmas Island is an Australian territory in the Indian Ocean, lying south of Java, Indonesia. A national park covers most of the 135-sq-km island, offering rainforest hikes to wetlands and waterfalls like Hugh's Dale. Native wildlife includes nesting seabirds and the red crab, a land species known for its late-fall migration to the sea. The island is ringed with snorkelling and diving reefs. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Map_of_Christmas_Island_1976.jpg/390px-Map_of_Christmas_Island_1976.jpg"
+    },
+    "Cocos Islands": {
+        "intro_text": "The Cocos (Keeling) Islands are a remote territory of Australia in the Indian Ocean. Its 2 coral atolls comprise 27 tiny islands with white\u00ad-sand beaches, palm trees and lagoons. West Island has an airport and a visitor centre. Across the lagoon, the Home Island Museum explores the culture of the resident Cocos Malay people. To the north, the isolated Pulu Keeling National Park has bird colonies and a shipwreck. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg"
+    },
+    "Colombia": {
+        "intro_text": "Colombia, officially the Republic of Colombia, is a country primarily located in South America with insular regions in North America.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png"
+    },
+    "Comoros": {
+        "intro_text": "The Comoros is a volcanic archipelago off Africa\u2019s east coast, in the warm Indian Ocean waters of the Mozambique Channel. The nation state\u2019s largest island, Grande Comore (Ngazidja) is ringed by beaches and old lava from active Mt. Karthala volcano. Around the port and medina in the capital, Moroni, are carved doors and a white colonnaded mosque, the Ancienne Mosqu\u00e9e du Vendredi, recalling the islands\u2019 Arab heritage. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/comoros-flag-png-large.png"
+    },
+    "Cook Islands": {
+        "intro_text": "The Cook Islands is a nation in the South Pacific, with political links to New Zealand. Its 15 islands are scattered over a vast area. The largest island, Rarotonga, is home to rugged mountains and Avarua, the national capital. To the north, Aitutaki Island has a vast lagoon encircled by coral reefs and small, sandy islets. The country is renowned for its many snorkeling and scuba-diving sites. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/1200px-Flag_of_the_Cook_Islands.svg.png"
+    },
+    "Costa Rica": {
+        "intro_text": "Costa Rica is a rugged, rainforested Central American country with coastlines on the Caribbean and Pacific. Though its capital, San Jose, is home to cultural institutions like the Pre-Columbian Gold Museum, Costa Rica is known for its beaches, volcanoes, and biodiversity. Roughly a quarter of its area is made up of protected jungle, teeming with wildlife including spider monkeys and quetzal birds. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/costa-rica-flag-png-large.png"
+    },
+    "Croatia": {
+        "intro_text": "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/croatia-flag-png-large.png"
+    },
+    "Cuba": {
+        "intro_text": "Cuba, officially the Republic of Cuba, is an island country, comprising the island of Cuba, Isla de la Juventud, archipelagos, 4,195 islands and cays surrounding the main island. Cuba is located where the northern Caribbean Sea, Gulf of Mexico, and Atlantic Ocean meet.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/cuba-flag-png-large.png"
+    },
+    "Curacao": {
+        "intro_text": "Cura\u00e7ao, a Dutch Caribbean island, is known for its beaches tucked into coves and its expansive coral reefs rich with marine life. The capital, Willemstad, has pastel-colored colonial architecture, floating Queen Emma Bridge and the sand-floored, 17th-century Mikv\u00e9 Israel-Emanuel Synagogue. It\u2019s also a gateway to western beaches like Blue Bay, a popular diving site. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/curacao-flag-jpg-xl.jpg"
+    },
+    "Cyprus": {
+        "intro_text": "Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, north of the Sinai Peninsula, south of the Anatolian Peninsula, and west of the Levant. It is geographically a part of West Asia, but its cultural ties and geopolitics are overwhelmingly Southeast European.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/cyprus-flag-png-large.png"
+    },
+    "Czech Republic": {
+        "intro_text": "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/czech-republic-flag-png-large.png"
+    },
+    "Democratic Republic of the Congo": {
+        "intro_text": "The Democratic Republic of the Congo, also known as Congo-Kinshasa, Congo-Zaire, Congo DR, DR Congo, DRC, or simply either Congo or the Congo, is a country in Central Africa. By land area, the DRC is the second-largest country in Africa and the 11th-largest in the world.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1200px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+    },
+    "Denmark": {
+        "intro_text": "Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands. It's linked to nearby Sweden via the \u00d6resund bridge. Copenhagen, its capital, is home to royal palaces and colorful Nyhavn harbor, plus the Tivoli amusement park and the iconic \u201cLittle Mermaid\u201d statue. Odense is writer Hans Christian Andersen\u2019s hometown, with a medieval core of cobbled streets and half-timbered houses. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/denmark-flag-png-large.png"
+    },
+    "Djibouti": {
+        "intro_text": "Djibouti, on the Horn of Africa, is a mostly French- and Arabic-speaking country of dry shrublands, volcanic formations and Gulf of Aden beaches. It's home to one of the saltiest bodies of water in the world, the low-lying Lake Assal, in the Danakil Desert. The nomadic Afar people have settlements along Lake Abbe, a body of saltwater featuring chimneylike mineral formations. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/djibouti-flag-png-large.png"
+    },
+    "Dominica": {
+        "intro_text": "Dominica is a mountainous Caribbean island nation with natural hot springs and tropical rainforests. Morne Trois Pitons National Park is home to the volcanically heated, steam-covered Boiling Lake. The park also encompasses sulphur vents, the 65m-tall Trafalgar Falls and narrow Titou Gorge. To the west is Dominica\u2019s capital, Roseau, with colorful timber houses and botanic gardens. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/dominica-flag-png-large.png"
+    },
+    "Dominican Republic": {
+        "intro_text": "The Dominican Republic is a Caribbean nation that shares the island of Hispaniola with Haiti to the west. It's known for its beaches, resorts and golfing. Its terrain comprises rainforest, savannah and highlands, including Pico Duarte, the Caribbean\u2019s tallest mountain. Capital city Santo Domingo has Spanish landmarks like the Gothic Catedral Primada de America dating back 5 centuries in its Zona Colonial district. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/dominican-republic-flag-png-large.png"
+    },
+    "East Timor": {
+        "intro_text": "Timor-Leste, or East Timor, a Southeast Asian nation occupying half the island of Timor, is ringed by coral reefs teeming with marine life. Landmarks in the capital, Dili, speak to the country's struggles for independence from Portugal in 1975 and then Indonesia in 2002. The iconic 27m-tall Cristo Rei de Dili statue sits on a hilltop high over the city, with sweeping views of the surrounding bay. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/east-timor-flag-png-large.png"
+    },
+    "Ecuador": {
+        "intro_text": "Ecuador is a country straddling the equator on South America\u2019s west coast. Its diverse landscape encompasses Amazon jungle, Andean highlands and the wildlife-rich Gal\u00e1pagos Islands. In the Andean foothills at an elevation of 2,850m, Quito, the capital, is known for its largely intact Spanish colonial center, with decorated 16th- and 17th-century palaces and religious sites, like the ornate Compa\u00f1\u00eda de Jes\u00fas Church. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/ecuador-flag-png-large.png"
+    },
+    "Egypt": {
+        "intro_text": "Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs. Millennia-old monuments sit along the fertile Nile River Valley, including Giza's colossal Pyramids and Great Sphinx as well as Luxor's hieroglyph-lined Karnak Temple and Valley of the Kings tombs. The capital, Cairo, is home to Ottoman landmarks like Muhammad Ali Mosque and the Egyptian Museum, a trove of antiquities. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/egypt-flag-png-large.png"
+    },
+    "El Salvador": {
+        "intro_text": "El Salvador, officially the Republic of El Salvador, is a country in Central America. It is bordered on the northeast by Honduras, on the northwest by Guatemala, and on the south by the Pacific Ocean. El Salvador's capital and largest city is San Salvador.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png"
+    },
+    "Equatorial Guinea": {
+        "intro_text": "Equatorial Guinea is a Central African country comprising the Rio Muni mainland and 5 volcanic offshore islands. Capital Malabo, on Bioko Island, has Spanish colonial architecture and is a hub for the country\u2019s prosperous oil industry. Its Arena Blanca beach draws dry-season butterflies. The tropical forest of the mainland\u2019s Monte Alen National Park is home to gorillas, chimpanzees and elephants. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/equatorial-guinea-flag-png-large.png"
+    },
+    "Eritrea": {
+        "intro_text": "Eritrea is a northeast African country on the Red Sea coast. It shares borders with Ethiopia, Sudan and Djibouti. The capital city, Asmara, is known for its Italian colonial buildings, like St. Joseph's Cathedral, as well as art deco structures. Italian, Egyptian and Turkish architecture in Massawa reflect the port city's colorful history. Notable buildings here include St. Mariam Cathedral and the Imperial Palace. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-large.jpg"
+    },
+    "Estonia": {
+        "intro_text": "Estonia, a country in Northern Europe, borders the Baltic Sea and Gulf of Finland. Including more than 1,500 islands, its diverse terrain spans rocky beaches, old-growth forest and many lakes. Formerly part of the Soviet Union, it's dotted with castles, churches and hilltop fortresses. The capital, Tallinn, is known for its preserved Old Town, museums and the 314m-high Tallinn TV Tower, which has an observation deck. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/estonia-flag-png-large.png"
+    },
+    "Ethiopia": {
+        "intro_text": "Ethiopia, in the Horn of Africa, is a rugged, landlocked country split by the Great Rift Valley. With archaeological finds dating back more than 3 million years, it\u2019s a place of ancient culture. Among its important sites are Lalibela with its rock-cut Christian churches from the 12th\u201313th centuries. Aksum is the ruins of an ancient city with obelisks, tombs, castles and Our Lady Mary of Zion church. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/ethiopia-flag-png-large.png"
+    },
+    "Falkland Islands": {
+        "intro_text": "The Falkland Islands (Islas Malvinas) are a remote South Atlantic archipelago. With rugged terrain and cliff-lined coasts, its hundreds of islands and islets are home to sheep farms and abundant birdlife. The capital, Stanley, sits on East Falkland, the largest island. The town's Falkland Islands Museum has themed galleries devoted to maritime exploration, natural history, the 1982 Falklands War and other subjects. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/1200px-Flag_of_the_Falkland_Islands.svg.png"
+    },
+    "Faroe Islands": {
+        "intro_text": "The Faroe Islands is a self-governing archipelago, part of the Kingdom of Denmark. It comprises 18 rocky, volcanic islands between Iceland and Norway in the North Atlantic Ocean, connected by road tunnels, ferries, causeways and bridges. Hikers and bird-watchers are drawn to the islands\u2019 mountains, valleys and grassy heathland, and steep coastal cliffs that harbor thousands of seabirds. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1200px-Flag_of_the_Faroe_Islands.svg.png"
+    },
+    "Fiji": {
+        "intro_text": "Fiji, a country in the South Pacific, is an archipelago of more than 300 islands. It's famed for rugged landscapes, palm-lined beaches and coral reefs with clear lagoons. Its major islands, Viti Levu and Vanua Levu, contain most of the population. Viti Levu is home to the capital, Suva, a port city with British colonial architecture. The Fiji Museum, in the Victorian-era Thurston Gardens, has ethnographic exhibits. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/fiji-flag-png-large.png"
+    },
+    "Finland": {
+        "intro_text": "Finland is a Northern European nation bordering Sweden, Norway and Russia. Its capital, Helsinki, occupies a peninsula and surrounding islands in the Baltic Sea. Helsinki is home to the 18th-century sea fortress Suomenlinna, the fashionable Design District and diverse museums. The Northern Lights can be seen from the country's Arctic Lapland province, a vast wilderness with national parks and ski resorts. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/finland-flag-png-large.png"
+    },
+    "France": {
+        "intro_text": "France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux\u2019s ancient cave drawings, Lyon\u2019s Roman theater and the vast Palace of Versailles attest to its rich history. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png"
+    },
+    "French Polynesia": {
+        "intro_text": "French Polynesia, an overseas collectivity of France, comprises more than 100 islands in the South Pacific, stretching for more than 2,000km. Divided into the Austral, Gambier, Marquesas, Society and Tuamotu archipelagos, they're known for their coral-fringed lagoons and over-the-water bungalow hotels. Island features include white- and black-sand beaches, mountains, rugged backcountry and towering waterfalls. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png"
+    },
+    "Gabon": {
+        "intro_text": "Gabon, a country along the Atlantic coast of Central Africa, has significant areas of protected parkland. The forested coastal terrain of its famed Loango National Park shelters a diversity of wildlife, from gorillas and hippos to whales. Lop\u00e9 National Park consists of mostly rainforest. Akanda National Park is known for its mangroves and tidal beaches. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/gabon-flag-png-large.png"
+    },
+    "Gambia": {
+        "intro_text": "The Gambia is a small West African country, bounded by Senegal, with a narrow Atlantic coastline. It's known for its diverse ecosystems around the central Gambia River. Abundant wildlife in its Kiang West National Park and Bao Bolong Wetland Reserve includes monkeys, leopards, hippos, hyenas and rare birds. The capital, Banjul, and nearby Serrekunda offer access to beaches. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/gambia-flag-png-large.png"
+    },
+    "Georgia": {
+        "intro_text": "Georgia, a country at the intersection of Europe and Asia, is a former Soviet republic that\u2019s home to Caucasus Mountain villages and Black Sea beaches. It\u2019s famous for Vardzia, a sprawling cave monastery dating to the 12th century, and the ancient wine-growing region Kakheti. The capital, Tbilisi, is known for the diverse architecture and mazelike, cobblestone streets of its old town. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/georgia-flag-jpg-xl.jpg"
+    },
+    "Germany": {
+        "intro_text": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbr\u00e4uhaus. Frankfurt, with its skyscrapers, houses the European Central Bank. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png"
+    },
+    "Ghana": {
+        "intro_text": "Ghana, officially the Republic of Ghana, is a country in West Africa. It abuts the Gulf of Guinea and the Atlantic Ocean to the south, sharing a border with Ivory Coast in the west, Burkina Faso in the north, and Togo in the east.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/ghana-flag-png-large.png"
+    },
+    "Gibraltar": {
+        "intro_text": "Gibraltar is a British Overseas Territory and headland, on Spain's south coast. It\u2019s dominated by the Rock of Gibraltar, a 426m-high limestone ridge. First settled by the Moors in the Middle Ages and later ruled by Spain, the outpost was ceded to the British in 1713. Layers of fortifications include the remains of a 14th-century Moorish Castle and the 18th century Great Siege Tunnels, which were expanded in WWII. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/1200px-Flag_of_Gibraltar.svg.png"
+    },
+    "Greece": {
+        "intro_text": "Greece is a country in southeastern Europe with thousands of islands throughout the Aegean and Ionian seas. Influential in ancient times, it's often called the cradle of Western civilization. Athens, its capital, retains landmarks including the 5th-century B.C. Acropolis citadel with the Parthenon temple. Greece is also known for its beaches, from the black sands of Santorini to the party resorts of Mykonos. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/greece-flag-png-large.png"
+    },
+    "Greenland": {
+        "intro_text": "Greenland is a North American autonomous territory of the Kingdom of Denmark. It is the larger of two autonomous territories within the Kingdom, the other being the Faroe Islands; the citizens of both territories are full citizens of Denmark.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/greenland-flag-jpg-xl.jpg"
+    },
+    "Grenada": {
+        "intro_text": "Grenada is a Caribbean country comprising a main island, also called Grenada, and smaller surrounding islands. Dubbed the \u201cSpice Isle,\u201d the hilly main island is home to numerous nutmeg plantations. It\u2019s also the site of the capital, St. George\u2019s, whose colourful homes, Georgian buildings and early-18th-century Fort George overlook narrow Carenage Harbour. To the south is Grand Anse Beach, with resorts and bars. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/grenada-flag-png-large.png"
+    },
+    "Guam": {
+        "intro_text": "Guam is a U.S. island territory in Micronesia, in the Western Pacific. It's distinguished by tropical beaches, Chamorro villages and ancient latte-stone pillars. Guam\u2019s WWII significance is on view at the War in the Pacific National Historical Park, whose sites include Asan Beach, a former battlefield. The island\u2019s Spanish colonial heritage is evident in Fort Nuestra Se\u00f1ora de la Soledad, atop a bluff in Umatac. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/guam-flag-jpg-xl.jpg"
+    },
+    "Guatemala": {
+        "intro_text": "Guatemala, a Central American country south of Mexico, is home to volcanoes, rainforests and ancient Mayan sites. The capital, Guatemala City, features the stately National Palace of Culture and the National Museum of Archaeology and Ethnology. Antigua, west of the capital, contains preserved Spanish colonial buildings. Lake Atitl\u00e1n, formed in a massive volcanic crater, is surrounded by coffee fields and villages. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/guatemala-flag-png-large.png"
+    },
+    "Guernsey": {
+        "intro_text": "The Bailiwick of Guernsey is a self-governing British Crown Dependency off the coast of Normandy, France, comprising several of the Channel Islands. It has a total land area of 78 square kilometres and an estimated total population of 67,334.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg"
+    },
+    "Guinea": {
+        "intro_text": "Guinea is a country in West Africa, bordered on the west by the Atlantic Ocean. It's known for the Mount Nimba Strict Nature Reserve, in the southeast. The reserve protects a forested mountain range rich in native plants and animals, including chimpanzees and the viviparous toad. On the coast, the capital city, Conakry, is home to the modern Grand Mosque and the National Museum, with its regional artifacts. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/guinea-flag-png-xl.png"
+    },
+    "Guinea-Bissau": {
+        "intro_text": "Guinea-Bissau is a tropical country on West Africa\u2019s Atlantic coast that\u2019s known for national parks and wildlife. The forested, sparsely populated Bijag\u00f3s archipelago is a protected biosphere reserve. Its main island, Bubaque, forms part of the Orango Islands National Park, a habitat for saltwater hippos. On the mainland, the capital, Bissau, is a port with Portuguese colonial buildings in its old city center. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/guinea-bissau-flag-png-large.png"
+    },
+    "Guyana": {
+        "intro_text": "Guyana, a country on South America\u2019s North Atlantic coast, is defined by its dense rainforest. English-speaking, with cricket and calypso music, it's culturally connected to the Caribbean region. Its capital, Georgetown, is known for British colonial architecture, including tall, painted-timber St. George\u2019s Anglican Cathedral. A large clock marks the facade of Stabroek Market, a source of local produce. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/guyana-flag-png-large.png"
+    },
+    "Haiti": {
+        "intro_text": "Haiti is a Caribbean country that shares the island of Hispaniola with the Dominican Republic to its east. Though it\u2019s still recovering from a 2010 earthquake, many of Haiti's landmarks dating to the early 19th century remain intact. These include Citadelle la Ferri\u00e8re, a mountaintop fortress, and the nearby ruins of Sans-Souci Palace, the baroque former royal home of King Henry I. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/haiti-flag-png-large.png"
+    },
+    "Honduras": {
+        "intro_text": "Honduras is a Central American country with Caribbean Sea coastlines to the north and the Pacific Ocean to the south. In the tropical rainforest near Guatemala, the ancient Mayan ceremonial site Cop\u00e1n has stone-carved hieroglyphics and stelae, tall stone monuments. In the Caribbean Sea are the Bay Islands, a diving destination that's part of the 1,000km-long Mesoamerican Barrier Reef. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/honduras-flag-png-large.png"
+    },
+    "Hong Kong": {
+        "intro_text": "Hong Kong is a special administrative region of the People's Republic of China. With 7.4 million residents of various nationalities in a 1,104-square-kilometre territory, Hong Kong is one of the most densely populated territories in the world.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/hongkong-flag-jpg-xl.jpg"
+    },
+    "Hungary": {
+        "intro_text": "Hungary is a landlocked country in Central Europe. Its capital, Budapest, is bisected by the Danube River. Its cityscape is studded with architectural landmarks from Buda\u2019s medieval Castle Hill and grand neoclassical buildings along Pest\u2019s Andr\u00e1ssy Avenue to the 19th-century Chain Bridge. Turkish and Roman influence on Hungarian culture includes the popularity of mineral spas, including at thermal Lake H\u00e9v\u00edz. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/hungary-flag-png-large.png"
+    },
+    "Iceland": {
+        "intro_text": "Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. Massive glaciers are protected in Vatnaj\u00f6kull and Sn\u00e6fellsj\u00f6kull national parks. Most of the population lives in the capital, Reykjavik, which runs on geothermal power and is home to the National and Saga museums, tracing Iceland\u2019s Viking history. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/iceland-flag-png-large.png"
+    },
+    "India": {
+        "intro_text": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country as of June 2023; and from the time of its independence in 1947, the world's most populous democracy.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png"
+    },
+    "Indonesia": {
+        "intro_text": "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania between the Indian and Pacific oceans. It consists of over 17,000 islands, including Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/indonesia-flag-png-large.png"
+    },
+    "Iran": {
+        "intro_text": "Iran, officially the Islamic Republic of Iran, also known by its Western-given name Persia, is a country in West Asia.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/iran-flag-png-large.png"
+    },
+    "Iraq": {
+        "intro_text": "Iraq, officially the Republic of Iraq, is a country in West Asia and in the geopolitical region known as the Middle East. With a population of over 46 million, it is the 33rd-most populous country. It is a federal parliamentary republic that consists of 18 governorates.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/iraq-flag-png-large.png"
+    },
+    "Ireland": {
+        "intro_text": "The Republic of Ireland occupies most of the island of Ireland, off the coast of England and Wales. Its capital, Dublin, is the birthplace of writers like Oscar Wilde, and home of Guinness beer. The 9th-century Book of Kells and other illustrated manuscripts are on show in Dublin\u2019s Trinity College Library. Dubbed the \"Emerald Isle\u201d for its lush landscape, the country is dotted with castles like medieval Cahir Castle. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/ireland-flag-png-large.png"
+    },
+    "Isle of Man": {
+        "intro_text": "The Isle of Man is a self-governing British Crown dependency in the Irish Sea between England and Ireland. It\u2019s known for its rugged coastline, medieval castles and rural landscape, rising to a mountainous center. In the capital, Douglas, the Manx Museum traces the island\u2019s Celtic and Viking heritage. The Isle of Man TT is a major annual cross-country motorcycle race around the island. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Isle_of_Mann.svg/1200px-Flag_of_the_Isle_of_Mann.svg.png"
+    },
+    "Israel": {
+        "intro_text": "Israel, officially the State of Israel, is a country in the Southern Levant region of West Asia. It is bordered by Lebanon to the north, Syria to the northeast, Jordan to the east, the Red Sea to the ...",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/israel-flag-png-large.png"
+    },
+    "Italy": {
+        "intro_text": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo\u2019s \"David\" and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy\u2019s fashion capital. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png"
+    },
+    "Ivory Coast": {
+        "intro_text": "C\u00f4te d'Ivoire is a West African country with beach resorts, rainforests and a French-colonial legacy. Abidjan, on the Atlantic coast, is the country\u2019s major urban center. Its modern landmarks include zigguratlike, concrete La Pyramide and St. Paul's Cathedral, a swooping structure tethered to a massive cross. North of the central business district, Banco National Park is a rainforest preserve with hiking trails. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+    },
+    "Jamaica": {
+        "intro_text": "Jamaica, a Caribbean island nation, has a lush topography of mountains, rainforests and reef-lined beaches. Many of its all-inclusive resorts are clustered in Montego Bay, with its British-colonial architecture, and Negril, known for its diving and snorkeling sites. Jamaica is famed as the birthplace of reggae music, and its capital Kingston is home to the Bob Marley Museum, dedicated to the famous singer. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/jamaica-flag-png-large.png"
+    },
+    "Japan": {
+        "intro_text": "Japan is an island country in East Asia. It is in the northwest Pacific Ocean and is bordered on the west by the Sea of Japan, extending from the Sea of Okhotsk in the north toward the East China Sea, Philippine Sea, and Taiwan in the south.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png"
+    },
+    "Jersey": {
+        "intro_text": "Jersey is the largest of the Channel Islands, between England and France. A self-governing dependency of the United Kingdom, with a mix of British and French cultures, it\u2019s known for its beaches, cliffside walking trails, inland valleys and historic castles. The Jersey War Tunnels complex, in a former hospital excavated by slave labor, documents the island\u2019s 5-year German occupation during WWII. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/800px-Flag_of_Jersey.svg.png"
+    },
+    "Jordan": {
+        "intro_text": "Jordan, an Arab nation on the east bank of the Jordan River, is defined by ancient monuments, nature reserves and seaside resorts. It\u2019s home to the famed archaeological site of Petra, the Nabatean capital dating to around 300 B.C. Set in a narrow valley with tombs, temples and monuments carved into the surrounding pink sandstone cliffs, Petra earns its nickname, the \"Rose City.\" \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/jordan-flag-png-large.png"
+    },
+    "Kazakhstan": {
+        "intro_text": "Kazakhstan, a Central Asian country and former Soviet republic, extends from the Caspian Sea in the west to the Altai Mountains at its eastern border with China and Russia. Its largest metropolis, Almaty, is a long-standing trading hub whose landmarks include Ascension Cathedral, a tsarist-era Russian Orthodox church, and the Central State Museum of Kazakhstan, displaying thousands of Kazakh artifacts. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/kazakhstan-flag-png-large.png"
+    },
+    "Kenya": {
+        "intro_text": "Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It's also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania's 5,895m Mt. Kilimanjaro. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/kenya-flag-png-large.png"
+    },
+    "Kiribati": {
+        "intro_text": "Kiribati, officially the Republic of Kiribati, is an island country in the Micronesia subregion of Oceania in the central Pacific Ocean. Its permanent population is over 119,000 as of the 2020 census, with more than half living on Tarawa atoll. The state comprises 32 atolls and one remote raised coral island, Banaba.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/kiribati-flag-png-large.png"
+    },
+    "Kosovo": {
+        "intro_text": "Kosovo, officially the Republic of Kosovo, is a country in Southeast Europe with partial diplomatic recognition. Kosovo lies landlocked in the centre of the Balkans, bordered by Serbia to the north and east, North Macedonia to the southeast, Albania to the southwest, and Montenegro to the west.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/kosovo-flag-png-large.png"
+    },
+    "Kuwait": {
+        "intro_text": "Kuwait, officially the State of Kuwait, is a country in West Asia. It is situated in the northern edge of Eastern Arabia at the tip of the Persian Gulf, bordering Iraq to the north and Saudi Arabia to the south. Kuwait also shares maritime borders with Iran. Kuwait has a coastal length of approximately 500 km.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/kuwait-flag-png-large.png"
+    },
+    "Kyrgyzstan": {
+        "intro_text": "Kyrgyzstan, officially the Kyrgyz Republic, is a landlocked country in Central Asia, lying in the Tian Shan and Pamir mountain ranges. Bishkek is the capital and largest city of the country.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/kyrgyzstan-flag-png-large.png"
+    },
+    "Laos": {
+        "intro_text": "Laos is a Southeast Asian country traversed by the Mekong River and known for mountainous terrain, French colonial architecture, hill tribe settlements and Buddhist monasteries. Vientiane, the capital, is the site of the That Luang monument, where a reliquary reportedly houses the Buddha\u2019s breastbone, plus the Patuxai war memorial and Talat Sao (Morning Market), a complex jammed with food, clothes and craft stalls. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/laos-flag-png-large.png"
+    },
+    "Latvia": {
+        "intro_text": "Latvia is a country on the Baltic Sea between Lithuania and Estonia. Its landscape is marked by wide beaches as well as dense, sprawling forests. Latvia\u2019s capital is Riga, home to notable wooden and art nouveau architecture, a vast Central Market and a medieval Old Town with St. Peter's Church. Riga's museums include the Latvian Ethnographic Open-Air Museum, showcasing local crafts, food and music. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/latvia-flag-png-large.png"
+    },
+    "Lebanon": {
+        "intro_text": "Lebanon, officially the Republic of Lebanon, is a country in the Levant region of West Asia. It is bordered by Syria to the north and east, by Israel to the south, and by the Mediterranean Sea to the west; Cyprus lies a short distance away from the country's coastline.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/lebanon-flag-png-large.png"
+    },
+    "Lesotho": {
+        "intro_text": "Lesotho, a high-altitude, landlocked kingdom encircled by South Africa, is crisscrossed by a network of rivers and mountain ranges including the 3,482m-high peak of Thabana Ntlenyana. On the Thaba Bosiu plateau, near Lesotho's capital, Maseru, are ruins dating from the 19th-century reign of King Moshoeshoe I. Thaba Bosiu overlooks iconic Mount Qiloane, an enduring symbol of the nation\u2019s Basotho people. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/lesotho-flag-png-large.png"
+    },
+    "Liberia": {
+        "intro_text": "Liberia is a country in West Africa, bordering Sierra Leone, Guinea and C\u00f4te d'Ivoire. On the Atlantic coast, the capital city of Monrovia is home to the Liberia National Museum, with its exhibits on national culture and history. Around Monrovia are palm-lined beaches like Silver and CeCe. Along the coast, beach towns include the port of Buchanan, as well as laid-back Robertsport, known for its strong surf. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/liberia-flag-png-large.png"
+    },
+    "Libya": {
+        "intro_text": "Libya, officially the State of Libya, is a country in the Maghreb region of North Africa. Libya borders the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad to the south, ...",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/libya-flag-png-large.png"
+    },
+    "Liechtenstein": {
+        "intro_text": "Liechtenstein is a German-speaking, 25km-long principality between Austria and Switzerland. It\u2019s known for its medieval castles, alpine landscapes and villages linked by a network of trails. The capital, Vaduz, a cultural and financial center, is home to Kunstmuseum Liechtenstein, with galleries of modern and contemporary art. The Postmuseum displays Liechtenstein\u2019s postage stamps. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/liechtenstein-flag-png-large.png"
+    },
+    "Lithuania": {
+        "intro_text": "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/lithuania-flag-png-large.png"
+    },
+    "Luxembourg": {
+        "intro_text": "Luxembourg is a small European country, surrounded by Belgium, France and Germany. It\u2019s mostly rural, with dense Ardennes forest and nature parks in the north, rocky gorges of the Mullerthal region in the east and the Moselle river valley in the southeast. Its capital, Luxembourg City, is famed for its fortified medieval old town perched on sheer cliffs. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/luxembourg-flag-png-large.png"
+    },
+    "Macau": {
+        "intro_text": "Macau is an autonomous region on the south coast of China, across the Pearl River Delta from Hong Kong. A Portuguese territory until 1999, it reflects a mix of cultural influences. Its giant casinos and malls on the Cotai Strip, which joins the islands of Taipa and Coloane, have earned it the nickname, \"Las Vegas of Asia.\" One of its more striking landmarks is the tall Macau Tower, with sweeping city views. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/800px-Flag_of_Macau.svg.png"
+    },
+    "Macedonia": {
+        "intro_text": "North Macedonia, officially the Republic of North Macedonia, is a landlocked country in Southeast Europe. It shares land borders with Greece to the south, Albania to the west, Bulgaria to the east, Kosovo to the northwest and Serbia to the north.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/macedonia-flag-png-large.png"
+    },
+    "Madagascar": {
+        "intro_text": "Madagascar, officially the Republic of Madagascar, is an island country comprising the island of Madagascar and numerous smaller peripheral islands. Lying off the southeastern coast of Africa, it is the world's fourth largest island, the second-largest island country and the 46th largest country in the world.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/madagascar-flag-png-large.png"
+    },
+    "Malawi": {
+        "intro_text": "Malawi, a landlocked country in southeastern Africa, is defined by its topography of highlands split by the Great Rift Valley and enormous Lake Malawi. The lake\u2019s southern end falls within Lake Malawi National Park \u2013 sheltering diverse wildlife from colorful fish to baboons \u2013 and its clear waters are popular for diving and boating. Peninsular Cape Maclear is known for its beach resorts. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/malawi-flag-png-large.png"
+    },
+    "Malaysia": {
+        "intro_text": "Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests and mix of Malay, Chinese, Indian and European cultural influences. The capital, Kuala Lumpur, is home to colonial buildings, busy shopping districts such as Bukit Bintang and skyscrapers such as the iconic, 451m-tall Petronas Twin Towers. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/malaysia-flag-png-large.png"
+    },
+    "Maldives": {
+        "intro_text": "The Maldives, officially the Republic of Maldives, and historically known as Maldive Islands, is a country and archipelagic state in South Asia in the Indian Ocean. The Maldives is southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/maldives-flag-png-large.png"
+    },
+    "Mali": {
+        "intro_text": "Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of over 1,241,238 square kilometres.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/mali-flag-png-large.png"
+    },
+    "Malta": {
+        "intro_text": "Malta is an archipelago in the central Mediterranean between Sicily and the North African coast. It's a nation known for historic sites related to a succession of rulers including the Romans, Moors, Knights of Saint John, French and British. It has numerous fortresses, megalithic temples and the \u0126al Saflieni Hypogeum, a subterranean complex of halls and burial chambers dating to circa 4000 B.C. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/malta-flag-png-large.png"
+    },
+    "Marshall Islands": {
+        "intro_text": "The Marshall Islands are a sprawling chain of volcanic islands and coral atolls in the central Pacific Ocean, between Hawaii and the Philippines. In the northwest, Bikini Atoll\u2019s largely undisturbed waters, used as a ship graveyard after World War II, are now a popular wreck dive site. Near Majuro Atoll, which holds the islands' capital and largest settlement, the coral reef at Kalalin Pass teems with marine life. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/marshall-islands-flag-png-large.png"
+    },
+    "Mauritania": {
+        "intro_text": "Mauritania, officially the Islamic Republic of Mauritania, is a sovereign country in Northwest Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/mauritania-flag-jpg-xl.jpg"
+    },
+    "Mauritius": {
+        "intro_text": "Mauritius, an Indian Ocean island nation, is known for its beaches, lagoons and reefs. The mountainous interior includes Black River Gorges National Park, with rainforests, waterfalls, hiking trails and wildlife like the flying fox. Capital Port Louis has sites such as the Champs de Mars horse track, Eureka plantation house and 18th-century Sir Seewoosagur Ramgoolam Botanical Gardens. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/mauritius-flag-png-large.png"
+    },
+    "Mayotte": {
+        "intro_text": "Mayotte is an archipelago in the Indian Ocean between Madagascar and the coast of Mozambique. It\u2019s a department and region of France, though traditional Mayotte culture is most closely related to that of the neighboring Comoros islands. The Mayotte archipelago is surrounded by a coral barrier reef, which shelters a lagoon and marine reserve that are popular diving destinations. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_Arms_of_Mayotte.svg/640px-Coat_of_Arms_of_Mayotte.svg.png"
+    },
+    "Mexico": {
+        "intro_text": "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It covers 1,972,550 km\u00b2, making it the world's 13th-largest country by area; with a population of almost 130 million, it is the 10th-most-populous country and the most populous Spanish-speaking country.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/mexico-flag-png-large.png"
+    },
+    "Micronesia": {
+        "intro_text": "The Federated States of Micronesia is a country spread across the western Pacific Ocean comprising more than 600 islands. Micronesia is made up of 4 island states: Pohnpei, Kosrae, Chuuk and Yap. The country is known for palm-shaded beaches, wreck-filled dives and ancient ruins, including Nan Madol, sunken basalt temples and burial vaults that extend out of a lagoon on Pohnpei. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/micronesia-flag-png-large.png"
+    },
+    "Moldova": {
+        "intro_text": "Moldova, an Eastern European country and former Soviet republic, has varied terrain including forests, rocky hills and vineyards. Its wine regions include Nistreana, known for reds, and Codru, home to some of the world\u2019s largest cellars. Capital Chi\u0219in\u0103u has Soviet-style architecture and the National Museum of History, exhibiting art and ethnographic collections that reflect cultural links with neighboring Romania. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/moldova-flag-png-large.png"
+    },
+    "Monaco": {
+        "intro_text": "Monaco, officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera a few kilometres west of the Italian region of Liguria, in Western Europe, on the Mediterranean Sea. It is a semi-enclave bordered by France to the north, east and west.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/monaco-flag-png-large.png"
+    },
+    "Mongolia": {
+        "intro_text": "Mongolia, a nation bordered by China and Russia, is known for vast, rugged expanses and nomadic culture. Its capital, Ulaanbaatar, centers around Chinggis Khaan (Genghis Khan) Square, named for the notorious founder of the 13th- and 14th-century Mongol Empire. Also in Ulaanbaatar are the National Museum of Mongolia, displaying historic and ethnographic artifacts, and the restored 1830 Gandantegchinlen Monastery. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/mongolia-flag-png-large.png"
+    },
+    "Montenegro": {
+        "intro_text": "Montenegro is a Balkan country with rugged mountains, medieval villages and a narrow strip of beaches along its Adriatic coastline. The Bay of Kotor, resembling a fjord, is dotted with coastal churches and fortified towns such as Kotor and Herceg Novi. Durmitor National Park, home to bears and wolves, encompasses limestone peaks, glacial lakes and 1,300m-deep Tara River Canyon. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/montenegro-flag-png-large.png"
+    },
+    "Montserrat": {
+        "intro_text": "Montserrat is a mountainous Caribbean island, part of the Lesser Antilles chain and a British Overseas Territory. Its Soufri\u00e8re Hills volcano erupted in the 1990s, causing significant damage to the south of the island and leading to the creation of an exclusion zone. The north of the island is largely unaffected, and has black-sand beaches, coral reefs, cliffs and shoreline caves. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/1200px-Flag_of_Montserrat.svg.png"
+    },
+    "Morocco": {
+        "intro_text": "Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian and European cultural influences. Marrakesh\u2019s medina, a mazelike medieval quarter, offers entertainment in its Djemaa el-Fna square and souks (marketplaces) selling ceramics, jewelry and metal lanterns. The capital Rabat\u2019s Kasbah of the Udayas is a 12th-century royal fort overlooking the water. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/morocco-flag-png-large.png"
+    },
+    "Mozambique": {
+        "intro_text": "Mozambique is a southern African nation whose long Indian Ocean coastline is dotted with popular beaches like Tofo, as well as offshore marine parks. In the Quirimbas Archipelago, a 250km stretch of coral islands, mangrove-covered Ibo Island has colonial-era ruins surviving from a period of Portuguese rule. The Bazaruto Archipelago farther south has reefs which protect rare marine life including dugongs. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/mozambique-flag-png-large.png"
+    },
+    "Myanmar": {
+        "intro_text": "Myanmar (formerly Burma) is a Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand. Yangon (formerly Rangoon), the country's largest city, is home to bustling markets, numerous parks and lakes, and the towering, gilded Shwedagon Pagoda, which contains Buddhist relics and dates to the 6th century. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/myanmar-flag-png-large.png"
+    },
+    "Namibia": {
+        "intro_text": "Namibia, a country in southwest Africa, is distinguished by the Namib Desert along its Atlantic Ocean coast. The country is home to diverse wildlife, including a significant cheetah population. The capital, Windhoek, and coastal town Swakopmund contain German colonial-era buildings such as Windhoek's Christuskirche, built in 1907. In the north, Etosha National Park\u2019s salt pan draws game including rhinos and giraffes. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/namibia-flag-png-large.png"
+    },
+    "Nauru": {
+        "intro_text": "Nauru is a tiny island country in Micronesia, northeast of Australia. It features a coral reef and white-sand beaches fringed with palms, including Anibare Bay on the east coast. Inland, tropical vegetation surrounds Buada Lagoon. The rocky outcrop of Command Ridge, the island's highest point, has a rusty Japanese outpost from WWII. The underground freshwater lake of Moqua Well lies amid the limestone Moqua Caves. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/nauru-flag-png-large.png"
+    },
+    "Nepal": {
+        "intro_text": "Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/nepal-flag-png-large.png"
+    },
+    "Netherlands": {
+        "intro_text": "The Netherlands, a country in northwestern Europe, is known for a flat landscape of canals, tulip fields, windmills and cycling routes. Amsterdam, the capital, is home to the Rijksmuseum, Van Gogh Museum and the house where Jewish diarist Anne Frank hid during WWII. Canalside mansions and a trove of works from artists including Rembrandt and Vermeer remain from the city's 17th-century \"Golden Age.\" \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png"
+    },
+    "Netherlands Antilles": {
+        "intro_text": "The Netherlands Antilles was a constituent country of the Kingdom of the Netherlands. The country consisted of several island territories located in the Caribbean Sea. The islands were also informally known as the Dutch Antilles.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_the_Netherlands_Antilles_%281959%E2%80%931986%29.svg/1200px-Flag_of_the_Netherlands_Antilles_%281959%E2%80%931986%29.svg.png"
+    },
+    "New Caledonia": {
+        "intro_text": "New Caledonia is a French territory comprising dozens of islands in the South Pacific. It's known for its palm-lined beaches and marine-life-rich lagoon, which, at 24,000-sq.-km, is among the world's largest. A massive barrier reef surrounds the main island, Grand Terre, a major scuba-diving destination. The capital, Noum\u00e9a, is home to French-influenced restaurants and luxury boutiques selling Parisian fashions. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/new-caledonia-flag-jpg-xl.jpg"
+    },
+    "New Zealand": {
+        "intro_text": "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses\u2014the North Island and the South Island \u2014and over 700 smaller islands.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/new-zealand-flag-png-large.png"
+    },
+    "Nicaragua": {
+        "intro_text": "Nicaragua, set between the Pacific Ocean and the Caribbean Sea, is a Central American nation known for its dramatic terrain of lakes, volcanoes and beaches. Vast Lake Managua and the iconic stratovolcano Momotombo sit north of the capital Managua. To its south is Granada, noted for its Spanish colonial architecture and an archipelago of navigable islets rich in tropical bird life. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/nicaragua-flag-png-large.png"
+    },
+    "Niger": {
+        "intro_text": "Niger or the Niger, officially the Republic of the Niger, is a landlocked country in West Africa. It is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/niger-flag-png-large.png"
+    },
+    "Nigeria": {
+        "intro_text": "Nigeria, an African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves. Protected areas such as Cross River National Park and Yankari National Park have waterfalls, dense rainforest, savanna and rare primate habitats. One of the most recognizable sites is Zuma Rock, a 725m-tall monolith outside the capital of Abuja that\u2019s pictured on the national currency. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/nigeria-flag-png-large.png"
+    },
+    "Niue": {
+        "intro_text": "Niue is a small island nation in the South Pacific Ocean. It\u2019s known for its limestone cliffs and coral-reef dive sites. Migrating whales swim in Niue's waters between July and October. In the southeast is the Huvalu Forest Conservation Area, where trails through fossilized coral forests lead to the Togo and Vaikona chasms. The northwest is home to the rock pools of Avaiki Cave and the naturally formed Talava Arches. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/niue-flag-png-xl.png"
+    },
+    "North Korea": {
+        "intro_text": "North Korea, officially the Democratic People's Republic of Korea, is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png"
+    },
+    "Northern Mariana Islands": {
+        "intro_text": "The Northern Mariana Islands are a U.S. commonwealth in the Pacific Ocean. Saipan, the largest island, is known for its sandy shores and mountainous landscapes. In clear waters off its west coast is the tiny, coral-fringed Ma\u00f1agaha islet. On Saipan's northeast coast, turtles inhabit the Grotto, a cavern dive site. Nearby, memorials mark Banzai Cliff and Suicide Cliff, sites from WWII's Battle of Saipan. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/1200px-Flag_of_the_Northern_Mariana_Islands.svg.png"
+    },
+    "Norway": {
+        "intro_text": "Norway is a Scandinavian country encompassing mountains, glaciers and deep coastal fjords. Oslo, the capital, is a city of green spaces and museums. Preserved 9th-century Viking ships are displayed at Oslo\u2019s Viking Ship Museum. Bergen, with colorful wooden houses, is the starting point for cruises to the dramatic Sognefjord. Norway is also known for fishing, hiking and skiing, notably at Lillehammer\u2019s Olympic resort. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/norway-flag-png-large.png"
+    },
+    "Oman": {
+        "intro_text": "Oman, officially the Sultanate of Oman, is a country located in West Asia. It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the Persian Gulf. It shares land borders with Saudi Arabia, United Arab Emirates, and Yemen, while sharing maritime borders with Iran and Pakistan.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/oman-flag-png-large.png"
+    },
+    "Pakistan": {
+        "intro_text": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png"
+    },
+    "Palau": {
+        "intro_text": "Palau is an archipelago of over 500 islands, part of the Micronesia region in the western Pacific Ocean. Koror Island is home to the former capital, also named Koror, and is the islands\u2019 commercial center. The larger Babeldaob has the present capital, Ngerulmud, plus mountains and sandy beaches on its east coast. In its north, ancient basalt monoliths known as Badrulchau lie in grassy fields surrounded by palm trees. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/palau-flag-png-large.png"
+    },
+    "Palestine": {
+        "intro_text": "Palestine, officially the State of Palestine, is a country in the southern Levant region of West Asia. It encompasses two disconnected territories \u2014 the West Bank and the Gaza Strip, collectively known as the Palestinian territories \u2014 within the larger region of Palestine.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/palestina-flag-jpg-xl.jpg"
+    },
+    "Panama": {
+        "intro_text": "Panama is a country on the isthmus linking Central and South America. The Panama Canal, a famous feat of human engineering, cuts through its center, linking the Atlantic and Pacific oceans to create an essential shipping route. In the capital, Panama City, modern skyscrapers, casinos and nightclubs contrast with colonial buildings in the Casco Viejo district and the rainforest of Natural Metropolitan Park. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/panama-flag-png-large.png"
+    },
+    "Papua New Guinea": {
+        "intro_text": "Papua New Guinea, in the southwestern Pacific, encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity, it\u2019s known for its beaches and coral reefs. Inland are active volcanoes, granite Mt. Wilhelm, dense rainforest and hiking routes like the Kokoda Trail. There are also traditional tribal villages, many with their own languages. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/papua-new-guinea-flag-png-large.png"
+    },
+    "Paraguay": {
+        "intro_text": "Paraguay is a landlocked country between Argentina, Brazil and Bolivia, home to large swaths of swampland, subtropical forest and chaco, wildernesses comprising savanna and scrubland. The capital, Asunci\u00f3n, on the banks of the Paraguay River, is home to the grand Government Palace and the Museo del Barro, displaying pre-Columbian ceramics and \u00f1andut\u00ed lacework, the latter available in many shops. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/paraguay-flag-png-large.png"
+    },
+    "Peru": {
+        "intro_text": "Peru is a country in South America that's home to a section of Amazon rainforest and Machu Picchu, an ancient Incan city high in the Andes mountains. The region around Machu Picchu, including the Sacred Valley, Inca Trail and colonial city of Cusco, is rich in archaeological sites. On Peru\u2019s arid Pacific coast is Lima, the capital, with a preserved colonial center and important collections of pre-Columbian art. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/peru-flag-png-large.png"
+    },
+    "Philippines": {
+        "intro_text": "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/philippines-flag-png-large.png"
+    },
+    "Poland": {
+        "intro_text": "Poland, officially the Republic of Poland, is a country in Central Europe. It extends from the Baltic Sea in the north to the Sudetes and Carpathian Mountains in the south, and has a temperate transitional climate, while its longest river is the Vistula.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png"
+    },
+    "Portugal": {
+        "intro_text": "Portugal is a southern European country on the Iberian Peninsula, bordering Spain. Its location on the Atlantic Ocean has influenced many aspects of its culture: salt cod and grilled sardines are national dishes, the Algarve's beaches are a major destination and much of the nation\u2019s architecture dates to the 1500s\u20131800s, when Portugal had a powerful maritime empire. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/portugal-flag-400.png"
+    },
+    "Puerto Rico": {
+        "intro_text": "Puerto Rico is a Caribbean island and unincorporated U.S. territory with a landscape of mountains, waterfalls and the El Yunque tropical rainforest. In San Juan, the capital and largest city, the Isla Verde area is known for its hotel strip, beach bars and casinos. Its Old San Juan neighborhood features colorful Spanish colonial buildings and El Morro and La Fortaleza, massive, centuries-old fortresses. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/puerto-rico-flag-jpg-xl.jpg"
+    },
+    "Qatar": {
+        "intro_text": "Qatar is a peninsular Arab country whose terrain comprises arid desert and a long Persian (Arab) Gulf shoreline of beaches and dunes. Also on the coast is the capital, Doha, known for its futuristic skyscrapers and other ultramodern architecture inspired by ancient Islamic design, such as the limestone Museum of Islamic Art. The museum sits on the city\u2019s Corniche waterfront promenade. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/qatar-flag-png-large.png"
+    },
+    "Republic of the Congo": {
+        "intro_text": "The Republic of the Congo, also known as Congo-Brazzaville, West Congo, Congo Republic, ROC, or simply either Congo or the Congo, is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by Gabon, to the northwest by Cameroon, to the northeast by the Central African Republic, to the southeast by the Democratic Republic of the Congo, to the south by the Angolan exclave of Cabinda, and to the southwest by the Atlantic Ocean.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/125px-Flag_of_the_Republic_of_the_Congo.svg.png"
+    },
+    "Reunion": {
+        "intro_text": "R\u00e9union Island, a French department in the Indian Ocean, is known for its volcanic, rainforested interior, coral reefs and beaches. Its most iconic landmark is Piton de la Fournaise, a climbable active volcano standing 2,632m (8,635 ft.). Piton des Neiges, a massive extinct volcano, and R\u00e9union\u2019s 3 calderas (natural amphitheaters formed by collapsed volcanoes), are also climbing destinations. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Reunion_21.12S_55.51E.jpg/1200px-Reunion_21.12S_55.51E.jpg"
+    },
+    "Romania": {
+        "intro_text": "Romania is a southeastern European country known for the forested region of Transylvania, ringed by the Carpathian Mountains. Its preserved medieval towns include Sighi\u015foara, and there are many fortified churches and castles, notably clifftop Bran Castle, long associated with the Dracula legend. Bucharest, the country\u2019s capital, is the site of the gigantic, Communist-era Palatul Parlamentului government building. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png"
+    },
+    "Russia": {
+        "intro_text": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png"
+    },
+    "Rwanda": {
+        "intro_text": "Rwanda, officially the Republic of Rwanda, is a landlocked country in the Great Rift Valley of Central Africa, where the African Great Lakes region and Southeast Africa converge. Located a few degrees south of the Equator, Rwanda is bordered by Uganda, Tanzania, Burundi, and the Democratic Republic of the Congo.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/rwanda-flag-png-large.png"
+    },
+    "Saint Barthelemy": {
+        "intro_text": "Saint Barthelemy, a French-speaking Caribbean island commonly known as St. Barts, is known for its white-sand beaches and designer shops. The capital, Gustavia, encircling a yacht-filled harbor, has high-end restaurants and historical attractions like the Wall House, whose exhibits highlight the island\u2019s Swedish colonial era. Perched above town is 17th-century Fort Karl, looking out over popular Shell Beach. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Saint_Barth%C3%A9lemy_%28local%29.svg/1200px-Flag_of_Saint_Barth%C3%A9lemy_%28local%29.svg.png"
+    },
+    "Saint Helena": {
+        "intro_text": "Saint Helena is one of the three constituent parts of Saint Helena, Ascension and Tristan da Cunha, a remote British overseas territory.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/1024px-Flag_of_Saint_Helena.svg.png"
+    },
+    "Saint Kitts and Nevis": {
+        "intro_text": "Saint Kitts and Nevis is a dual-island nation situated between the Atlantic Ocean and Caribbean Sea. It's known for cloud-shrouded mountains and beaches. Many of its former sugar plantations are now inns or atmospheric ruins. The larger of the 2 islands, Saint Kitts, is dominated by the dormant Mount Liamuiga volcano, home to a crater lake, green vervet monkeys and rainforest crisscrossed with hiking trails. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/saint-kitts-and-nevis-flag-png-large.png"
+    },
+    "Saint Lucia": {
+        "intro_text": "Saint Lucia is an Eastern Caribbean island nation with a pair of dramatically tapered mountains, the Pitons, on its west coast. Its coast is home to volcanic beaches, reef-diving sites, luxury resorts and fishing villages. Trails in the interior rainforest lead to waterfalls like the 15m-high Toraille, which pours over a cliff into a garden. The capital, Castries, is a popular cruise port. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/saint-lucia-flag-png-large.png"
+    },
+    "Saint Martin": {
+        "intro_text": "Sint Maarten, part of the Kingdom of the Netherlands, is a country on the southern part of a Caribbean island shared with Saint Martin, a French overseas collectivity. Its natural features span lagoons, beaches and salt pans. The capital, Philipsburg, has cobblestone streets and colorful, colonial-style buildings lining its Front Street shopping area. The port is a popular cruise-ship stop. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Saint-Martin_%28fictional%29.svg/800px-Flag_of_Saint-Martin_%28fictional%29.svg.png"
+    },
+    "Saint Pierre and Miquelon": {
+        "intro_text": "Saint Pierre and Miquelon is a French archipelago south of the Canadian island of Newfoundland. Sparsely populated Miquelon-\u00adLanglade island contains the Grand Barachois lagoon, home to seabirds and seals. The busier Saint Pierre island has a distinct French atmosphere, with a cathedral and the Mus\u00e9e Heritage, which celebrates regional history. An island nearby, \u00cele-aux-Marins, features an abandoned fishing village. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    "Saint Vincent and the Grenadines": {
+        "intro_text": "St. Vincent and the Grenadines is a southern Caribbean nation comprising a main island, St. Vincent, and a chain of smaller islands. With yacht-filled harbors, chic private isles and volcanic landscapes, it\u2019s known for its major sailing destinations such as reef-lined Bequia Island off Admiralty Bay, bordered by white-sand beaches like Princess Margaret. The main island is home to the capital, Kingstown. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/saint-vincent-and-the-grenadines-flag-png-large.png"
+    },
+    "Samoa": {
+        "intro_text": "Samoa, officially the Independent State of Samoa and until 1997 known as Western Samoa, is a Polynesian island country consisting of two main islands; two smaller, inhabited islands; and several smaller, uninhabited islands, including the Aleipata Islands.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/samoa-flag-png-large.png"
+    },
+    "San Marino": {
+        "intro_text": "San Marino is a mountainous microstate surrounded by north-central Italy. Among the world\u2019s oldest republics, it retains much of its historic architecture. On the slopes of Monte Titano sits the capital, also called San Marino, known for its medieval walled old town and narrow cobblestone streets. The Three Towers, castlelike citadels dating to the 11th century, sit atop Titano\u2019s neighboring peaks. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/san-marino-flag-png-large.png"
+    },
+    "Sao Tome and Principe": {
+        "intro_text": "S\u00e3o Tom\u00e9 and Pr\u00edncipe, an African island nation close to the equator, is part of a volcano chain featuring striking rock and coral formations, rainforests and beaches. On the larger island, S\u00e3o Tom\u00e9, is the Lagoa Azul lagoon. \u00d4bo Natural Park, a biodiverse jungle preserve, covers much of S\u00e3o Tom\u00e9 and is distinguished by Pico C\u00e3o Grande, a skyscraperlike volcanic rock. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/sao-tome-and-principe-flag-png-large.png"
+    },
+    "Saudi Arabia": {
+        "intro_text": "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country in West Asia and the Middle East. It covers the bulk of the Arabian Peninsula and has a land area of about 2150000 km\u00b2, making it the fifth-largest country in Asia and the largest in the Middle East.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/saudi-arabia-flag-png-large.png"
+    },
+    "Senegal": {
+        "intro_text": "Senegal, officially the Republic of Senegal, is the westernmost country in West Africa, situated on the Atlantic Ocean coastline. Senegal is bordered by Mauritania to the north, Mali to the east, Guinea to the southeast and Guinea-Bissau to the southwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/senegal-flag-png-large.png"
+    },
+    "Serbia": {
+        "intro_text": "Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast and Central Europe, located in the Balkans and the Pannonian Plain.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/serbia-flag-png-large.png"
+    },
+    "Seychelles": {
+        "intro_text": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mah\u00e9, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/seychelles-flag-png-large.png"
+    },
+    "Sierra Leone": {
+        "intro_text": "Sierra Leone is a country in West Africa, on the Atlantic Ocean. It\u2019s known for the white-sand beaches lining the Freetown Peninsula. The capital city, Freetown, commemorates the nation\u2019s slave-trade history with the Cotton Tree landmark and King\u2019s Yard Gate. Both were known as places of refuge for returned slaves in the 18th and 19th centuries. Nearby Bunce Island was a key departure point during the slave trade. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/sierra-leone-flag-png-large.png"
+    },
+    "Singapore": {
+        "intro_text": "Singapore, officially the Republic of Singapore, is an island country and city-state in maritime Southeast Asia.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/singapore-flag-png-large.png"
+    },
+    "Sint Maarten": {
+        "intro_text": "Sint Maarten, part of the Kingdom of the Netherlands, is a country on the southern part of a Caribbean island shared with Saint Martin, a French overseas collectivity. Its natural features span lagoons, beaches and salt pans. The capital, Philipsburg, has cobblestone streets and colorful, colonial-style buildings lining its Front Street shopping area. The port is a popular cruise-ship stop. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/1200px-Flag_of_Sint_Maarten.svg.png"
+    },
+    "Slovakia": {
+        "intro_text": "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png"
+    },
+    "Slovenia": {
+        "intro_text": "Slovenia, a country in Central Europe, is known for its mountains, ski resorts and lakes. On Lake Bled, a glacial lake fed by hot springs, the town of Bled contains a church-topped islet and a cliffside medieval castle. In Ljubljana, Slovenia\u2019s capital, baroque facades mix with the 20th-century architecture of native Jo\u017ee Ple\u010dnik, whose iconic Tromostovje (Triple Bridge) spans the tightly curving Ljubljanica River. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/slovenia-flag-png-large.png"
+    },
+    "Solomon Islands": {
+        "intro_text": "The Solomon Islands, a nation of hundreds of islands in the South Pacific, has many WWII-era sites. Guadalcanal, a province and one of the archipelago\u2019s largest islands, honors fallen Allied soldiers at its U.S. War Memorial. Guadalcanal is also home to the nation\u2019s capital, Honiara, whose bustling Central Market showcases the islands\u2019 produce and traditional handicrafts. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/solomon-islands-flag-png-large.png"
+    },
+    "Somalia": {
+        "intro_text": "Somalia, officially the Federal Republic of Somalia, is the easternmost country in continental Africa. The country is on the Horn of Africa and is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/somalia-flag-png-large.png"
+    },
+    "South Africa": {
+        "intro_text": "South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems. Inland safari destination Kruger National Park is populated by big game. The Western Cape offers beaches, lush winelands around Stellenbosch and Paarl, craggy cliffs at the Cape of Good Hope, forest and lagoons along the Garden Route, and the city of Cape Town, beneath flat-topped Table Mountain. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/south-africa-flag-png-large.png"
+    },
+    "South Korea": {
+        "intro_text": "South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world\u2019s most heavily militarized borders with North Korea. It\u2019s equally known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its coastal fishing villages, sub-tropical islands and high-tech cities such as Seoul, the capital. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png"
+    },
+    "South Sudan": {
+        "intro_text": "South Sudan, officially the Republic of South Sudan, is a landlocked country in eastern Central Africa.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/south-sudan-flag-png-large.png"
+    },
+    "Spain": {
+        "intro_text": "Spain, a country on Europe\u2019s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. Capital city Madrid is home to the Royal Palace and Prado museum, housing works by European masters. Segovia has a medieval castle (the Alc\u00e1zar) and an intact Roman aqueduct. Catalonia\u2019s capital, Barcelona, is defined by Antoni Gaud\u00ed\u2019s whimsical modernist landmarks like the Sagrada Fam\u00edlia church. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"
+    },
+    "Sri Lanka": {
+        "intro_text": "Sri Lanka, historically known as Ceylon and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia. It lies in the Indian Ocean, southwest of the Bay of Bengal, separated from the Indian peninsula by the Gulf of Mannar and the Palk Strait.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/sri-lanka-flag-png-large.png"
+    },
+    "Sudan": {
+        "intro_text": "Sudan, or North Sudan officially the Republic of the Sudan, is a country in Northeast Africa. It borders the Central African Republic to the southwest, Chad to the west, Egypt to the north, Eritrea to the northeast, Ethiopia to the southeast, Libya to the northwest, South Sudan to the south, and the Red Sea.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/sudan-flag-png-large.png"
+    },
+    "Suriname": {
+        "intro_text": "Suriname is a small country on the northeastern coast of South America. It's defined by vast swaths of tropical rainforest, Dutch colonial architecture and a melting-pot culture. On its Atlantic coast is the capital, Paramaribo, where palm gardens grow near Fort Zeelandia, a 17th-century trading post. Paramaribo is also home to Saint Peter and Paul Basilica, a towering wood cathedral consecrated in 1885. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/suriname-flag-png-large.png"
+    },
+    "Svalbard and Jan Mayen": {
+        "intro_text": "Svalbard and Jan Mayen is a statistical designation defined by ISO 3166-1 for a collective grouping of two remote jurisdictions of Norway: Svalbard and Jan Mayen. While the two are combined for the purposes of the International Organization for Standardization category, they are not administratively related.",
+        "flag_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc63-X9NAK4ZXDl6Nqrc6o4fDoqi9qOlZomMuEBAk_6g&s"
+    },
+    "Swaziland": {
+        "intro_text": "Eswatini, officially the Kingdom of Eswatini and also known by its former official name Swaziland and formerly the Kingdom of Swaziland, is a landlocked country in Southern Africa. It is bordered by Mozambique to its northeast and South Africa to its north, west, south, and southeast.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/swaziland-flag-png-large.png"
+    },
+    "Sweden": {
+        "intro_text": "Sweden is a Scandinavian nation with thousands of coastal islands and inland lakes, along with vast boreal forests and glaciated mountains. Its principal cities, eastern capital Stockholm and southwestern Gothenburg and Malm\u00f6, are all coastal. Stockholm is built on 14 islands. It has more than 50 bridges, as well as the medieval old town, Gamla Stan, royal palaces and museums such as open-air Skansen. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png"
+    },
+    "Switzerland": {
+        "intro_text": "Switzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps. Its cities contain medieval quarters, with landmarks like capital Bern\u2019s Zytglogge clock tower and Lucerne\u2019s wooden chapel bridge. The country is also known for its ski resorts and hiking trails. Banking and finance are key industries, and Swiss watches and chocolate are world renowned. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/switzerland-flag-png-large.png"
+    },
+    "Syria": {
+        "intro_text": "Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It is bounded by the Mediterranean Sea to the west, Turkey to the north, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/syria-flag-png-large.png"
+    },
+    "Taiwan": {
+        "intro_text": "Taiwan, officially the Republic of China, is a country in East Asia. It is located at the junction of the East and South China Seas in the northwestern Pacific Ocean, with the People's Republic of China to the northwest, Japan to the northeast, and the Philippines to the south.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/taiwan-flag-png-large.png"
+    },
+    "Tajikistan": {
+        "intro_text": "Tajikistan is a country in Central Asia surrounded by Afghanistan, China, Kyrgyzstan and Uzbekistan. It\u2019s known for rugged mountains, popular for hiking and climbing. The Fann Mountains, near the national capital Dushanbe, have snow-capped peaks that rise over 5,000 meters. The range encompasses the Iskanderkulsky Nature Refuge, a notable bird habitat named for Iskanderkul, a turquoise lake formed by glaciers. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/tajikistan-flag-png-large.png"
+    },
+    "Tanzania": {
+        "intro_text": "Tanzania is an East African country known for its vast wilderness areas. They include the plains of Serengeti National Park, a safari mecca populated by the \u201cbig five\u201d game (elephant, lion, leopard, buffalo, rhino), and Kilimanjaro National Park, home to Africa\u2019s highest mountain. Offshore lie the tropical islands of Zanzibar, with Arabic influences, and Mafia, with a marine park home to whale sharks and coral reefs. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/tanzania-flag-png-large.png"
+    },
+    "Thailand": {
+        "intro_text": "Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho and the Emerald Buddha Temple (Wat Phra Kaew). Nearby beach resorts include bustling Pattaya and fashionable Hua Hin. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/thailand-flag-png-large.png"
+    },
+    "Togo": {
+        "intro_text": "Togo, a West African nation on the Gulf of Guinea, is known for its palm-lined beaches and hilltop villages. Koutammakou, inhabited by the Batammariba people, is a traditional settlement of fortresslike clay huts dating to the 17th century. In the capital, Lom\u00e9, are the multistory Grand March\u00e9 bazaar and the Fetish Market, offering traditional talismans and remedies relating to the vodun (voodoo) religion. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/togo-flag-png-large.png"
+    },
+    "Tonga": {
+        "intro_text": "Tonga is a Polynesian kingdom of more than 170 South Pacific islands, many uninhabited, most lined in white beaches and coral reefs and covered with tropical rainforest. The main island, Tongatapu, is protected by lagoons and limestone cliffs. It\u2019s home to the rural capital of Nuku'alofa, as well as beach resorts, plantations and the Ha'amonga \u02bba Maui, a monumental coral gate from the 1200s. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/tonga-flag-png-large.png"
+    },
+    "Trinidad and Tobago": {
+        "intro_text": "Trinidad and Tobago is a dual-island Caribbean nation near Venezuela, with distinctive Creole traditions and cuisines. Trinidad\u2019s capital, Port of Spain, hosts a boisterous carnival featuring calypso and soca music. Numerous bird species inhabit sanctuaries such as the Asa Wright Nature Centre. The smaller island of Tobago is known for its beaches and the Tobago Main Ridge Forest Reserve, which shelters hummingbirds. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/trinidad-and-tobago-flag-png-large.png"
+    },
+    "Tunisia": {
+        "intro_text": "Tunisia, officially the Republic of Tunisia, is the northernmost country in Africa. It is a part of the Maghreb region of North Africa, bordered by Algeria to the west and southwest, Libya to the southeast, and the Mediterranean Sea to the north and east.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/tunisia-flag-png-large.png"
+    },
+    "Turkey": {
+        "intro_text": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/turkey-flag-png-large.png"
+    },
+    "Turkmenistan": {
+        "intro_text": "Turkmenistan is a country in Central Asia bordered by the Caspian Sea and largely covered by the Karakum Desert. It\u2019s known for archaeological ruins including those at Nisa and Merv, major stops along the ancient trade route the Silk Road. Ashgabat, the capital, was rebuilt in Soviet style in the mid-20th century and is filled with grand monuments honoring former president Saparmurat Niyazov. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/turkmenistan-flag-png-large.png"
+    },
+    "Turks and Caicos Islands": {
+        "intro_text": "Turks and Caicos is an archipelago of 40 low-lying coral islands in the Atlantic Ocean, a British Overseas Territory southeast of the Bahamas. The gateway island of Providenciales, known as Provo, is home to expansive Grace Bay Beach, with luxury resorts, shops and restaurants. Scuba-diving sites include a 14-mile barrier reef on Provo\u2019s north shore and a dramatic 2,134m underwater wall off Grand Turk island. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/1200px-Flag_of_the_Turks_and_Caicos_Islands.svg.png"
+    },
+    "Tuvalu": {
+        "intro_text": "Tuvalu, in the South Pacific, is an independent island nation within the British Commonwealth. Its 9 islands comprise small, thinly populated atolls and reef islands with palm-fringed beaches and WWII sites. Off Funafuti, the capital, the Funafuti Conservation Area offers calm waters for diving and snorkelling among sea turtles and tropical fish, plus several uninhabited islets sheltering sea birds. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/tuvalu-flag-png-large.png"
+    },
+    "U.S. Virgin Islands": {
+        "intro_text": "The U.S. Virgin Islands are a group of Caribbean islands and islets. A U.S. territory, it's known for white-sand beaches, reefs and verdant hills. St. Thomas island is home to the capital, Charlotte Amalie. To the east is the island of St. John, most of which comprises Virgin Islands National Park. St. Croix island and its historic towns, Christiansted and Frederiksted, are to the south. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/United_States_Virgin_Islands_on_the_globe_%28Americas_centered%29.svg/250px-United_States_Virgin_Islands_on_the_globe_%28Americas_centered%29.svg.png"
+    },
+    "Uganda": {
+        "intro_text": "Uganda is a landlocked country in East Africa whose diverse landscape encompasses the snow-capped Rwenzori Mountains and immense Lake Victoria. Its abundant wildlife includes chimpanzees as well as rare birds. Remote Bwindi Impenetrable National Park is a renowned mountain gorilla sanctuary. Murchison Falls National Park in the northwest is known for its 43m-tall waterfall and wildlife such as hippos. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/uganda-flag-png-large.png"
+    },
+    "Ukraine": {
+        "intro_text": "Ukraine is a country in Eastern Europe. It is the second-largest European country after Russia, which borders it to the east and northeast.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large.png"
+    },
+    "United Arab Emirates": {
+        "intro_text": "The United Arab Emirates, or simply the Emirates, is a country in West Asia, in the Middle East. Located at the eastern end of the Arabian Peninsula, it shares borders with Oman and Saudi Arabia; as well as maritime borders in the Persian Gulf with Qatar and Iran.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/united-arab-emirates-flag-png-large.png"
+    },
+    "United Kingdom": {
+        "intro_text": "The United Kingdom, made up of England, Scotland, Wales and Northern Ireland, is an island nation in northwestern Europe. England \u2013 birthplace of Shakespeare and The Beatles \u2013 is home to the capital, London, a globally influential centre of finance and culture. England is also site of Neolithic Stonehenge, Bath\u2019s Roman spa and centuries-old universities at Oxford and Cambridge. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png"
+    },
+    "United States": {
+        "intro_text": "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation\u2019s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles' Hollywood is famed for filmmaking. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png"
+    },
+    "Uruguay": {
+        "intro_text": "Uruguay is a South American country known for its verdant interior and beach-lined coast. The capital, Montevideo, revolves around Plaza Independencia, once home to a Spanish citadel. It leads to Ciudad Vieja (Old City), with art deco buildings, colonial homes and Mercado del Puerto, an old port market with many steakhouses. La Rambla, a waterfront promenade, passes fish stalls, piers and parks. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/uruguay-flag-png-large.png"
+    },
+    "Uzbekistan": {
+        "intro_text": "Uzbekistan is a Central Asian nation and former Soviet republic. It's known for its mosques, mausoleums and other sites linked to the Silk Road, the ancient trade route between China and the Mediterranean. Samarkand, a major city on the route, contains a landmark of Islamic architecture: the Registan, a plaza bordered by 3 ornate, mosaic-covered religious schools dating to the 15th and 17th centuries. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png"
+    },
+    "Vanuatu": {
+        "intro_text": "Vanuatu is a South Pacific Ocean nation made up of roughly 80 islands that stretch 1,300 kilometers. The islands offer scuba diving at coral reefs, underwater caverns and wrecks such as the WWII-era troopship SS President Coolidge. Harborside Port Vila, the nation\u2019s capital and economic center, is on the island of Efate. The city is home to the Vanuatu National Museum, which explores the nation\u2019s Melanesian culture. \u2015 Google",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1200px-Flag_of_Vanuatu.svg.png"
+    },
+    "Vatican": {
+        "intro_text": "Vatican City, a city-state surrounded by Rome, Italy, is the headquarters of the Roman Catholic Church. It's home to the Pope and a trove of iconic art and architecture. Its Vatican Museums house ancient Roman sculptures such as the famed \u201cLaoco\u00f6n and His Sons\u201d as well as Renaissance frescoes in the Raphael Rooms and the Sistine Chapel, famous for Michelangelo\u2019s ceiling. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/vatican-city-flag-png-large.png"
+    },
+    "Venezuela": {
+        "intro_text": "Venezuela is a country on the northern coast of South America with diverse natural attractions. Along its Caribbean coast are tropical resort islands including Isla de Margarita and the Los Roques archipelago. To the northwest are the Andes Mountains and the colonial town of M\u00e9rida, a base for visiting Sierra Nevada National Park. Caracas, the capital, is to the north. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/venezuela-flag-png-large.png"
+    },
+    "Vietnam": {
+        "intro_text": "Vietnam is a Southeast Asian country known for its beaches, rivers, Buddhist pagodas and bustling cities. Hanoi, the capital, pays homage to the nation\u2019s iconic Communist-era leader, Ho Chi Minh, via a huge marble mausoleum. Ho Chi Minh City (formerly Saigon) has French colonial landmarks, plus Vietnamese War history museums and the C\u1ee7 Chi tunnels, used by Viet Cong soldiers. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/vietnam-flag-png-large.png"
+    },
+    "Wallis and Futuna": {
+        "intro_text": "Wallis and Futuna, officially the Territory of the Wallis and Futuna Islands, is a French island collectivity in the South Pacific, situated between Tuvalu to the northwest, Fiji to the southwest, Tonga to the southeast, Samoa to the east, and Tokelau to the northeast. Mata Utu is its capital and largest city.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/1200px-Flag_of_Wallis_and_Futuna.svg.png"
+    },
+    "Western Sahara": {
+        "intro_text": "Western Sahara is a disputed territory on the northwest coast of Africa. About 20% of the territory is controlled by the Sahrawi Arab Democratic Republic; the remaining 80% is occupied and administered by neighboring Morocco. It has a surface area of 266,000 square kilometres.",
+        "flag_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/800px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+    },
+    "Yemen": {
+        "intro_text": "Yemen, officially the Republic of Yemen, is a sovereign state in West Asia. Located in the southern Arabian Peninsula, it borders Saudi Arabia to the north, Oman to the northeast, and the Indian Ocean to the south, sharing maritime borders with Eritrea, Djibouti and Somalia across the Horn of Africa.",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/yemen-flag-png-large.png"
+    },
+    "Zambia": {
+        "intro_text": "Zambia, in southern Africa, is a landlocked country of rugged terrain and diverse wildlife, with many parks and safari areas. On its border with Zimbabwe is famed Victoria Falls \u2013 indigenously called Mosi-oa-Tunya, or \"Smoke That Thunders\u201d \u2013 plunging a misty 108m into narrow Batoka Gorge. Spanning the Zambezi River just below the falls is Victoria Falls Bridge, a spectacular viewpoint. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/zambia-flag-png-large.png"
+    },
+    "Zimbabwe": {
+        "intro_text": "Zimbabwe is a landlocked country in southern Africa known for its dramatic landscape and diverse wildlife, much of it within parks, reserves and safari areas. On the Zambezi River, Victoria Falls make a thundering 108m drop into narrow Batoka Gorge, where there\u2019s white-water rafting and bungee-jumping. Downstream are Matusadona and Mana Pools national parks, home to hippos, rhinos and birdlife. \u2015 Google",
+        "flag_image": "https://www.countryflags.com/wp-content/uploads/zimbabwe-flag-png-large.png"
+    }
+}

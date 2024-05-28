@@ -1,0 +1,200 @@
+nav {
+    background-color: #FCE4EC;
+    opacity: 0.9;
+}
+nav .logo {
+    color: black;
+}
+nav ul li a {
+    color: black;
+}
+nav.scrolled {
+    background-color: #FCE4EC;
+}
+nav ul li a::before {
+    background-color: rgba(131, 131, 131, 0.2);
+}
+
+/* section {
+    padding: 40px;
+} */
+
+/* Country info */
+#main-country-section {
+    background: #FCE4EC;
+    padding: 40px 0;
+    margin: 0;
+}
+#country-info {
+    background: #FFFFFF;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    margin: 40px auto;
+    max-width: 900px;
+    padding: 40px;
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+}
+#country-info::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    pointer-events: none;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+#country-info h1 {
+    font-size: 2.5em;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.image-content {
+    flex: 0 0 150px;
+    text-align: center;
+}
+#country-flag {
+    max-width: 100%;
+    height: auto;
+    border: 4px solid #ddd;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+#country-flag:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.country-info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    position: relative;
+    z-index: 1;
+}
+.text-content {
+    flex: 1;
+    line-height: 1.6;
+}
+#country-description {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+
+/* Popular Destinations */
+.popular-destinations {
+    padding: 20px 20px 50px;
+    text-align: center;
+    background: #FFF5F8;
+}
+.popular-destinations h2 {
+    font-size: 2em;
+    margin: 10 0 40px;
+}
+#main-card-view {
+    padding: 20px 0;
+    margin: 0;
+}
+.main-card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-gap: 60px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+#neighbor-country-wrapper {
+    padding: 20px 20px 50px;
+    text-align: center;
+    background: #FFCDD2 ;
+}
+#neighbor-country-wrapper h2 {
+    font-size: 2em;
+    margin: 10 0 40px;
+}
+.neighbor-country-section-1 {
+    background: #EF9A9A;
+}
+.neighbor-country-section-2 {
+    background: #F48FB1;
+}
+.neighbor-country-section-3 {
+    background: #F06292;
+}
+.neighbor-country-section-4 {
+    background: #EC407A;
+}
+#neighbor-country-container h2 {
+    font-size: 2em;
+    padding: 50px 0 0;
+    margin: 0 auto;
+    /* margin: 10 0 40px; */
+}
+
+.card-container-1, .card-container-2, .card-container-3, .card-container-4 {
+    grid-gap: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1400px;
+    min-height: 420px;
+    overflow: hidden;
+}
+
+.card-container-1.paused .card, .card-container-2.paused .card, .card-container-3.paused .card, .card-container-4.paused .card {
+    animation-play-state: paused;
+}
+.card-container-1 .card, .card-container-2 .card, .card-container-3 .card, .card-container-4 .card {
+    min-width: 220px;
+    max-width: 220px;
+    animation: scrolling 6s ease-in-out infinite;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #555;
+    bottom: 0;
+}
+footer p {
+    margin: 0;
+    font-size: 1em;
+    color: #ddd;
+}
+
+@keyframes scrolling {
+    0%   { transform: translateX(0px);}
+    10%  { transform: translateX(-270px);}
+    40%  { transform: translateX(-270px);}
+    100%  { transform: translateX(-540px);}
+}
+
+
+
+.test1 {
+    background: #EF9A9A               ;
+}
+.test2 {
+    background: #F48FB1                ;
+}
+.test3 {
+    background: #F06292               ;
+}
+.test4 {
+    background: #EC407A               ;
+    /* background: #D81B60                ; */
+}

@@ -102,14 +102,11 @@
         "Indonesia",
         "Papua New Guinea"
     ],
-    "Australia": [
-        "East Timor"
-    ],
     "Christmas Island": [
         "French Southern and Antarctic Lands",
         "Indonesia"
     ],
-    "Australia ": [
+    "Australia": [
         "Ashmore and Cartier Islands",
         "Coral Sea Islands",
         "East Timor",
@@ -261,7 +258,6 @@
     ],
     "Burkina Faso": [
         "Benin",
-        "Côte d'Ivoire",
         "Ghana",
         "Mali",
         "Niger",
@@ -327,14 +323,8 @@
         "British Antarctic Territory",
         "Peter I Island"
     ],
-    "": [
-        "Bhutan"
-    ],
     "Hong Kong": [
         "Brunei"
-    ],
-    "Macau,": [
-        "India"
     ],
     "Taiwan": [
         "Japan",
@@ -414,13 +404,6 @@
         "Nicaragua",
         "Panama"
     ],
-    "Côte d'Ivoire": [
-        "Burkina Faso",
-        "Ghana",
-        "Guinea",
-        "Liberia",
-        "Mali"
-    ],
     "Croatia": [
         "Bosnia and Herzegovina",
         "Hungary",
@@ -477,9 +460,6 @@
         "Sweden",
         "United Kingdom",
         "Norway"
-    ],
-    "Denmark, Kingdom of": [
-        "Canada"
     ],
     "Faroe Islands": [
         "Sweden",
@@ -545,7 +525,7 @@
         "Cameroon",
         "Gabon",
         "Nigeria",
-        "São Tomé and Príncipe"
+        "Sao Tome and Principe"
     ],
     "Eritrea": [
         "Djibouti",
@@ -559,10 +539,6 @@
         "Latvia",
         "Russia",
         "Sweden"
-    ],
-    "Eswatini ": [
-        "Mozambique",
-        "South Africa"
     ],
     "Ethiopia": [
         "Djibouti",
@@ -700,7 +676,7 @@
         "Cameroon",
         "Republic of the Congo",
         "Equatorial Guinea",
-        "São Tomé and Príncipe"
+        "Sao Tome and Principe"
     ],
     "Gambia": [
         "Cape Verde",
@@ -727,7 +703,6 @@
     ],
     "Ghana": [
         "Burkina Faso",
-        "Côte d'Ivoire",
         "Togo"
     ],
     "Gibraltar": [
@@ -767,7 +742,6 @@
         "Venezuela"
     ],
     "Guinea": [
-        "Côte d'Ivoire",
         "Guinea-Bissau",
         "Liberia",
         "Mali",
@@ -1028,7 +1002,6 @@
         "South Africa"
     ],
     "Liberia": [
-        "Côte d'Ivoire",
         "Guinea",
         "Sierra Leone"
     ],
@@ -1096,7 +1069,6 @@
     "Mali": [
         "Algeria",
         "Burkina Faso",
-        "Côte d'Ivoire",
         "Guinea",
         "Mauritania",
         "Niger",
@@ -1178,7 +1150,6 @@
     ],
     "Mozambique": [
         "Comoros",
-        "Eswatini ",
         "Madagascar",
         "Malawi",
         "South Africa",
@@ -1241,9 +1212,6 @@
         "Norfolk Island",
         "American Samoa"
     ],
-    "New Zealand, Realm of": [
-        "Australia"
-    ],
     "Niue": [
         "Norfolk Island",
         "Tonga",
@@ -1273,7 +1241,7 @@
         "Chad",
         "Equatorial Guinea",
         "Niger",
-        "São Tomé and Príncipe"
+        "Sao Tome and Principe"
     ],
     "Norfolk Island": [
         "New Zealand",
@@ -1300,9 +1268,6 @@
         "Faroe Islands",
         "Svalbard",
         "Greenland"
-    ],
-    "Norway, Kingdom of ": [
-        "Denmark"
     ],
     "Bouvet Island": [
         "Russia"
@@ -1475,7 +1440,7 @@
     "San Marino": [
         "Italy"
     ],
-    "São Tomé and Príncipe": [
+    "Sao Tome and Principe": [
         "Equatorial Guinea",
         "Gabon",
         "Nigeria"
@@ -1562,7 +1527,6 @@
     ],
     "South Africa": [
         "Botswana",
-        "Eswatini ",
         "Lesotho",
         "Mozambique",
         "Namibia",
@@ -1797,9 +1761,6 @@
         "Antigua and Barbuda",
         "Cyprus"
     ],
-    "→including:": [
-        "Argentina"
-    ],
     "Bermuda": [
         "Dominican Republic"
     ],
@@ -1814,9 +1775,6 @@
     ],
     "Johnston Atoll": [
         "Samoa"
-    ],
-    "→Navassa Island": [
-        "Cook Islands"
     ],
     "U.S. Virgin Islands": [
         "Netherlands",
