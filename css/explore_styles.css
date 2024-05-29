@@ -1,5 +1,5 @@
 nav {
-    background-color: #FCE4EC;
+    background-color: #FFA000;
     opacity: 0.9;
 }
 nav .logo {
@@ -9,7 +9,7 @@ nav ul li a {
     color: black;
 }
 nav.scrolled {
-    background-color: #FCE4EC;
+    background-color: #FFA000;
 }
 nav ul li a::before {
     background-color: rgba(131, 131, 131, 0.2);
@@ -21,12 +21,12 @@ nav ul li a::before {
 
 /* Country info */
 #main-country-section {
-    background: #FCE4EC;
+    background: #FFA000;
     padding: 40px 0;
     margin: 0;
 }
 #country-info {
-    background: #FFFFFF;
+    background: linear-gradient(135deg, #FFF3E0, #FFE0B2);
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
     margin: 40px auto;
@@ -97,7 +97,7 @@ nav ul li a::before {
 .popular-destinations {
     padding: 20px 20px 50px;
     text-align: center;
-    background: #FFF5F8;
+    background: #FFF3E0;
 }
 .popular-destinations h2 {
     font-size: 2em;
@@ -117,25 +117,33 @@ nav ul li a::before {
 
 
 #neighbor-country-wrapper {
-    padding: 20px 20px 50px;
+    padding: 20px 160px 50px;
     text-align: center;
-    background: #FFCDD2 ;
+    background: linear-gradient(135deg, #FFF3E0, #FFE0B2);
 }
 #neighbor-country-wrapper h2 {
     font-size: 2em;
     margin: 10 0 40px;
 }
 .neighbor-country-section-1 {
-    background: #EF9A9A;
+    background: linear-gradient(135deg, #FFE0B2, #FFCC80);
+    border-radius: 15px;
+    margin: 20px 0;
 }
 .neighbor-country-section-2 {
-    background: #F48FB1;
+    background: linear-gradient(135deg, #FFCC80, #FFB74D);
+    border-radius: 15px;
+    margin: 20px 0;
 }
 .neighbor-country-section-3 {
-    background: #F06292;
+    background: linear-gradient(135deg, #FFB74D, #FFA726);
+    border-radius: 15px;
+    margin: 20px 0;
 }
 .neighbor-country-section-4 {
-    background: #EC407A;
+    background: linear-gradient(135deg, #FFA726, #FF9800);
+    border-radius: 15px;
+    margin: 20px 0;
 }
 #neighbor-country-container h2 {
     font-size: 2em;
@@ -151,7 +159,7 @@ nav ul li a::before {
     align-items: center;
     justify-content: center;
     max-width: 1400px;
-    min-height: 420px;
+    min-height: 380px;
     overflow: hidden;
 }
 
@@ -181,20 +189,4 @@ footer p {
     10%  { transform: translateX(-270px);}
     40%  { transform: translateX(-270px);}
     100%  { transform: translateX(-540px);}
-}
-
-
-
-.test1 {
-    background: #EF9A9A               ;
-}
-.test2 {
-    background: #F48FB1                ;
-}
-.test3 {
-    background: #F06292               ;
-}
-.test4 {
-    background: #EC407A               ;
-    /* background: #D81B60                ; */
 }

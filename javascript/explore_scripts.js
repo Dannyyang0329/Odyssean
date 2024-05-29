@@ -1,10 +1,3 @@
-// navigation bar scroll effect
-// window.addEventListener('scroll', function() {
-//     const nav = document.querySelector('nav');
-//     if (window.scrollY > 50) nav.classList.add('scrolled');
-//     else nav.classList.remove('scrolled');
-// });
-
 function getCountryAttractions(countries, country) {
     const attraction = countries[country];
     return { attraction: attraction, attractionsCount: attraction.length };
@@ -29,6 +22,11 @@ function displayTargetCountryAttractions(countryAttractions) {
                     <span class="rating-stars">
                         ${Array(Math.round(attraction.score)).fill('&#9733;').join('')}
                     </span>
+                </div>
+                <div class='heart-btn-wrapper text-right'>
+                    <ion-icon name="heart">
+                        <div class='red-bg'></div>
+                    </ion-icon>
                 </div>
             </div>
         `;
@@ -94,3 +92,45 @@ displayTargetCountryAttractions(data[country])
 
 // set the neighbor countries' attractions
 displayNeighborCountryAttractions(country);
+
+// Main Card Section
+// click on a card to view the attraction details -> attraction.html
+const card_container = document.querySelector("#main-card-container");
+card_container.addEventListener("click", function(event) {
+    const card = event.target.closest(".card");
+    if(card) {
+        // check if the click is on the heart icon
+        if(event.target.classList.contains("md")) {
+            console.log("heart clicked");
+            event.target.classList.toggle("active");
+            return;
+        }
+        else {
+            let attraction_name = card.querySelector(".card-title").textContent;
+            localStorage.setItem("attraction_name", attraction_name);
+            localStorage.setItem("attraction_country", country);
+            window.location.href = "attraction.html";
+        }
+    }
+});
+
+// Neighbor Country Section
+// click on a card to view the attraction details -> attraction.html
+window.onload = function () {
+    for(let i=1 ; i<=4 ; i++) {
+    const neighborCountrySection = document.querySelector(`#card-container-${i}`);
+    if(neighborCountrySection === null) {
+        continue;
+    }
+    neighborCountrySection.addEventListener("click", function(event) {
+        const card = event.target.closest(".card");
+        if(card) {
+            let attraction_name = card.querySelector(".card-title").textContent;
+            let neighborCountry = card.parentElement.parentElement.querySelector("h2").textContent;
+            localStorage.setItem("attraction_name", attraction_name);
+            localStorage.setItem("attraction_country", neighborCountry);
+            window.location.href = "attraction.html";
+        }
+    });
+}
+}

@@ -16,6 +16,7 @@
     z-index: 1;
     transform: scale(1.05);
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    cursor: pointer;
 }
 .card-image {
     position: relative;
@@ -46,6 +47,7 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    width: 80%;
 }
 .card-location {
     font-size: 14px;
@@ -69,11 +71,33 @@
     color: #ffc107;
 }
 
-
 .card-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     grid-gap: 50px;
     max-width: 1300px;
     margin: 0 auto;
+}
+
+
+.heart-btn-wrapper {
+    font-size: 26px;
+    width: 195px;
+    position: absolute;
+}
+ion-icon.active{
+    animation:like 0.5s 1;
+    fill:red;
+    stroke:none;
+}
+ion-icon{
+    fill:transparent;
+    stroke:black;
+    stroke-width:30;
+    transition:all 0.5s;
+}
+@-webkit-keyframes like {
+    0%   { transform: scale(1); }
+    90%   { transform: scale(1.2); }
+    100% { transform: scale(1.1); }
 }

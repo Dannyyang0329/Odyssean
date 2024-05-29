@@ -1,5 +1,3 @@
-var attraction = "Eiffel Tower";
-
 function getDestination(attraction, country) {
     console.log(data[country]);
     data[country].forEach(country_attractions => {
@@ -18,11 +16,6 @@ function displayAttraction(attractions, country) {
     document.getElementById("rating-stars").innerHTML = Array(Math.round(destination.score)).fill('&#9733;').join('');
 }
 
-displayAttraction("Eiffel Tower", "France");
-
-// Object.keys(data).forEach(country => {
-//     if(data[country].length == 7) {
-//         console.log(country);
-//         console.log(data[country].length);
-//     }
-// });
+if(localStorage.getItem("attraction_name") && localStorage.getItem("attraction_country")) {
+    displayAttraction(localStorage.getItem("attraction_name"), localStorage.getItem("attraction_country"));
+}

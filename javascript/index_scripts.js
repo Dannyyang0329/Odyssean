@@ -53,12 +53,17 @@ function displayAttractions(randomAttractions) {
                 </div>
                 <div class="card-content">
                     <h3 class="card-title">${attraction.name}</h3>
-                    <p class="card-location">${randomAttractions.attractions_country[i * 5 + index]}</p>
+                    <p class="card-location">${randomAttractions.attractions_country[i*5+index]}</p>
                     <div class="card-rating">
                         <span class="rating-score">${attraction.score}</span>
                         <span class="rating-stars">
                             ${Array(Math.round(attraction.score)).fill('&#9733;').join('')}
                         </span>
+                    </div>
+                    <div class='heart-btn-wrapper text-right'>
+                        <ion-icon name="heart">
+                            <div class='red-bg'></div>
+                        </ion-icon>
                     </div>
                 </div>
             `;
@@ -71,3 +76,25 @@ function displayAttractions(randomAttractions) {
 
 const randomAttractions = getRandomAttractions(data, 15);
 displayAttractions(randomAttractions);
+
+
+// click on a card to view the attraction details -> attraction.html
+const card_container = document.querySelector("#card-view");
+card_container.addEventListener("click", function(event) {
+    const card = event.target.closest(".card");
+    if(card) {
+        // check if the click is on the heart icon
+        if(event.target.classList.contains("md")) {
+            console.log("heart clicked");
+            event.target.classList.toggle("active");
+            return;
+        }
+        else {
+            let attraction_name = card.querySelector(".card-title").textContent;
+            let attraction_country = card.querySelector(".card-location").textContent;
+            localStorage.setItem("attraction_name", attraction_name);
+            localStorage.setItem("attraction_country", attraction_country);
+            window.location.href = "attraction.html";
+        }
+    }
+});

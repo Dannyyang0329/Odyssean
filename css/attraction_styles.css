@@ -71,33 +71,4 @@ body {
     flex: 1;
     line-height: 1.6;
   }
-  
-  #country-description {
-    font-size: 1.2em;
-    color: #004d40;
-    margin-bottom: 20px;
-    text-align: justify;
-  }
-  
-  .country-details {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    font-size: 1.1em;
-    color: #004d40;
-  }
-  
-  .country-details li {
-    margin-bottom: 10px;
-    padding-left: 20px;
-    position: relative;
-  }
-  
-  .country-details li::before {
-    content: '✔';
-    color: #00796b;
-    position: absolute;
-    left: 0;
-    font-size: 1.2em;
-    line-height: 1;
-  }
+
