@@ -4,36 +4,64 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Odyssean - Destination</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/hero_view.css"/>
         <link rel="stylesheet" href="css/attraction_styles.css"/>
         <script src="data/attractions.js"></script>
     </head>
     <body>
-        <nav>
-            <a href="index.html" class="logo"> Odyssean</a>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="earth.html">Explore</a></li>
-                <li><a href="my_favorite.html">My Favorite</a></li>
-                <li><a href="contact_us.html">Contact Us</a></li>
-            </ul>
-        </nav>
+        <div id="page-container">
+            <nav>
+                <a href="index.html" class="logo"> Odyssean</a>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="earth.html">Explore</a></li>
+                    <li><a href="my_favorite.html">My Favorite</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
+                </ul>
+            </nav>
 
-        <section id="destination-info">
-            <div class="header-container">
-                <h1 id="destination-name"></h1>
-                <div class="image-content">
-                    <img id="destination-image" alt="Destination Image">
+            <div class="wrapper">
+                <div class="bg-cover text-white py-5 min-vh-100 d-flex flex-column justify-content-between">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 mx-auto attraction-info text-dark">
+                                <h1 class="text-center" id="text-center"></h1>
+                                <p class="lead mb-4" id="attraction-intro"></p>
+                                <p>
+                                    <span class="badge badge-secondary" id="badge-secondary"></span>
+                                    <span class="badge badge-primary" id="badge-primary"></span>
+                                </p>
+                                <button type="button" id="map-btn" class="btn btn-primary" data-toggle="modal" data-target="#mapModal">
+                                    View Location
+                                </button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="destination-info-container">
-                <div class="rating">
-                    <span id="destination-score"></span>
-                    <span id="rating-stars"></span>
+
+            <div class="modal fade" id="mapModal" tabindex="-1" aria-labelledby="mapModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="mapModalLabel"></h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div id="embed-responsive" class="embed-responsive embed-responsive-16by9">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
+        </div>
 
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
         <script src="javascript/attraction_scripts.js"></script>
     </body>
 </html>

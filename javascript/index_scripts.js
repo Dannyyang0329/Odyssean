@@ -67,6 +67,7 @@ function displayAttractions(randomAttractions) {
                     </div>
                 </div>
             `;
+
             cardContainer.appendChild(card);
         });
     }
@@ -78,15 +79,43 @@ const randomAttractions = getRandomAttractions(data, 15);
 displayAttractions(randomAttractions);
 
 
+// get favorite attractions from local storage and display the heart icon
+var card_container = document.querySelector("#card-container");
+const cards = card_container.querySelectorAll('.card');
+if(localStorage.getItem('favoriteAttractions')) {
+    var favoriteAttractions = JSON.parse(localStorage.getItem('favoriteAttractions'));
+}
+else
+    var favoriteAttractions = [];
+for(let i=0 ; i<cards.length ; i++) {
+    var card_name = cards[i].querySelector('.card-title').textContent;
+    if(favoriteAttractions.some((ele) => ele.name === card_name)) {
+        cards[i].querySelector(".heart-btn-wrapper ion-icon").classList.add("active");
+    }
+}
+
+
 // click on a card to view the attraction details -> attraction.html
-const card_container = document.querySelector("#card-view");
-card_container.addEventListener("click", function(event) {
+const card_view = document.querySelector("#card-view");
+card_view.addEventListener("click", function(event) {
     const card = event.target.closest(".card");
     if(card) {
         // check if the click is on the heart icon
         if(event.target.classList.contains("md")) {
-            console.log("heart clicked");
-            event.target.classList.toggle("active");
+            // console.log("heart clicked");
+            let attraction_name = card.querySelector(".card-title").textContent;
+            let attraction_country = card.querySelector(".card-location").textContent;
+            let attraction = {name: attraction_name, country: attraction_country};
+            if(event.target.classList.toggle("active")) {
+                favoriteAttractions.push(attraction);
+                console.log(favoriteAttractions);
+                localStorage.setItem("favoriteAttractions", JSON.stringify(favoriteAttractions));
+            }
+            else {
+                favoriteAttractions = favoriteAttractions.filter(favorite_attraction => favorite_attraction.name !== attraction.name);
+                console.log(favoriteAttractions);
+                localStorage.setItem("favoriteAttractions", JSON.stringify(favoriteAttractions));
+            }
             return;
         }
         else {
@@ -94,7 +123,9 @@ card_container.addEventListener("click", function(event) {
             let attraction_country = card.querySelector(".card-location").textContent;
             localStorage.setItem("attraction_name", attraction_name);
             localStorage.setItem("attraction_country", attraction_country);
+            // console.log(favoriteAttractions);
             window.location.href = "attraction.html";
         }
     }
 });
+

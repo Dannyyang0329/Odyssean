@@ -90,6 +90,17 @@ fetch("data/country_intro.json").then((res) => res.json()).then((country_intro) 
 // set the main country's attractions
 displayTargetCountryAttractions(data[country])
 
+// get favorite attractions from local storage and display the heart icon
+var main_card_container = document.querySelector("#main-card-container");
+const cards = main_card_container.querySelectorAll(".card");
+var favoriteAttractions = JSON.parse(localStorage.getItem("favoriteAttractions")) || [];
+for(let i=0 ; i<cards.length ; i++) {
+    var card_name = cards[i].querySelector(".card-title").textContent;
+    if(favoriteAttractions.some((ele) => ele.name === card_name)) {
+        cards[i].querySelector(".heart-btn-wrapper ion-icon").classList.add("active");
+    }
+}
+
 // set the neighbor countries' attractions
 displayNeighborCountryAttractions(country);
 
@@ -101,8 +112,19 @@ card_container.addEventListener("click", function(event) {
     if(card) {
         // check if the click is on the heart icon
         if(event.target.classList.contains("md")) {
-            console.log("heart clicked");
-            event.target.classList.toggle("active");
+            // console.log("heart clicked");
+            let attraction_name = card.querySelector(".card-title").textContent;
+            let attraction = {name: attraction_name, country: country};
+            if(event.target.classList.toggle("active")) {
+                favoriteAttractions.push(attraction);
+                console.log(favoriteAttractions);
+                localStorage.setItem("favoriteAttractions", JSON.stringify(favoriteAttractions));
+            }
+            else {
+                favoriteAttractions = favoriteAttractions.filter((attr) => attr.name !== attraction_name);
+                console.log(favoriteAttractions);
+                localStorage.setItem("favoriteAttractions", JSON.stringify(favoriteAttractions));
+            }
             return;
         }
         else {
@@ -134,3 +156,4 @@ window.onload = function () {
     });
 }
 }
+

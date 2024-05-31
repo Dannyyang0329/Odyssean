@@ -1,3 +1,6 @@
 .vscode/
 example/
 *.pdf
+cookies/
+hugChat.ipynb
+generate_attraction_intro.ipynb

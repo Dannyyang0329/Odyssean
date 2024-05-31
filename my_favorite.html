@@ -4,8 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Odyssean - Destination</title>
+        <link rel="stylesheet" href="css/my_favorite_styles.css"/>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="css/hero_view.css"/>
-        <!-- <link rel="stylesheet" href="css/destination_styles.css"/> -->
         <script src="data/attractions.js"></script>
     </head>
     <body>
@@ -19,6 +20,29 @@
             </ul>
         </nav>
 
-        <!-- <script src="javascript/destination_scripts.js"></script> -->
+        <div class="container mt-5">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0">My Favorites</h3>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table id="favorite-attractions-table" class="table table-borderless">
+                            <thead>
+                                <tr>
+                                    <th>Attraction Name</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> -->
+        <script src="javascript/my_favorite_scripts.js"></script>
     </body>
 </html>

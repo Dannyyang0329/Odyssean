@@ -63,6 +63,10 @@ nav ul li a::before {
 nav ul li a:hover::before {
     opacity: 1;
 }
+nav a:hover {
+    text-decoration: none;
+    color: #FFF;
+}
 
 
 /* Hero view */

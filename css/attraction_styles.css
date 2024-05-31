@@ -1,74 +1,31 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #ffe2e2;
+    overflow: hidden;
+}
+
+.wrapper {
+    padding-top: 250px;
+    background-image: url("https://wallpapers.com/images/hd/travel-hd-2fsg31b3wqteinpa.jpg");
+}
+
+.bg-cover {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin: 0;
 }
-
-/* Destination info */
-#destination-info {
-    background: linear-gradient(135deg, #e0f7fa 0%, #80deea 100%);
-    border-radius: 15px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-    margin: 40px auto;
-    width: 900px;
-    padding: 40px;
-    text-align: left;
-    position: relative;
-    overflow: hidden;
-  }
-  
-  #destination-info::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0.1;
-    pointer-events: none;
-  }
-  
-  #destination-info h1 {
-    font-size: 2.5em;
-    color: #00796b;
-    margin: 0;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-  
-  .image-content {
-    flex: 0 0 150px; /* 控制圖片容器的寬度 */
-    text-align: center;
-  }
-  
-  #destination-image {
-    max-width: 100%;
-    height: auto;
-    border: 4px solid #ddd;
-    border-radius: 8px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  #destination-image:hover {
-    transform: scale(1.05);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  }
-  
-  .destination-info-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
-    position: relative;
-    z-index: 1;
-  }
-  
-  .text-content {
-    flex: 1;
-    line-height: 1.6;
-  }
-
+.attraction-info {
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    border: 2px solid transparent;
+    background-image: linear-gradient(135deg, rgba(169, 198, 232, 0.9), rgba(255, 255, 255, 0.9));
+    background-clip: padding-box;
+}
+.modal {
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#text-center {
+    padding: 15px 0;
+}
