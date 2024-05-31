@@ -55,7 +55,11 @@ window.onload = function() {
     if(table.rows.length === 0) {
         table.innerHTML = `
             <div class="text-center">
-                <h5 class="text-muted">No favorite attractions yet</h5>
+                <tr>
+                    <td>
+                        <h5 class="text-muted">No favorite attractions yet</h5>
+                    </td>
+                </tr>
             </div>
         `;
     }
