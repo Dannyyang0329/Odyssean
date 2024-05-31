@@ -23,10 +23,11 @@ body {
     color: #495057;
 }
 
-.table tbody tr {
+.table tbody tr .d-flex.align-items-center{
     transition: all 0.3s ease-in-out;
 }
 
-.table tbody tr:hover {
-    background-color: #f1f1f1a2;
+.table tbody tr .d-flex.align-items-center:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
 }

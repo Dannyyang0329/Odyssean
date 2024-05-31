@@ -40,4 +40,31 @@ function removeFavoriteAttraction(country, name) {
     location.reload();
 }
 
+// click on a favorite attraction to go to the attraction page
+function goToAttractionPage(country, name) {
+    localStorage.setItem('attraction_country', country);
+    localStorage.setItem('attraction_name', name);
+    window.location.href = 'attraction.html';
+}
+
+
 addFavoriteAttractionRow(favoriteAttractions);
+
+window.onload = function() {
+    var table = document.getElementById('favorite-attractions-table');
+    if(table.rows.length === 0) {
+        table.innerHTML = `
+            <div class="text-center">
+                <h5 class="text-muted">No favorite attractions yet</h5>
+            </div>
+        `;
+    }
+    else {
+        // add click event for each favorite attraction
+        for(let i = 0; i < table.rows.length; i++) {
+            table.rows[i].querySelector('td').onclick = function() {
+                goToAttractionPage(favoriteAttractions[i].country, favoriteAttractions[i].name);
+            }
+        }
+    }
+}

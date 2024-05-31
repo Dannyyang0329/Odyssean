@@ -4,6 +4,10 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Odyssean - Destination</title>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+        <script type="module" src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons/ionicons.esm.js"></script>
+
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/hero_view.css"/>
         <link rel="stylesheet" href="css/attraction_styles.css"/>
@@ -32,9 +36,18 @@
                                     <span class="badge badge-secondary" id="badge-secondary"></span>
                                     <span class="badge badge-primary" id="badge-primary"></span>
                                 </p>
-                                <button type="button" id="map-btn" class="btn btn-primary" data-toggle="modal" data-target="#mapModal">
-                                    View Location
-                                </button>
+                                <div id="click-container" class="click-container">
+                                    <div class="button-container">
+                                        <button type="button" id="map-btn" class="btn btn-primary" data-toggle="modal" data-target="#mapModal">
+                                            View Location
+                                        </button>
+                                    </div>
+                                    <div class='heart-btn-wrapper text-right'>
+                                        <ion-icon name="heart">
+                                            <div class='red-bg'></div>
+                                        </ion-icon>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
