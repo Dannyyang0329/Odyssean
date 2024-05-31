@@ -6,11 +6,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Band-e-Amir National Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO4tlz-lPbFlxT58Z90v5tWm8iPW3-aQIk3yee2=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "DarulAman Palace",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM_bM6--uSrtzr8u73Vn-Y3wefWR_JaInRrcIHv=w148-h148-n-k-no",
             "score": "4.5"
@@ -46,11 +41,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Herat Central Blue Mosque",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-CdMnMxGuwXUi1_ZlK5JUiBIS134ncVlIr_8F=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Shah e Du shamshira Mosque",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no",
             "score": "4.4"
@@ -78,11 +68,6 @@ const data = JSON.parse(`{
     ],
     "Albania": [
         {
-            "name": "Skanderbeg Square",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN-4wJjl1loyBspXIs8y9UzHH9ufOkqe0oYd-7y=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Butrint National Archaeological Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNoR5SIeX3TOy44rmakid6xZQ0A0If_QBrywZqi=w148-h148-n-k-no",
             "score": "4.6"
@@ -103,11 +88,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Rozafa Castle",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOH_6lta78K40ciJM2CZsK_c536i-KDajjHGJom=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Tirana Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOCe_rw2P_1KsohjmQ1cbOH7hof7pcFDWgMJuk8=w148-h148-n-k-no",
             "score": "4.6"
@@ -123,11 +103,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "BUNK'ART",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMzi4gqiP7n23muPmnLWX9pnXL6PO_qt2hN4kyK=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Et'hem Bej Mosque",
             "image_url": "https://lh4.googleusercontent.com/proxy/jN168ubWAu9wq1GBeV9UkgLcrD75JQR8bIUqoISeFUisfXDQ7-oa9XFkQtq1jBs6iJaNNLqNPTLaC0ToUdLsIQUJU4hQg7zEbrRpCiZkoNvTcFts2NJCgH1LBNLH-Asxr5dbjpebf95y8RIhXQcAP1KOXwVwMuI=w148-h148-n-k-no",
             "score": "4.6"
@@ -138,7 +113,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Durr\u00ebs Amphitheatre",
+            "name": "Durrës Amphitheatre",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMVnBTazKSFkEsGAPG9B1y_Km1Q8Vx62yAh55re=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -175,11 +150,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Amir Abdel Kader Mosque",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNDFWOu2T-dDuetv_YA5THCGHvn097MMuZKuFib=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Church of Notre Dame of Africa",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOPhlYSK93FR6151dLLHRs2zeM11ulqDZiNXaYH=w148-h148-n-k-no",
             "score": "4.5"
@@ -190,44 +160,14 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Beni Add Ain Fezza Caves",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPVyN1do9Gzj2cp821NMbagPQhbTc_UehEhwKmo=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Ra\u00efs Palace",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNapSapyyaUiFh73Qm8Z3Gz5en16OeRXXiPmmVo=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Great Mosque of Algiers",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN5U7s3ySIlV450aFd8fCUkZt1hIhGdYRYmrkPr=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Bardo National Museum of Prehistory and Ethnography \u0627\u0644\u0645\u062a\u062d\u0641 \u0627\u0644\u0639\u0645\u0648\u0645\u064a \u0627\u0644\u0648\u0637\u0646\u064a \u0627\u0644\u0628\u0627\u0631\u062f\u0648",
+            "name": "Bardo National Museum of Prehistory and Ethnography المتحف العمومي الوطني الباردو",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOaRhhDPvcLgrl2DJiJl6axln-KlKGjEcadVkV3=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Martyrs National Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOGXM4hx7HfzHtkLirvAq1kTMPoyOT07fu8EEaP=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
             "name": "Algiers Central Post Office",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPBfNbogbF3daVmOo-3bzl9bPx0UBYNdCaQ7Po5=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Ghoufi",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNHR7hpSfTVt-727yWcKsP15SbVXzs4zUVIWNU_=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Museum of Fine Arts",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMwlGPunaHG318cAhWKU8EfqeTVJ1ZFjFehJ78f=w148-h148-n-k-no",
-            "score": "4.6"
         }
     ],
     "American Samoa": [
@@ -309,19 +249,9 @@ const data = JSON.parse(`{
     ],
     "Andorra": [
         {
-            "name": "Grandvalira",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOGdRuwm_h1IiIohFReFzhiK5gKnPCqg6kdxsiG=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Mirador Roc Del Quer | Canillo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNKznWcYeOymsB1b60zCAcLbTlGCOSawUu-1RYl=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Pal Arinsal - Sector Arinsal",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNYsoJ1JI8jhC20Jc0pHlnU8pWIiNfO8eE7vDMX=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Caldea Spa",
@@ -334,7 +264,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "La Noblesse du temps - de Salvador Dal\u00ed",
+            "name": "La Noblesse du temps - de Salvador Dalí",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPko5o5HVj5ql9qHADLVnhBXO3uESbTZASzcMaZ=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -349,44 +279,24 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Madriu-Perafita-Claror Valley",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-bH_AY2s7uLMY4RUYv4K_6nPYcFsoUykxTqn0=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "National Automobile Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOdJGO5d5DRHgCS6IgTh1lfZqBjxV1lAWeZTSVB=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Casa d'Areny-Plandolit",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNY_wrYlq8hH6mbXNzMTRYgn1JB-p99G6Mj1720=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Ordino Arcal\u00eds estaci\u00f3n de esqu\u00ed",
+            "name": "Ordino Arcalís estación de esquí",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO4C8l5Ny6SJgaUFaoHcn5EShlMO3h4eHewoyUB=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Parc Central",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO7urZF1yz0J6v00uKKWBBDW6KyYkYihzD7AYQM=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Grandvalira Estaci\u00f3 de Ski Grau Roig",
+            "name": "Grandvalira Estació de Ski Grau Roig",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMSM8Mv2ZbTEUTHH6SnWMxVQGx9IhnL8tbBqnrd=w148-h148-n-k-no",
             "score": "4.6"
         }
     ],
     "Angola": [
         {
-            "name": "Calandula Falls",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNkmHMKQXQhRsX0-ciGz0zqEzJ0f83hkRD2h783=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Fortaleza de S\u00e3o Miguel",
+            "name": "Fortaleza de São Miguel",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no",
             "score": "4.3"
         },
@@ -411,11 +321,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Pululukwa",
-            "image_url": "https://lh5.googleusercontent.com/proxy/DxtbSRMbf27qUJNeB_xPbT2aKk3xFj85HMbPb9eB_Ekx2yepzFYMCAW-p2suaEr-Frh7Agw3vMQCD0vpvXxwueqt7Wu-HH3Y7JpBIjK4_ahskDQ0Nr82lSpleofNgsJExu0uET_jbADZOU828FYOf9HQ-N01DQ=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Tundavala Gap",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN34x984jQosWY_a1n20loOOQkJAxmIWs3R4vt9=w148-h148-n-k-no",
             "score": "4.7"
@@ -434,19 +339,9 @@ const data = JSON.parse(`{
             "name": "Parque Nacional da Cameia",
             "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
             "score": "3.9"
-        },
-        {
-            "name": "Museu da Moeda",
-            "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-            "score": "4.3"
         }
     ],
     "Anguilla": [
-        {
-            "name": "Shoal Bay Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNdE7Cd6ALSlZdavbThiMA7kNj1qi5AEjt8AObM=w148-h148-n-k-no",
-            "score": "4.8"
-        },
         {
             "name": "Rendezvous Bay",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOwZc3PN07gNN9tm5PXlEL2u8DLKeJH1b2L-THL=w148-h148-n-k-no",
@@ -476,11 +371,6 @@ const data = JSON.parse(`{
             "name": "Sandy Island",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPtSGqD1NjOcsZovvZH3PMNFcAWEasxR6e2ymcb=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Scilly Cay",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOUuv93Ip6-SufW6T2VM_wE7TjWdp5Bhn0EP0J4=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Prickley Pear Cays",
@@ -563,11 +453,6 @@ const data = JSON.parse(`{
             "name": "Vostok Station",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOswrZK7aueWoOP9LgLZSBSTZRV01xMy-iIdHvg=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "Palmer Station",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM6pXO8OMRCWuzL8_l3MNscu95-qzrmmcFc_ftF=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Ross Ice Shelf",
@@ -674,24 +559,9 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "Teatro Col\u00f3n",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP75EKBqpTsDqqfQGokN0HEhWoHt0VsVqqFI0Cu=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Plaza de Mayo",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOZUo0_Y3kwDGUy7iOgemObdVrH6kP6vW6ufELV=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Tierra del Fuego National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN5aPewE5uJllNlUZyDcu4PpWRGDaD5wrLOxRU=w148-h148-n-k-no",
             "score": "4.8"
-        },
-        {
-            "name": "Iguaz\u00fa National Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN1fuGablSOWxXcygsV_LhcJpqmYUuWZWQD1l5Y=w148-h148-n-k-no",
-            "score": "4.9"
         },
         {
             "name": "Cementerio de la Recoleta",
@@ -699,18 +569,8 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Ruinas de San Ignacio Min\u00ed",
+            "name": "Ruinas de San Ignacio Miní",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNsq7-7m4lBPO1tjXnlD-deIB1SNeN8Ly9p2APu=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Jard\u00edn Japon\u00e9s",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMJBgFlQ-n5JJe9JFCp27wV4KtTJTZTSzQFBd1_=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Palacio Barolo",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNmJkGgBGHRfVOQ6eXtfS14uPmkdq5uJgwJ4EZr=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -833,11 +693,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "California Lighthouse",
-            "image_url": "https://lh3.googleusercontent.com/proxy/L-p0gVGVcYuHlKMQuU951oFIaube9FQNtCC3IaqKyk8kC35x8pJYx6O22kS1e2LuYQ97TPQ_5gAhjQbF7t0kxKfoU3f1f9EqOwwt3q7957vssOToqh8xTGO5NfNKzXLqCJK3uY8HOtOfqbzCyfiSqWyiImuHyw=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Butterfly Farm",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNxQEQx4cvMUB7KTCVR3OfWhg251Oetug5lLTHS=w148-h148-n-k-no",
             "score": "4.7"
@@ -886,11 +741,6 @@ const data = JSON.parse(`{
             "name": "Natural Bridge Aruba",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNOOCdoHv2I1_-cvQkNa-JDulyO4BfzXeF-Sfwn=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Baby Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMiAKtfSyroCSsdqwZatysb2-oTp7Rh9oejYPwB=w148-h148-n-k-no",
-            "score": "4.7"
         }
     ],
     "Australia": [
@@ -940,11 +790,6 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Twelve Apostles",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMNjyziWjkZRQnBaCsPwCrU8eUWNmybIFFIyh-l=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Melbourne Cricket Ground",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNO_UzGDu-ZoPO4LN2apCp94010J3pwit2xmKfw=w148-h148-n-k-no",
             "score": "4.7"
@@ -968,16 +813,11 @@ const data = JSON.parse(`{
             "name": "Three Sisters walk",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPYyW0GxqMmgEM3sW5_X8tgRmo92gnMqIOukjNM=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "MONA",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMniU8gwA1uhZqQPiQTX7kDujhdrnqbyknhKnsx=w148-h148-n-k-no",
-            "score": "4.4"
         }
     ],
     "Austria": [
         {
-            "name": "Sch\u00f6nbrunn Palace",
+            "name": "Schönbrunn Palace",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM59GqGmeLV81jk6jDiywdoI0kAeTfRBW7lXBgE=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -989,11 +829,6 @@ const data = JSON.parse(`{
         {
             "name": "Hofburg",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOX4bfDbCBQgPGFeWhPXnP4_Jk59WIKlOSX9YO1=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Belvedere Palace",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNTunyOa6mgyd2TE4bU_a-I-LAcAyiuMZ2waF2C=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
@@ -1012,7 +847,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Sch\u00f6nbrunn Zoo",
+            "name": "Schönbrunn Zoo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP9QBvtawTf7r3Tul1QfJrpxGWZ5dqDGXESRYzy=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -1069,7 +904,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "D\u0259nizk\u0259nar\u0131 Milli Park",
+            "name": "Dənizkənarı Milli Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMagf1zuKU9RXxZt_DG-5KPmb-Yo6UK_HRR9JM=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -1084,18 +919,8 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Gobustan Rock Art Cultural Landscape",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPUMcGyXbT-M6KBswQg0rSMTziHS1QESdOsGbka=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Martyrs' Lane",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPiXTCFbObCJO9fkqBLqoa3-IR5bvDnI9Ajw12k=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Shahdag Mountain Resort",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNt3XViMh672t2jIdIK1gACUVvrCiluW5GyIcR6=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -1223,11 +1048,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Bahrain Fort",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOLpp4G5CtTD2ZzqVd36df_S5xDvTWbh1i-cgRT=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "The Avenues",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOD0-Avx3HnFq4TzGjhNycP_djP9O3C7LOUccy4=w148-h148-n-k-no",
             "score": "4.5"
@@ -1241,11 +1061,6 @@ const data = JSON.parse(`{
             "name": "Bahrain National Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzSsK-nNtZqbHWupmTRGj7la1AWVmbPjYU7a3i=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Seef Mall",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPQwRpBtSdZ4Lqk1My8vx0a7-PWNlc2AQEDPDf4=w148-h148-n-k-no",
-            "score": "4.3"
         },
         {
             "name": "Beit Al Quran",
@@ -1363,11 +1178,6 @@ const data = JSON.parse(`{
             "name": "Sundarbans",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMudH01XP4KVrDuTJRpaMF7WSHfIDv2hG86b-z6=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Ramna Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN39JkGSb846NzcHqkFNxvMGpOxnyzwHJALFsla=w148-h148-n-k-no",
-            "score": "4.4"
         }
     ],
     "Barbados": [
@@ -1384,11 +1194,6 @@ const data = JSON.parse(`{
         {
             "name": "St. Nicholas Abbey and Steam Railway",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM2FTXjOSJwzNNLrCdWCSCDd8kV_bs8v-tfCDod=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Animal Flower Cave & Restaurant",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPa7ZUo0SFRQaeITQt6qdP5-aMul1665w08JqYr=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
@@ -1442,11 +1247,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Carlisle Bay",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNjUYtybkx35JBJEESZ_PRAAkV6_7C--x7qHNoT=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Bathsheba",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMQg2Z6-244otPLyVz8qWU2dEHW5_1z5CC77MLI=w148-h148-n-k-no",
             "score": "4.6"
@@ -1479,7 +1279,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Nesvizh Radziwi\u0142\u0142 Castle",
+            "name": "Nesvizh Radziwiłł Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNwc0UtKbymrnMql6meng73vq4_PopR1YQ2-8E8=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -1489,14 +1289,9 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Bielavie\u017eskaja pu\u0161\u010da National Park",
+            "name": "Bielaviežskaja pušča National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMPYZLJX-kkQlae5K1XCuKZ0B7KOAKUsm_M3Itt=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Mini Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Khatyn Memorial Complex",
@@ -1514,12 +1309,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Stalin Line",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMAGEOMjOeBw9KSIlsFxg2KqGJFDXGNLwU1xjl4=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Palace of the Rumianca\u016d and the Paskievi\u010d",
+            "name": "Palace of the Rumiancaŭ and the Paskievič",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMBOscEfmJk-EJ1PttA6gO2eO1u5CUpgHi7aFcU=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -1546,11 +1336,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Gravensteen",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPb-tdzio69bOJ7Oqrg-W6-pyiSWaSRUQKbOuN4=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "St Michael and St Gudula Cathedral, Brussels",
             "image_url": "https://lh5.googleusercontent.com/proxy/pLzqu3suNKC3emgi9wGumKLzJLViVpeaeHoplm9ZxvoD5Ct8JPw1xzpCr__dECHcrLCqVN_dloNKzpO1mFb-uVXxJWWta6yxJ1kVhmkiFa0cAb5ftVt93w1yILpGYOzXnPZ0nSKkENHoXsOTyIXNHO-qTRaLPKw=w148-h148-n-k-no",
             "score": "4.7"
@@ -1563,11 +1348,6 @@ const data = JSON.parse(`{
         {
             "name": "Pairi Daiza",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN936YnuJh4v1m-Vf_lT6QxeWWJSU0kTvzcdfVb=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Antwerp Central Train Station",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNJ7qureKOskEIEOfCeV004PViNs3AqmTT6lrP0=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -1586,11 +1366,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Parc du Cinquantenaire",
-            "image_url": "https://lh5.googleusercontent.com/proxy/e0fXLd--l-SaLGtHMlteQ5ZkSlIjTjx_t-WDEZ1FBPfAdynvwonXQadvGsVT69LsDPiP1QzGPdmQslJm9wmE-7p90Kr8m4nB2-U8hkHDPpR3A2ICwCC6tO7yc4ALa-L_GIRqY0drS5agD2lj9en2BY5pEjfu0CI=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Basilica of the Holy Blood",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNmXrcVWBRcfX4fmDbweETVQo2hnbzJaG52PfiT=w148-h148-n-k-no",
             "score": "4.6"
@@ -1604,11 +1379,6 @@ const data = JSON.parse(`{
             "name": "Autoworld",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOVfD6gAGj5GrOSFcpBNWByjtWFDP6dHa1iOBQH=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Royal Palace of Brussels",
-            "image_url": "https://lh3.googleusercontent.com/proxy/QwL4jvPzBkn7tbRfd47yz6VF1riRPlAOHKeBV3E6ZTt6pI106vNCYexjgGqAbLVrDFnUl99hh_lRKnwJ-jmif5E5g41B8YR3sZAwDn0bk04PC7obMttPtm0SRxH6sF3tQ91EX1Y9ACDszKRWm9X89qtT8yb5sg=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "De Burg",
@@ -1631,16 +1401,6 @@ const data = JSON.parse(`{
             "name": "Lamanai Archaeological Reserve",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-4_bIdHHi_lLlHljXNCelDeSl7YWzq983it1U=w148-h148-n-k-no",
             "score": "4.8"
-        },
-        {
-            "name": "Actun Tunichil Muknal (ATM Cave)",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNUfQD_gVTjR43JHlaXJGHXvmFPnvtexFWP_A-E=w148-h148-n-k-no",
-            "score": "4.9"
-        },
-        {
-            "name": "Hol Chan Marine Reserve",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMXi_8QNBQE97m8uMjibjTYF9c23pOhyX4Ze905=w148-h148-n-k-no",
-            "score": "4.9"
         },
         {
             "name": "Cahal Pech Archaeological Reserve",
@@ -1695,19 +1455,9 @@ const data = JSON.parse(`{
     ],
     "Benin": [
         {
-            "name": "Pythons Temple",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOsFFSICiKTVpTZZ20ULjFVouszAlYM7ghRRPP9=w148-h148-n-k-no",
-            "score": "4.2"
-        },
-        {
             "name": "Pendjari National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNNCkfqTA6_gsTtp3-9SFxlV4L6JNNJ7FoY_Wdm=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Fidjross\u00e8 Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOzlMQaqmmk9T0dZwZJRoWPVaT_YA-Bph4MZPgZ=w148-h148-n-k-no",
-            "score": "4.1"
         },
         {
             "name": "The Museum of the Zinsou Foundation",
@@ -1720,11 +1470,6 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Dantokpa Market",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNgFCp0fs-dxs_VHcvK1rSHlCM9cvHw8goWj73N=w148-h148-n-k-no",
-            "score": "4.0"
-        },
-        {
             "name": "Bab's Dock",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN_LRgttrw6IXelv7K_2j6e8J3C7apU3t1uakzF=w148-h148-n-k-no",
             "score": "4.1"
@@ -1735,13 +1480,8 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Institut Fran\u00e7ais du B\u00e9nin",
+            "name": "Institut Français du Bénin",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMWRAX8uTwkVeU3cqMmJpEGdIu0HlMalweaPXEw=w148-h148-n-k-no",
-            "score": "4.2"
-        },
-        {
-            "name": "\u00c9glise Catholique Saint Michel",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN9sFswPkot5VbQtuZ9hOrabXqz-wQ2mYfScKUN=w148-h148-n-k-no",
             "score": "4.2"
         },
         {
@@ -1750,12 +1490,12 @@ const data = JSON.parse(`{
             "score": "4.0"
         },
         {
-            "name": "Regional Center Songha\u00ef",
+            "name": "Regional Center Songhaï",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvLyg-8Lb-XEN5oG--2_wvJTfilhRIkpCkqmYk=w148-h148-n-k-no",
             "score": "4.3"
         },
         {
-            "name": "CanalOlympia Wologu\u00e8d\u00e8",
+            "name": "CanalOlympia Wologuèdè",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO0S_oojWxfSFW1MnS5QOXVVH5Rh6WjaViXt78L=w148-h148-n-k-no",
             "score": "4.2"
         },
@@ -1785,11 +1525,6 @@ const data = JSON.parse(`{
             "name": "National Museum of Bermuda",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPjk3xjFEXZMbOdV_Raf-I-7PPzkQjhT04V7PYE=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Royal Naval Dockyard",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPPNGo1IWQAULDFp2xIVCSeaxCAdxXOMk_P20Wl=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Bermuda Aquarium, Museum & Zoo",
@@ -1827,11 +1562,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "St. Peter's Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-R0SLRvfZT12hnyCpW_dfhfbm3jlVWhLF2pp-=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "The Swizzle Inn Pub and Restaurant",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPtvbfwpRaBXMdBWpEx0t-JQE0-PZ3OvNShoaOE=w148-h148-n-k-no",
             "score": "4.5"
@@ -1854,17 +1584,17 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Buddha Dordenma Statue \u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f62\u0fa1\u0f7c\u0f62\u0f0b\u0f42\u0f51\u0f53\u0f0b\u0f58\u0f0d",
+            "name": "Buddha Dordenma Statue སྟོན་པ་རྡོར་གདན་མ།",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOPmMjFCsbCwS9xY1wyLIx_jOMPYTwuIHCJtP04=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Punakha Dzong \u0f66\u0fa4\u0f74\u0f0b\u0f53\u0f0b\u0f41\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d",
+            "name": "Punakha Dzong སྤུ་ན་ཁ་རྫོང་།",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOtpmaIrZ9-fuqKD0d9A2AoEmUVWJZbNByfYdpB=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "National Memorial Chhorten \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f61\u0f7c\u0f44\u0f66\u0f0b\u0f62\u0f97\u0f7a\u0f66\u0f0b\u0f51\u0fb2\u0f53\u0f0b\u0f58\u0f46\u0f7c\u0f51\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0d",
+            "name": "National Memorial Chhorten རྒྱལ་ཡོངས་རྗེས་དྲན་མཆོད་རྟེན།",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNUU51tkaEXCUPIMAx2tJe00cCrQPGslo3OoWmD=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -1889,7 +1619,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Simtokha Dzong \u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f41\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d",
+            "name": "Simtokha Dzong སེམས་རྟོགས་ཁ་རྫོང་།",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNngkjwYm1HpJeIIXR7qf_ERTwLItmBVc3icgyO=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -1909,7 +1639,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Kyichu Lhakhang \u0f66\u0f90\u0fb1\u0f72\u0f51\u0f0b\u0f46\u0f74\u0f0b\u0f63\u0fb7\u0f0b\u0f41\u0f44\u0f0b\u0f0d",
+            "name": "Kyichu Lhakhang སྐྱིད་ཆུ་ལྷ་ཁང་།",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzax3h3tTprNnASYeJewsnsjOx7g3gcKuUQN-c=w148-h148-n-k-no",
             "score": "4.5"
         }
@@ -1926,22 +1656,12 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Valle de la Luna",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNtx9Pr3_ZgKmYmerq5OA-Wgv9Ae5Zaknw3a-zW=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Freedom House",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPO68V5ClWnnOmJ6xeA3zO3m_Gc4NF8-3l06Tw3=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Uyuni Salt Flat",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMpVUM8hoUMvpKTtkQatovM_D5-p36mdRL-6_Rr=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Parque Nacional Ambor\u00f3",
+            "name": "Parque Nacional Amboró",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMS0SBcQZe6Lf2pYee9qk68-lbYg8FZNMJTyyoG=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -1951,7 +1671,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Catedral Metropolitana Bas\u00edlica Menor de San Lorenzo de Santa Cruz",
+            "name": "Catedral Metropolitana Basílica Menor de San Lorenzo de Santa Cruz",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP1ZHln-bc3H62VJ7IjorGDl_yDlS7tN9_IObSB=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -1961,7 +1681,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Parque Cret\u00e1cico",
+            "name": "Parque Cretácico",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPNolv4-j8je6c-rp5e8QyyWjVveWEVVi0Py5qG=w148-h148-n-k-no",
             "score": "4.3"
         },
@@ -1971,35 +1691,15 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Ethnography Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO7pIC-FUQbIKruIK09R9TO1raJQ6E07Z7VMYgL=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Plaza Murillo",
             "image_url": "https://lh5.googleusercontent.com/proxy/fvTO_aUk17XK_Ubrql-5rIaxFG42i19h1vMiN8KQHDFFBYAlr-QrJwmFJNBf2WagGaJgKnfT1YBiUFvwyMDIgCZx0femYPjmQFqYJ05Z4xxhzrMks8hWZzQn8xihfuXfn2wSEaB8FhM35AX3q7yeUPHa4pqGWw=w148-h148-n-k-no",
             "score": "4.2"
-        },
-        {
-            "name": "Kalasasaya",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMjBvSDDjAX9stpvubUJMRQRHHQ0Ia_9N6xmr-X=w148-h148-n-k-no",
-            "score": "4.6"
         }
     ],
     "Bosnia and Herzegovina": [
         {
             "name": "Old Bridge Mostar",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNclg9n4tztM1H81EhtFaWj4KgR_JmWuGH56izv=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Kravica Waterfall",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNIFzk4hGgtanoKycz-x5vfwZsMMlhjddW4Dg2E=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Ba\u0161\u010dar\u0161ija",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOOfVuZzZ8L6oRL6KoATSB8ZuAUe5H_dFVHpyRu=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
@@ -2013,7 +1713,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mehmed Pa\u0161a Sokolovi\u0107 Bridge",
+            "name": "Mehmed Paša Sokolović Bridge",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOfdk1bSpXigrdR-PK6rVRgZKYB1GOrbfrDOb0i=w148-h148-n-k-no",
             "score": "4.9"
         },
@@ -2152,12 +1852,12 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Museu do Amanh\u00e3",
+            "name": "Museu do Amanhã",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP0Im0a2OtQ7k0T3qVckbVGu8WFqY0LP24Z6YPG=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Escadaria Selar\u00f3n",
+            "name": "Escadaria Selarón",
             "image_url": "https://lh4.googleusercontent.com/proxy/0-8S2xJBi0D1pExBD6QTuOnXwvVVpCMVz2bbWr3MKK7utiu1cKEw4J11UiJsMMgldaW-XrLGLc8AHfTqhQtJYTtu3Qzt0FmEkysNw39nm2RmSWavhCFaTmTI5rJ1oTKWSc3UeD9wBJG5WJVx3wSnjfJKZrK00j0=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -2187,7 +1887,7 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "Catedral Metropolitana de S\u00e3o Paulo (da S\u00e9)",
+            "name": "Catedral Metropolitana de São Paulo (da Sé)",
             "image_url": "https://lh6.googleusercontent.com/proxy/uCJuY1qOLSUHOzVqlO4AEnogXoa98MYOnWzSdzxafQ8iQAVpk9KUZqxGN_dM_DGqU9gS_dWnD5ymvUWWo6ZczCIoSp0KUi4R6PQ6n0eVURPsyHeKxTzUKX3cx85xF0T6bGhPLE91pYYce-nvOhgUw_kmP_cFeA=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -2197,12 +1897,12 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Catedral Metropolitana de S\u00e3o Sebasti\u00e3o do Rio de Janeiro",
+            "name": "Catedral Metropolitana de São Sebastião do Rio de Janeiro",
             "image_url": "https://lh5.googleusercontent.com/proxy/Mt_WVAjz-0I3-klPcmMdn_dxWOXcdYCEi-sw2QXeaDJuLoBc1zAgrNPxPxquHHovvGPbnS0k1nPUdaH7P44IjS4cOtscRQolEY9fwuJPEOVUPw2Ca4AnkszWeUSDBMvy16FXsS1EMtpLbnb6tDxd7OA8XYcMEQ=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Museum of Art of S\u00e3o Paulo Assis Chateaubriand",
+            "name": "Museum of Art of São Paulo Assis Chateaubriand",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMGIvyxHIHM6WzEEpOvqyVXatJC6W7QklJ5smMm=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -2212,12 +1912,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mercado Municipal de S\u00e3o Paulo",
+            "name": "Mercado Municipal de São Paulo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMCjzfqHhBdXVISVvnKo4XbhXzu4IvpPzFheDWW=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Pinacoteca de S\u00e3o Paulo",
+            "name": "Pinacoteca de São Paulo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNopDJ8rZgbXHFP34Ewom3j12Rnrr13M0kCIHyK=w148-h148-n-k-no",
             "score": "4.8"
         }
@@ -2326,11 +2026,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Jerudong Park Playground",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMcjAfBiQX9BQ_J-EkeoU8ZApUyoxT3tw-7B3jx=w148-h148-n-k-no",
-            "score": "4.2"
-        },
-        {
             "name": "Tasek Lama Recreational Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOVKAga7IhJHVOi1uvKoEUomuVszpANj2q9K_rU=w148-h148-n-k-no",
             "score": "4.5"
@@ -2393,7 +2088,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Aquapark Nessebar | \u0410\u043a\u0432\u0430\u043f\u0430\u0440\u043a \u041d\u0435\u0441\u0435\u0431\u044a\u0440",
+            "name": "Aquapark Nessebar | Аквапарк Несебър",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOS37Se7QsPWGoSXoWJ0N1pqffFrLFgaiPPaqnl=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -2403,24 +2098,14 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Church of Saint Sophia",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNuNsxuuU3QWkfhay_3WZYsDyW59m9FGec7cTrK=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Ancient orthodox rounda church 'Saint George' (4th century)",
             "image_url": "https://lh3.googleusercontent.com/proxy/1Ew1MbDsNbCbVuCldQvLpqC18ilWJggAyxmzfU7i5BpD3qzxaa2QnZl08_zPL37o5pbvc4EDTswiLHfDW7ApjUDWtoiUBJhKpg7URAhTOnuFQf3I-wWtQbqv2ntkrkezcCTP_3a5saDrA5S4MQE8jG2v-rPC2-k=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438 \u043f\u0430\u0440\u043a - Historical Park",
+            "name": "Исторически парк - Historical Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMuIvXjLjsjyZlKDJL7wYT0WWM78aA1O4f87Dij=w148-h148-n-k-no",
             "score": "4.8"
-        },
-        {
-            "name": "Sea Garden",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM2di6lxUQW4t7Y0fMXjICNTZY6m_Kqwr5mh3Q=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Ancient Theatre of Philippopolis",
@@ -2438,7 +2123,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Museum of illusions/\u041c\u0443\u0437\u0435\u0439 \u043d\u0430 \u0438\u043b\u044e\u0437\u0438\u0438\u0442\u0435",
+            "name": "Museum of illusions/Музей на илюзиите",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOyB1x_YP5o_YWWd_gtrUikRh9GYVyh0tG9Au8t=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -2470,24 +2155,19 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Grande Mosqu\u00e9e de Bobo-Dioulasso",
+            "name": "Grande Mosquée de Bobo-Dioulasso",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMIcnLBHf_c7gIBmQ-oCuht-AblO0sjpdM8kj_2=w148-h148-n-k-no",
             "score": "4.3"
         },
         {
-            "name": "KB et fr\u00e8res",
+            "name": "KB et frères",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no",
             "score": "4.2"
         },
         {
-            "name": "\u00c9glise de Dapoya",
+            "name": "Église de Dapoya",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no",
             "score": "4.0"
-        },
-        {
-            "name": "Pics de Sindou",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP0WQ-Oh62s6Hot31HgpTgsDXze323Eb9iv0jVE=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "National Museum of Burkina Faso",
@@ -2495,7 +2175,7 @@ const data = JSON.parse(`{
             "score": "3.9"
         },
         {
-            "name": "Mus\u00e9e de la Musique de Ouagadougou",
+            "name": "Musée de la Musique de Ouagadougou",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no",
             "score": "4.0"
         },
@@ -2505,7 +2185,7 @@ const data = JSON.parse(`{
             "score": "3.9"
         },
         {
-            "name": "\u6cb3\u9a6c\u6c60",
+            "name": "河马池",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNRup0vBc1gAnJ3-yfeXsFNbiTgm9ZCT0gckhcw=w148-h148-n-k-no",
             "score": "3.7"
         },
@@ -2515,7 +2195,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Ruins of Lorop\u00e9ni",
+            "name": "Ruins of Loropéni",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNOCHmz_7Iz-yZB_Ob8WP5gxNi_7PDSJCVxVnal=w148-h148-n-k-no",
             "score": "3.5"
         }
@@ -2547,11 +2227,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Mount Heha",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO0JmwoTck-Oxjknu31FHW4t3c16fx21X8O5Os7=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Bujumbura Zoo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMpY7mU4_p8tqrBD650YAzXkjj0AMfW14wza0De=w148-h148-n-k-no",
             "score": "3.8"
@@ -2562,11 +2237,6 @@ const data = JSON.parse(`{
             "score": "3.8"
         },
         {
-            "name": "Saga plage beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOp8kd_qFJmW6W4GSoRAGwl_jxJ5JAdCfJpd9bb=w148-h148-n-k-no",
-            "score": "4.1"
-        },
-        {
             "name": "Regina Mundi Cathedral",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMd2CWRjH3rnRqO6cJj6Hx9dwLQKQ5nuOJa4DG4=w148-h148-n-k-no",
             "score": "4.8"
@@ -2575,11 +2245,6 @@ const data = JSON.parse(`{
             "name": "Rusizi",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN-NnIlL77xr3XRlNYRbZ-LCKti4bPAyxFZiL9h=w148-h148-n-k-no",
             "score": "4.1"
-        },
-        {
-            "name": "So Beautiful",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP53lduWAXJgRqo8LQZkyrTd-epzTXp6QNpEOgQ=w148-h148-n-k-no",
-            "score": "4.0"
         },
         {
             "name": "Bururi Forest Nature Reserve",
@@ -2634,11 +2299,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Independence Monument",
-            "image_url": "https://lh4.googleusercontent.com/proxy/NHhyWQpQmx0ZuWxl4yDp3Rq2NpPXBy5mCVkFx_NgF4I-jdrytrKf6lQ9KmGw2zwmpZZ_6Pe2Lq4D8rDUegHHnSQIBMS4twGg0v58MsPNFXOFXaxZCNLzV5-zF4IvFEly7WgTwrl9TpADhsvxlnl84q_W8AHL8w=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Prasat Beng Mealea",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPsNXzg-uYhT809tQ23HinVfUvz5IysYOvaVslo=w148-h148-n-k-no",
             "score": "4.7"
@@ -2676,24 +2336,14 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Parc de la M\u00e9fou (Ape Action Africa)",
+            "name": "Parc de la Méfou (Ape Action Africa)",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM6mdZUUDhy8dbkPqPy-yW5p9w0uDwW-hwGyDC4=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "National Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPNWI6oMUrlYsH3nQBuoka2T5SGKD2Tj7CIzIYi=w148-h148-n-k-no",
-            "score": "4.0"
         },
         {
             "name": "Mount Cameroon",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP4mpSWEdLezkj0soia58EQ99fIetHxBZbd-2-v=w148-h148-n-k-no",
             "score": "4.2"
-        },
-        {
-            "name": "Chutes de la Lob\u00e9",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP5PVnh4EY-9VL5FdlHORl-2AooUS-jQUbnB-kO=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Maritime Museum Of Douala",
@@ -2758,24 +2408,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "St. Lawrence Market",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOtHWe9dld5uIkJgwa2Xw1Hm9S0o20mTwTG-0mx=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Notre-Dame Basilica of Montreal",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN9086eAw56xOQ0kkXxeBfNnUmGK4kAntkzd8bc=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Banff National Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzimxJsxAtGlcTnauzpuNQJd7pcPn5l3BsQ3w_=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Jasper National Park Of Canada",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMXzs_aQvHZNX_k4Pt0hxNi8AL93f7in50gfYP1=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Capilano Suspension Bridge Park",
@@ -2803,7 +2438,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Fairmont Le Ch\u00e2teau Frontenac",
+            "name": "Fairmont Le Château Frontenac",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP_BPjPMqJR69lVf7dv_8mtPUDvuzF5huYADrW2=w148-h148-n-k-no",
             "score": "4.7"
         }
@@ -2845,7 +2480,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "S\u00e3o Vicente",
+            "name": "São Vicente",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN-6TiBpppKTQ29iWY7gf4JBOPCDb8QHkAmMNKI=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -2860,7 +2495,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Santo Ant\u00e3o",
+            "name": "Santo Antão",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMBpFcUWHnkZn-v1nFOE0NvDcSi6zbomQP6z4Qa=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -2875,12 +2510,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "S\u00e3o Nicolau",
+            "name": "São Nicolau",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOZ9aqoh8czzw-jRxMQRj0TSjQWti_frGwrqX-y=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "S\u00e3o Filipe Royal Fortress",
+            "name": "São Filipe Royal Fortress",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP1orCfU6wxi4RSsk5gbRHicKYgpgrwVSUje9cV=w148-h148-n-k-no",
             "score": "4.4"
         }
@@ -2902,24 +2537,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Starfish Point",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPxCmJp8H9eRFZGU6FCJ1OKSXtp1mrD5E_ZzdLA=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Governors Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNTXzifY_t0J9yzOR6WSxdqyp8s9U0BA-3QQ0jB=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Seven Mile Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM0jBEClrMyM_4cwlWu6M0ES5nzYx0_Pfq_fMIb=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Cayman Spirits Co.",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPG-HH0p7-K2-UgUXDIX9kUpbkBgfpr1d4pwmp3=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Cayman Islands National Museum",
@@ -2979,7 +2599,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Grande Mosqu\u00e9e de Bangui",
+            "name": "Grande Mosquée de Bangui",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMuUpS8nIGRgNExT_oNNzuA1Yzswt-68Eebbbyp=w148-h148-n-k-no",
             "score": "4.3"
         },
@@ -3031,7 +2651,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "\u0647\u0636\u0628\u0629 \u0625\u0646\u064a\u062f\u064a",
+            "name": "هضبة إنيدي",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM_lqHjAuYTpycH2_fv7mfkGTdFQcfJr86dVEi_=w148-h148-n-k-no",
             "score": "5.0"
         },
@@ -3063,11 +2683,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Valley of the Moon",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMmZ4UQ2vriACFJVbBRh8sFTZwK6unMKuvMJle6=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "El Tatio",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN75luSjuizHhTg1dpymFv_YDmRd_YRZnZQEQTk=w148-h148-n-k-no",
             "score": "4.8"
@@ -3093,12 +2708,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Pumal\u00edn National Park",
+            "name": "Pumalín National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN4I-s3w-FErMmuGBgFCEJ6X5Q-dmrYYDkccQgY=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Vi\u00f1a del Mar National Botanical Garden",
+            "name": "Viña del Mar National Botanical Garden",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNCejNpN3tRfKmK5O1rmOH9Hm9T415esO4VR224=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -3118,27 +2733,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Valle Nevado",
-            "image_url": "https://lh4.googleusercontent.com/proxy/3D_NQELb-ScyvbqGw0PAGRZ2ex9qpcrGFS8FGQ75-YKNWwimgYWWaDAR0TqnhH6_qAG2ieI1lRKNG23_xODjeDDWgtJAG0ADNjMi8DeOsmgZm96XmdyM6xU_3Ba8EIaVgYduyNP4ATMUgVott6a8uMmGcQtJ4og=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Cenco Costanera",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMu_Ya_tavmTRadga1Ua6YZIpcq8h5eW3xe4lsw=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Humberstone and Santa Laura Saltpeter Works",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO4XcM6ngCS5x2Uztem0lDaEq8HbapuH6a5YmII=w148-h148-n-k-no",
             "score": "4.8"
         }
     ],
     "China": [
-        {
-            "name": "The Bund",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMp2uz3fio3j3A8mCbYpkZrsUxolWSsso9orRCT=w148-h148-n-k-no",
-            "score": "4.7"
-        },
         {
             "name": "Summer Palace",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPz1MIwtvtyUf6ItKwNGRUVBtTLWSRGj3DAqA_f=w148-h148-n-k-no",
@@ -3153,11 +2753,6 @@ const data = JSON.parse(`{
             "name": "Yu Garden",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN3freQ3RdimftW-23gw96nXPQKcAZFSy1unYkm=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Forbidden City",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMT-owNd7Te6Qye3epDAUnoIfHTiYp_6D6TuVkN=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Hong Kong Disneyland",
@@ -3227,11 +2822,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Dolly Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMxLZiM54ozhDdU37J-2WBI3ZaI5KDzKsj6hlJX=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Ethel Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNHM7UhPp8WYuEYW5IyB3U85h7RW9H3ljRGhQL-=w148-h148-n-k-no",
             "score": "4.8"
@@ -3252,11 +2842,6 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Greta Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOkmI2K-5p0N7nZ3o-I7XVoa4ADSUGE2WilKK0l=w148-h148-n-k-no",
-            "score": "4.1"
-        },
-        {
             "name": "Ma Chor Nui Nui Temple",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMALXOkIfcaCj6dCK-DYo64BQqIZ9F0u7OclyX3=w148-h148-n-k-no",
             "score": "4.4"
@@ -3265,11 +2850,6 @@ const data = JSON.parse(`{
             "name": "Christmas Island Golf Course",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO5UdVbI1VCKa7Ec5A3SDqUEddxaFrsyw5Lz2Pc=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Golf Course Lookout",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNUNrCSA_aQVHCK-L9dX2XiXQX9D8Rus4c1W5Ff=w148-h148-n-k-no",
-            "score": "5.0"
         },
         {
             "name": "The Dales",
@@ -3341,7 +2921,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Santuario de Nuestra Se\u00f1ora del Rosario de Las Lajas",
+            "name": "Santuario de Nuestra Señora del Rosario de Las Lajas",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOFKTjFai-BgiDhD8IHZf2_SmkEJ5ApGjAALJp4=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -3351,17 +2931,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Gold Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNRRzvIETTlxQqNhSltjK1XQ1YG-YXd2uk_ibn-=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Botero Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOzbpV-SXaH7afjEj7iPAImOzfEbAE6IOCRcyLc=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Plaza de Bol\u00edvar",
+            "name": "Plaza de Bolívar",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNC5d4vpGfL0dHFFm5HFtouYfA9Wxb1UTArw17P=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -3371,7 +2946,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Tem\u00e1tico Hacienda N\u00e1poles Park",
+            "name": "Temático Hacienda Nápoles Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPJERRvfVtDBJLLwV_-GVQP2JGSQKSnhPVnEk8c=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -3386,17 +2961,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Parque Arqueol\u00f3gico De San Agustin",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOm7GCkkgK9HIBYmLn2HGYRs2xJ6_vz4froALcl=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Paloquemao Fruit Market",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMKbYwaPpYuRHZPwY9IkU6oIn3sWVIMCQ9JMqau=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Plaza Botero - Medell\u00edn, Antioquia",
+            "name": "Plaza Botero - Medellín, Antioquia",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNdMZa_7sp9oxnjf1sV46x_OjNizl8hzFgBwiUe=w148-h148-n-k-no",
             "score": "4.3"
         },
@@ -3423,14 +2993,9 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Mosqu\u00e9e Mssihiri wa Cheik Ahmed",
+            "name": "Mosquée Mssihiri wa Cheik Ahmed",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOeOQ1SWDrR693wRtezMk3Zgc9SGLLpZ60wkzTA=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Lac Niamawi",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMVpxEjn7S7Yc3S7O-IV-sblHLyB7-4QAN24UTy=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Akili Travel",
@@ -3453,11 +3018,6 @@ const data = JSON.parse(`{
             "score": "3.9"
         },
         {
-            "name": "Ancienne mosqu\u00e9e du vendredi",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipObrGM-gguOfzSNF1utv0K3K-mSj_PwatHNi8aW=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Moroni Stadium",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNMbw2fStn_rrCp5QAFW2-RjKlKccJOnKWLdTwF=w148-h148-n-k-no",
             "score": "3.8"
@@ -3466,11 +3026,6 @@ const data = JSON.parse(`{
             "name": "Plage de Moya",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN0XB4STuI4xP_yZXyu7Rtgniq5rE5kAspVTtY=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Grande Mosqu\u00e9e de Moroni \u0645\u0633\u062c\u062f",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvj0BikftTUg7IcDT2mNLJ6o8VZw3rB89hQsNU=w148-h148-n-k-no",
-            "score": "4.2"
         }
     ],
     "Cook Islands": [
@@ -3587,7 +3142,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "M\u00edstico Arenal Hanging Bridges",
+            "name": "Místico Arenal Hanging Bridges",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM0LtMuX3CELknfDldcMjChevK4memtsiqxwKm9=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -3607,7 +3162,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "San Jos\u00e9 Central Market",
+            "name": "San José Central Market",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOdzT8daP-h71d3oyYI9mkm02EJtJ3moUQWia98=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -3701,11 +3256,6 @@ const data = JSON.parse(`{
     ],
     "Cuba": [
         {
-            "name": "Plaza de la Catedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNw1GpbnkJhs7QlJU3qVyCiuPWD7Eyq9SA-dA14=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "National Capitol of Cuba",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMLfvTihv_Ntf9h1kR97ek6SpOa2QAx69gVtfYj=w148-h148-n-k-no",
             "score": "4.7"
@@ -3731,7 +3281,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Vi\u00f1ales Valley",
+            "name": "Viñales Valley",
             "image_url": "https://lh5.googleusercontent.com/proxy/vyP_L5gl3qjNTdA19YYQ6Xo4JHJGAivV9yMSb7UKWAtnKS4GWiDxseQtpB3IP81RjeNNb6JF3yHGTnScS4SVEE2D_W1VZ6PIe3zVP62ACGxKITDZ9u7LklEtiDhkxYGfak1GLuXKcwQzuJB567oru1Le3wsHfw=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -3756,14 +3306,9 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "La Catedral de la Virgen Mar\u00eda de la Concepci\u00f3n Inmaculada de La Habana",
+            "name": "La Catedral de la Virgen María de la Concepción Inmaculada de La Habana",
             "image_url": "https://lh3.googleusercontent.com/proxy/Nd20yXIURm2hvUWNzcRvHYXv5ud1SizwUoQpcC5NbgFDUKq6PJ5cBlnmhnKD-dOQcN-trPCRLp7VVU5T1LNWxuWOD-nwN4LcTewsJJnw893P9rKEFsjWaNTs5Nyv3dJbpY3s4uYrW5zoPhv2IG3FiKSmKGe1w8A=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Castillo del Morro",
-            "image_url": "https://lh5.googleusercontent.com/proxy/VtMYiB0S8mMvOHDNpfRH8F_oAOgoqfeRH65sGEy-FsJYUG-54vyABWYFTY5WTQvLvWsH-SJcob9-mnIcqgo9qwt8C1J6hExzlUg6v9F0MvCaAkraG41muRFlw9mFGSHmfLVH7hLTL92n_2mB3DNoV7QbJ7-i5yo=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Che Guevara Mausoleum",
@@ -3771,7 +3316,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Crist\u00f3bal Col\u00f3n Cemetery",
+            "name": "Cristóbal Colón Cemetery",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM4iJ-FlvhZdbMRIDfn0kvsfTDs_d_aqI7hHUzs=w148-h148-n-k-no",
             "score": "4.5"
         }
@@ -3788,7 +3333,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Cura\u00e7ao Sea Aquarium",
+            "name": "Curaçao Sea Aquarium",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPcf51U8DUVuRN6HAYVumg_ra7kFXLjHzBw56UM=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -3823,12 +3368,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mambo Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOwDpapxkuS615qwoEfFG5m2-pgwSh_uujv7ftu=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Cura\u00e7ao Cruise Terminal",
+            "name": "Curaçao Cruise Terminal",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOAalAAmk9v-vwakkPeMyueyGl133G2LXG9sQ0v=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -3836,11 +3376,6 @@ const data = JSON.parse(`{
             "name": "Christoffel National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMEmx7_Xs6fw339TaIKntyeSatvS5XMkGqTXnL1=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Renaissance Mall & Rif Fort",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPmEF0Vu6-HJ4yBVwI_4Zt7IZEDov97KrQbLodG=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Little Curacao",
@@ -3925,14 +3460,9 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "\u03a5\u03b4\u03c1\u03bf\u03c0\u03ac\u03c1\u03ba\u03bf \u03a6\u03b1\u03c3\u03bf\u03c5\u03c1\u03af\u03bf\u03c5 Watermania",
+            "name": "Υδροπάρκο Φασουρίου Watermania",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNTovkA5vRwem0xfxYddgpQppJX76wbJi42ZBfg=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Profitis Ilias",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOBM5yFEud3ZhS_F_DuyslmkoFDws4h1YJbkM6J=w148-h148-n-k-no",
-            "score": "4.8"
         }
     ],
     "Czech Republic": [
@@ -3962,7 +3492,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Karl\u0161tejn Castle",
+            "name": "Karlštejn Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPJ5hIUuv90dNcI1Oe09zDN0_wmHTwV1q8oC1Cf=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -3972,22 +3502,22 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Obecn\u00ed D\u016fm",
+            "name": "Obecní Dům",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMvclwbZTuWSUxvoGgWp6Zz4L_seSxvxA0Nmsf3=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "The State Chateau of Hlubok\u00e1",
+            "name": "The State Chateau of Hluboká",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPcOZLw4SLB3Kl7kztXKpgu3w5Yc_mfaGMFgBNu=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "State Castle and Chateau \u010cesk\u00fd Krumlov",
+            "name": "State Castle and Chateau Český Krumlov",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO_eugREK-_MQxI_PHwtip2gURqt9aLyOhgFAGS=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Vy\u0161ehrad",
+            "name": "Vyšehrad",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPZYw8l514XwBCI4ZDVzNPia5RcDkao4DTanPeq=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -3997,22 +3527,12 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "St. Nicholas Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOOPh8ky6s1G8-qNleldtDfV7vQFrAGDoaAGFr-=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "N\u00e1rodn\u00ed Muzeum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPweSMZvmOuuA969bV8XZz7YMG5p0ciK-x464o2=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Sedlec Ossuary",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-5hQ2YR-4WudmaEfeZ48Q_MxvxCzujSf2DPNA=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Pra\u0161n\u00e1 br\u00e1na",
+            "name": "Prašná brána",
             "image_url": "https://lh3.googleusercontent.com/proxy/BuIiTu3EjifJx873HhKLbUnSWMU9-k2Arp8Vtfmu7q2zmDxKH3nQPFKs0apu3Cv3KgsE-HbAFjPQRWZFPBN_2o1iMgtK-DuMB3ufZudkkUeEH-TdwptJupUXFpDfCPDlvmdTHmXjxIZvYVYuqGvHJIJ3bijLWQ=w148-h148-n-k-no",
             "score": "4.6"
         }
@@ -4044,11 +3564,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Acad\u00e9mie des Beaux-Arts",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM8zkSbSxHEN5bxw0R0UO18pWwebDrHX9eJUSwE=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Maiko National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMiro0EAT8vFeI4VHkMYTZ0aJ1KS7jz98plau6D=w148-h148-n-k-no",
             "score": "4.2"
@@ -4064,17 +3579,12 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Lualaba",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNwhzlP7F9ZdTwzdiCVN6YtR4JF7KZL-ZvcaMEU=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
             "name": "Upemba National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMYIZY0YNIrN2mrSj64aaep33ZtgFrRpx3tdEmf=w148-h148-n-k-no",
             "score": "4.2"
         },
         {
-            "name": "Parc de la Vall\u00e9e de la N'Sele",
+            "name": "Parc de la Vallée de la N'Sele",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPOjPll0ado--IvNTn17wgj0_18aJR7eV71FVOB=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -4136,24 +3646,14 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "The Old Town",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOqN-rr3WA1tm9yS3Ytct00WfjnGNPje6OZJf8Z=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Kronborg Slot",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM1D5T_Mwl72Cb3nzW5ozcNJN5leHhBXFh4MpTi=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "SMK \u2013 Statens Museum for Kunst",
+            "name": "SMK – Statens Museum for Kunst",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMPL6kAbOk7NaA7i2EpSQZdbymifO3D_lWpQbFo=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Church of Our Saviour",
-            "image_url": "https://lh4.googleusercontent.com/proxy/uTlMkYfCkeuGPuHqus_h0hZQ899GIbJB9VlbtjkeOLYmFFbWxGJrCVLWrkXFrWLirNz4XwPIqY7U8W6Zor4xF3wEbYKjBYAO-l3Nb2Hk_9XcnyR_OeuFcTi6Mi7V5hCT9Llx1NePRuadCIisRYA_klEKJv1ZZA=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Moesgaard Museum",
@@ -4161,7 +3661,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "LEGOLAND\u00ae Billund Resort",
+            "name": "LEGOLAND® Billund Resort",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPqLiXbm74f3IxNK2bh3FkL0eaHh5I0JyvPB1Q=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -4193,7 +3693,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Mosqu\u00e9e Al-Hamoudi",
+            "name": "Mosquée Al-Hamoudi",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMJ0iAFjgl2znDhPD8F1-yTw5B714XgyM-rQhb5=w148-h148-n-k-no",
             "score": "4.3"
         },
@@ -4270,11 +3770,6 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Middleham Falls Dominica",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOXnKmho6iJwtvXw1iMdNJjmGutjzTGa3PanMkL=w148-h148-n-k-no",
-            "score": "4.9"
-        },
-        {
             "name": "Screw's Sulfur Spas",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNn2o6kU_DEGg-H_Mo09FGDwgNXLHolVX4nTwpm=w148-h148-n-k-no",
             "score": "4.6"
@@ -4303,11 +3798,6 @@ const data = JSON.parse(`{
             "name": "Fort Shirley",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNJ800J5HKl2g-A-YzYTcsVB4sjoslINN24zwqJ=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Kalinago Barana Aute",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMpEjuxmJ93bjld7m5A4Lc6TUTu89l4qzeEkiMB=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Roseau Cruise Terminal",
@@ -4342,17 +3832,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Hard Rock Hotel & Casino Punta Cana | An All Inclusive Experience",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNCI_GgVNaN9f__vBIbNlb6FMBZxOszmoLplKCm=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Casa de Campo Resort and Villas",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNL_V_-dKa9F-fQfdOaCtuOnm_JOp3Tr1e7snTL=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Barcel\u00f3 B\u00e1varo Palace",
+            "name": "Barceló Bávaro Palace",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPM4JPrAfd6fnGBBsBs8t3FxICVRRYzSBL0lZzn=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -4377,14 +3862,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Alc\u00e1zar de Col\u00f3n",
+            "name": "Alcázar de Colón",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOcC99QWqHOcOkSRtQiVGCZIeEp1AYGx7IbLtF6=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Dreams Royal Beach Punta Cana",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPw0thJiHpRbXiGbXi0ii069YuDlCgJB269Nxgo=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Saona Island",
@@ -4409,11 +3889,6 @@ const data = JSON.parse(`{
     ],
     "East Timor": [
         {
-            "name": "Cristo Rei of Dili",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMdSwNg8wzOK2YwarFv_DH7Fq0Hf0Sy9BUcd52o=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Largo de Lecidere",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipONUUdWiE25WvAWULhb95KEkk4lBIM9bl_evcfK=w148-h148-n-k-no",
             "score": "4.5"
@@ -4424,7 +3899,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Xanana Gusm\u00e3o Reading Room",
+            "name": "Xanana Gusmão Reading Room",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPPWSJbMVOLA_mzLjdM3UG2s1e3DHA6r31IKws=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -4467,11 +3942,6 @@ const data = JSON.parse(`{
             "name": "Marobo Hot Spring",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPHwCfNGgSNgZOQ9g401u483LTUWmk79bHP5xr8=w148-h148-n-k-no",
             "score": "3.7"
-        },
-        {
-            "name": "Immaculate Conception Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNk3RUpByQVUM8ngtbRD5mrZO9L3SiK0qQ4630=w148-h148-n-k-no",
-            "score": "4.2"
         }
     ],
     "Ecuador": [
@@ -4486,18 +3956,13 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Telef\u00e9riQo Cable Car",
+            "name": "TelefériQo Cable Car",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPnJ4w22tImaCH5riog30X9kv2wfYDyNoTBj2sN=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Bas\u00edlica del Voto Nacional",
+            "name": "Basílica del Voto Nacional",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOumtpt6mL4cGsVDeQTuz_1le845F06UfblNmQh=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "CASCADA EL PAIL\u00d3N del DIABLO",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMpjlCo3rUxlPldB-7dVKLFKa4r-R8FnZlwNubu=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
@@ -4506,7 +3971,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Inti\u00f1an Equator Museum",
+            "name": "Intiñan Equator Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOMvpXPLi5YiW4zQmRh7QM288-ErybRkawkhO7R=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -4608,7 +4073,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "\u0642\u0644\u0639\u0629 \u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u0623\u064a\u0648\u0628\u064a",
+            "name": "قلعة صلاح الدين الأيوبي",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPYfPoFcrdMQJRWnkPZOAaObR0sLWGfxt5MLGns=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -4625,7 +4090,7 @@ const data = JSON.parse(`{
     ],
     "El Salvador": [
         {
-            "name": "Parque Nacional El Boquer\u00f3n",
+            "name": "Parque Nacional El Boquerón",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPDW647rlOR6-ZPfVWyLQ1nZwb3Ys6jrCbBs2hk=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -4650,12 +4115,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Parque Arqueol\u00f3gico Joya de Cer\u00e9n",
+            "name": "Parque Arqueológico Joya de Cerén",
             "image_url": "https://lh4.googleusercontent.com/proxy/kX1X9DLfbOBJEbASbBL7Bd7KoAwfQ9DcrNyogz7GV9P5bZ4o0NconbZAj_TtrevlFqK1gNLTPWu6um481-W6YiibsFGjQnL3KSL_cZAJdK0mHXnC0y0Pt4kaXoLB21oNelF-SP40rixS2iJg6GSzyZ_NPVA3W0s=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Catedral de Nuestra Se\u00f1ora Santa Ana",
+            "name": "Catedral de Nuestra Señora Santa Ana",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN9hzFOmBtHErTcHlLcIvfKeLhtJK_LMcMfppcI=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -4670,7 +4135,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Dr. David J. Guzm\u00e1n National Museum",
+            "name": "Dr. David J. Guzmán National Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOpuGfDny3RZ_MSDeARzfGlbKtTBw1j6ffjtSOh=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -4690,7 +4155,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Parque Arqueol\u00f3gico Tazumal",
+            "name": "Parque Arqueológico Tazumal",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPB6mqF8x2WYQFu0AZc6GDRDoArQNVDx8pg9IbT=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -4712,7 +4177,7 @@ const data = JSON.parse(`{
             "score": "5.0"
         },
         {
-            "name": "St. Elizabeth\u2019s Cathedral",
+            "name": "St. Elizabeth’s Cathedral",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNokDnHk5QKB1QUEUt312cSeaN4pa8kJ3Vzg9rQ=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -4722,19 +4187,9 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Espa\u00f1a Cultural",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP9Nvw8_yrKeOziBVU8CKGvczsstQyYnHh9RpI=w148-h148-n-k-no",
-            "score": "4.1"
-        },
-        {
-            "name": "Pico Basil\u00e9",
+            "name": "Pico Basilé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPcQ1iP6O6aX0NHlKaJSeaSCfUKmzrQ4myLrjyP=w148-h148-n-k-no",
             "score": "4.1"
-        },
-        {
-            "name": "Malabo Stadium",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMMX7vtpzU52t5Pa6BeC2lr8Udc9wk3qSPq3OzQ=w148-h148-n-k-no",
-            "score": "4.0"
         },
         {
             "name": "Elobey Grande",
@@ -4757,7 +4212,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Parque Nacional del Monte Al\u00e9n",
+            "name": "Parque Nacional del Monte Alén",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMu32NlhDIdJ2z_GdzUxCSsRJE6zmg1H5A0cL9J=w148-h148-n-k-no",
             "score": "4.2"
         },
@@ -4769,17 +4224,17 @@ const data = JSON.parse(`{
     ],
     "Eritrea": [
         {
-            "name": "Fiat Tagliero \u1361\u134d\u12eb\u1275 \u1273\u120c\u122e",
+            "name": "Fiat Tagliero ፡ፍያት ታሌሮ",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOeHE85RuIu5dc71DpKBaMxXpcofofDOpKs7u5h=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "\u12a3\u1235\u1218\u122b \u12ab\u1274\u12f5\u122b\u120d | Cathedral Our Lady of the Rosary",
+            "name": "ኣስመራ ካቴድራል | Cathedral Our Lady of the Rosary",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNZBP6m1kmcVxCZTEEudyuGJsaS-ginysexwUiq=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Khulafa al-Rashidun Mosque - \u1303\u121d\u12d5 \u12b9\u1208\u134b\u12a5 \u12a3\u120d\u122b\u123a\u12f2\u1295",
+            "name": "Khulafa al-Rashidun Mosque - ጃምዕ ኹለፋእ ኣልራሺዲን",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNh_11LEA4HW-FhFCsHLZamBmPmsYlsmjRaPYEB=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -4792,16 +4247,6 @@ const data = JSON.parse(`{
             "name": "Teatro Asmara",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOGb0LMv_AFfwLsacsLb27hbceQ3OEYwlI0CchS=w148-h148-n-k-no",
             "score": "5.0"
-        },
-        {
-            "name": "\u0645\u0633\u062c\u062f \u0627\u0644\u0635\u062d\u0627\u0628\u0629",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMB4QOhTVEPMuL6Zj3iFUFnce4cXSX4Irg0QZvy=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
-            "name": "Kidane Mihret Catholic Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOmDie_OilxcbSSnCZKZtKVNodqXo1BKLBKmIA3=w148-h148-n-k-no",
-            "score": "4.9"
         },
         {
             "name": "Cicero Stadium",
@@ -4819,7 +4264,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Mariam Debresina Monastery \u1308\u12f3\u121d \u121b\u122d\u12eb\u121d \u12f0\u1265\u1228\u1232\u1293",
+            "name": "Mariam Debresina Monastery ገዳም ማርያም ደብረሲና",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM3pHWFHyyYneFi5Se61T_ZrbINr8o-q-WwaG5p=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -4834,11 +4279,6 @@ const data = JSON.parse(`{
             "name": "Alexander Nevsky Cathedral",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOvtMvcTwe7poZ18hXuTkVZajuIMtBpkiXdCgWR=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Tallinn Town Hall",
-            "image_url": "https://lh6.googleusercontent.com/proxy/MmA4uga4DyjrpeNqxcqKWdzufeDqOZqMFrNjp6SXhzvAx4Re8cW3TTxm_BS8mhPPbIvZAKjHhaQwMFy7V6vnhYIX_QoPuBpUmjSU0Bg7z2VFQpEPPyKnfCOhk2sX-95fVmbV4vUcd0ndxg6KxV5gSo1Ii1k8Gg=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Kadriorg Park",
@@ -4901,12 +4341,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "St. Nicholas' Church and Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNPRlYyGTaj04g20nfiV0ClkVYlAKdwqLGlEfcP=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Kiek in de K\u00f6k Museum and Bastion Tunnels",
+            "name": "Kiek in de Kök Museum and Bastion Tunnels",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOWLbXnmIUGl2D27tBxSwO96ylQmTNrmEMNPPA8=w148-h148-n-k-no",
             "score": "4.6"
         }
@@ -4961,16 +4396,6 @@ const data = JSON.parse(`{
             "name": "Nahiso Terara",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Semien Mountains",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPXG6bakyg3qvYg35LCIFVUCuSDY1317m2KekBj=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "St. George Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no",
-            "score": "4.4"
         }
     ],
     "Falkland Islands": [
@@ -4988,11 +4413,6 @@ const data = JSON.parse(`{
             "name": "Bluff Cove Lagoon Penguin Tour",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMrqQY_EnWM5TnMSFdS8CFEogvcS31k0gx4vLNT=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "\u5fd7\u9858\u8005\u89d2 B&B",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMt9zTJucCJGrIpNMMCg_A_Thy7EgZxOWG8SJv4=w148-h148-n-k-no",
-            "score": "4.9"
         },
         {
             "name": "Gypsy Cove",
@@ -5047,14 +4467,9 @@ const data = JSON.parse(`{
     ],
     "Faroe Islands": [
         {
-            "name": "M\u00falafossur Waterfall",
+            "name": "Múlafossur Waterfall",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM7ugv_q2F7X2YEpfU5NWaSD9tpiSEfBKa-WXtY=w148-h148-n-k-no",
             "score": "4.8"
-        },
-        {
-            "name": "The Nordic House",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM6xXTxoXxvzM57xkQOtRQGBefY6DmGMDeSeq_Y=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Kallur Lighthouse",
@@ -5072,14 +4487,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Kirkjub\u00f8m\u00farurin",
+            "name": "Kirkjubømúrurin",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNh1S0zHKGEirNfCN_7g7PgiPRbK3OKVpo8suw=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Tr\u00e6lan\u00edpa",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPkYZ0cNkpTE7AzGNConq-i7n85TVqe_dSb-_1D=w148-h148-n-k-no",
-            "score": "3.1"
         },
         {
             "name": "Drangarnir",
@@ -5134,11 +4544,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Natadola Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNpus8ch5pj2cIR60UzgtztIj7qNlW0tHg3T-Il=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Lavena Coastal Walk",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOd2hBiylrWFyNd7VAlsM-Sapi1Jp-3WIAx7h4t=w148-h148-n-k-no",
             "score": "4.8"
@@ -5167,11 +4572,6 @@ const data = JSON.parse(`{
             "name": "Taveuni Island",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMukfojUUSXcG5LSI1UoNQ_KB_GssksikTRW-yr=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Yasawa Group",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNddPCLfkXRpwgh-Cyl04EG-DrkbYcepKLQQTLn=w148-h148-n-k-no",
-            "score": "4.6"
         }
     ],
     "Finland": [
@@ -5206,7 +4606,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Linnanm\u00e4ki",
+            "name": "Linnanmäki",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNItEHLag3YNvuGC5eKMnhsC3MoA1eK5yttE6TH=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -5268,7 +4668,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Cath\u00e9drale Notre-Dame de Paris",
+            "name": "Cathédrale Notre-Dame de Paris",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP74b-7tVp6PwqgjxclfMXoA8CqKMioOQ4z7pXn=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -5278,7 +4678,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Mus\u00e9e d'Orsay",
+            "name": "Musée d'Orsay",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPNqJjqZMTr0x1byLyL4Y_RrgbjJIw4UOdXnDPk=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -5298,7 +4698,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "The Basilica of Sacr\u00e9-C\u0153ur de Montmartre",
+            "name": "The Basilica of Sacré-Cœur de Montmartre",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPA3DAXKmraZRJmTz1kEEXpBKvnlS0wA1j7NjnC=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -5313,27 +4713,27 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Cath\u00e9drale Notre-Dame-de-Strasbourg",
+            "name": "Cathédrale Notre-Dame-de-Strasbourg",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPP3jHc9CGU2pHGaSf_XU5Zp_xg5TpKLDTsbQaA=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Ch\u00e2teau de Chambord",
+            "name": "Château de Chambord",
             "image_url": "https://lh6.googleusercontent.com/proxy/RfWMv8dEEdDkZzx9uIlzrpEwDvggpXjwwCrpcKKss9QXd_3EFM2v7FJukJ44cS3Hb1QuYt_vVIOmf7hXVrFOUm9WaDV7V446tOc1V1jzKz5BqcATKhMld0EoSHTbaAoIa0K8RuY3jfYQ7Oh5beQoqcp1-JfgSxQ=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Ch\u00e2teau de Chenonceau",
+            "name": "Château de Chenonceau",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMzdNayc36qK-d7mpsMAXzKNwXRkkVfb_Oau30C=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Panth\u00e9on",
+            "name": "Panthéon",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPndjq_Bk1YKO4dsAw48JG5HB0SrS2Z1r7Vx-pZ=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Mus\u00e9e Rodin",
+            "name": "Musée Rodin",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOZ64GWaDug_MOLzhD-3lTeSghdc0qTJgrz7hmP=w148-h148-n-k-no",
             "score": "4.7"
         }
@@ -5390,7 +4790,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "'\u0100rahurahu Marae",
+            "name": "'Ārahurahu Marae",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMWSpUEr7du4inQOMd3YwUsitFsVTDGAO4a82bF=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -5405,14 +4805,14 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "La vall\u00e9e de la vanille",
+            "name": "La vallée de la vanille",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOlXr5nhbG_ZUJR3NCIAnXj83tkxezCfLvG6w9I=w148-h148-n-k-no",
             "score": "4.6"
         }
     ],
     "Gabon": [
         {
-            "name": "Lop\u00e9 National Park",
+            "name": "Lopé National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP6yLIWZM_bBoY2GGaKOrsGgfplDv88HMwZHi9K=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -5425,11 +4825,6 @@ const data = JSON.parse(`{
             "name": "National Museum of Arts, Rites and Traditions of Gabon",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNurt_VICtSrExpu99AAVC74HFVUEMp7Fq3PAnG=w148-h148-n-k-no",
             "score": "4.2"
-        },
-        {
-            "name": "Cath\u00e9drale Saint Louis",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMeh6NY5_5O2FahlzkQvQsKOdkzB1S5S2uUMHav=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Casino Croisette",
@@ -5447,7 +4842,7 @@ const data = JSON.parse(`{
             "score": "4.0"
         },
         {
-            "name": "Les petits pots de l'Ogoou\u00e9",
+            "name": "Les petits pots de l'Ogooué",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPisD8ObAVvP-_EN0Y_Dc_mGE6NPHcbU_sND5c=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -5457,7 +4852,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Mink\u00e9b\u00e9 National Park",
+            "name": "Minkébé National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMdJHQr0uW-yjO8wezACqyMpq0qMFAcR6Q3G1wl=w148-h148-n-k-no",
             "score": "4.0"
         },
@@ -5658,11 +5053,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "English Garden",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPd9aX8veXiK4WQBcl0D8w5ScqHUdiAuqRImwF3=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Berlin Wall Memorial",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNSFDClh2TNTnKWdW1r2PE0L03Lag30RseMUOM=w148-h148-n-k-no",
             "score": "4.6"
@@ -5837,11 +5227,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Main Street",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMY5WomT4oXP5uQG3zc62OotxKD3gTnp7NBBAAa=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Grand Casemates Square",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzZXEHwk3UntYD8B5ZASmkF--3ttkJBp4KYam0=w148-h148-n-k-no",
             "score": "4.3"
@@ -6013,11 +5398,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Belmont Estate",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN3vJOkq8-PX0kaPSsU3j0j6Vhp7kMksL86X-tA=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "House of Chocolate Grenada Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOAsywHZvjJx_nnLPVYJNnxUWIsIUinvVTr_thY=w148-h148-n-k-no",
             "score": "4.6"
@@ -6060,7 +5440,7 @@ const data = JSON.parse(`{
     ],
     "Guam": [
         {
-            "name": "Two Lover\u2019s Point",
+            "name": "Two Lover’s Point",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNwR2_5WWDrfHschn5432CrEHSMXvPMWrQbTxUC=w148-h148-n-k-no",
             "score": "4.3"
         },
@@ -6115,7 +5495,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Plaza de Espa\u00f1a",
+            "name": "Plaza de España",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPN8ZO_0hakTCmnFzMZ4061rH_4KJbz6UQMF0Z1=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -6152,7 +5532,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Zool\u00f3gico La Aurora",
+            "name": "Zoológico La Aurora",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOy_k1Bxfw-2EHNSfL9TOw2J3146kAXLui-UObh=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -6172,7 +5552,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Sitio Arqueol\u00f3gico Iximche",
+            "name": "Sitio Arqueológico Iximche",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNjr6J36IpASTv71JInp780Y8xnFIWAqeHqLFA7=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -6192,22 +5572,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "ChocoMuseo",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNAmdkNqjeywyb9uhg6-Dg0GyCWdOsnckAZaVdS=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Iglesia de la Merced",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOmIdGzSqpCmTL2epJlOU-EYrToOWDPsBK7BRg3=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Oakland Place Guatemala",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP__2NpKVqtYb7BNW6ZCrqbqPPTDnWUqwwRYYkL=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Lake Atitl\u00e1n",
+            "name": "Lake Atitlán",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNTYjmByac6NOV_DTJlXlYZm5aq7bxAxgfenQ6S=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -6264,11 +5634,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Guernsey Museum & Art Gallery",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMRe1n3-H-xtHu5UmhWx5OCcUyNf-YGe2lWUS46=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Rocquette Cider Farm",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOu0gFBnB3siA-69-O83rGgDJUTaw6HzQX2Flf3=w148-h148-n-k-no",
             "score": "4.7"
@@ -6292,11 +5657,6 @@ const data = JSON.parse(`{
             "name": "National Trust of Guernsey - Folk and Costume Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMh3VDByF65yblYIqFVUDgTO-LxHjVqqdggheDp=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "Petit Port",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNqsSqmGz3pKZBOqm_uxUppVLa8BPkdUqa3I2wv=w148-h148-n-k-no",
-            "score": "4.8"
         }
     ],
     "Guinea": [
@@ -6309,16 +5669,6 @@ const data = JSON.parse(`{
             "name": "National Park of Upper Niger",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPo_iJAjTqRJHySEd2XF-csgxy-zT485lWVtI3h=w148-h148-n-k-no",
             "score": "4.0"
-        },
-        {
-            "name": "L'\u00eele de Roume",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipORuHHTtsp19I9QMm0pCCHzxyrSRPZNfl03i7TM=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
-            "name": "Ile Kassa",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNMrr2vERsQKsOn8LiCQAUvON2RKIOPn7Lfubr6=w148-h148-n-k-no",
-            "score": "3.6"
         },
         {
             "name": "Mount Richard-Molard",
@@ -6353,7 +5703,7 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Fort S\u00e3o Jos\u00e9 da Amura",
+            "name": "Fort São José da Amura",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNP_BAQEzQsxRHLgfu-_8ofv8HjftFVtAO9GdrP=w148-h148-n-k-no",
             "score": "4.2"
         },
@@ -6383,19 +5733,9 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Praca Titina Sil\u00e1",
+            "name": "Praca Titina Silá",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPlfCr_CGJ8ESdNKEGXU2Ye3q3zX5WTmOPatlwr=w148-h148-n-k-no",
             "score": "3.8"
-        },
-        {
-            "name": "Cine Maxi",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMWn0Nib9K5IeRzlPRzms_hSs3AnlXhLk55IXpr=w148-h148-n-k-no",
-            "score": "3.6"
-        },
-        {
-            "name": "IBAP",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOiYAZo3CBmmTBtJxqac0TKBBeeX-CqtGbcwgTy=w148-h148-n-k-no",
-            "score": "4.1"
         }
     ],
     "Guyana": [
@@ -6428,21 +5768,6 @@ const data = JSON.parse(`{
             "name": "Botanical Gardens Guyana",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOvy0yYgiTFwKwecgF-f2QK27baILe1cQ_oi0g6=w148-h148-n-k-no",
             "score": "4.1"
-        },
-        {
-            "name": "St George's Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN1BHbdhK8xNyDM08dtZCHolwbi_piiT2Sg6Tk=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Orinduik Falls",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP955ZciAQQm9avRUNkYIhj8TxvOQS-O-SNWCSD=w148-h148-n-k-no",
-            "score": "4.9"
-        },
-        {
-            "name": "Umana Yana",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM7pjaI7RRV4Ld_XX35M8pKPtr2wx7Gh5hAYKkI=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Walter Roth Museum of Anthropology",
@@ -6512,7 +5837,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Heroes Monument of Verti\u00e8res",
+            "name": "Heroes Monument of Vertières",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP-bRO58OabQDED5KFMVvqnzUJ17ki5qU2NX0OB=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -6527,12 +5852,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "\u00cele a Rat",
+            "name": "Île a Rat",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMAiRr8C6GcQvpsq3D6lOxsLhyd8Ms5xrEipRVS=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Dragon\u2019s Tail Coaster",
+            "name": "Dragon’s Tail Coaster",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPZ6Bg95HowvY8hAyVz13653XrR0Bs3ip_HYD62=w148-h148-n-k-no",
             "score": "4.7"
         }
@@ -6579,7 +5904,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Bas\u00edlica de Nuestra Se\u00f1ora de Suyapa",
+            "name": "Basílica de Nuestra Señora de Suyapa",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNBaOG1_3aov-Bjx-Baj5VHvW-WoqJ65qlnxcbX=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -6629,11 +5954,6 @@ const data = JSON.parse(`{
             "name": "Tian Tan Buddha",
             "image_url": "https://lh5.googleusercontent.com/proxy/bo76Tx10Gw-F4bYfE1CCrfFs-pxkw9aAZB3IB5-smibEiWMaMrGLqvUbWr21cnWZdYHqNsn-CBnq0oenWpbX9bFRwORZoNxNBHIpRBphOeQCxV1QkhzadVgpCfMCgFdS6EWjs2FeQuSYP8MXAUIbtr0b1_MXHA=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Ngong Ping 360",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOv4mZxekOyOehWUpXLqKvVXHmJMSXzlN_IsJYm=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Ocean Park",
@@ -6703,11 +6023,6 @@ const data = JSON.parse(`{
     ],
     "Hungary": [
         {
-            "name": "Buda Castle",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN_0p1R3yO6pcyPJanNRon5-A5bh3WJJcgY-M7E=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Hungarian Parliament Building",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM88iex3M4vXGGJ2a3ct0M84LT6fhyjoYYrmJu_=w148-h148-n-k-no",
             "score": "4.8"
@@ -6733,7 +6048,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Sz\u00e9chenyi Chain Bridge",
+            "name": "Széchenyi Chain Bridge",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPPstTmwdVlUlMy3lqJsZL9bbW0Q7KPrB5U8uau=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -6753,7 +6068,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Doh\u00e1ny Street Synagogue",
+            "name": "Dohány Street Synagogue",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNI5PwntgTc8Z9ymM9PrDHvfS_y8f71uwxN_mbl=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -6766,11 +6081,6 @@ const data = JSON.parse(`{
             "name": "Citadella",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNPEk-7bI98tOI1vYaNnqou5To1McPgcluoc4xM=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Museum of Fine Arts",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPXdWeEACll2LWQ-8maicPVCOiOCnrLQZyEWI96=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Central Market Hall",
@@ -6815,7 +6125,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "J\u00f6kuls\u00e1rl\u00f3n",
+            "name": "Jökulsárlón",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNa3De-j_8mrppbuehBdq0z0tUS0E4jP4XGTgU3=w148-h148-n-k-no",
             "score": "4.9"
         },
@@ -6830,17 +6140,12 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Geysir",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPRcrcRVXg5Ej9HrRv0SdfaCxuz2TgXg_songn1=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Kerid Crater",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMKKYVWDfXcCIOypYCk2-lF5qy8mpwhIpgG1uoE=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Vatnaj\u00f6kull National Park",
+            "name": "Vatnajökull National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipObYsdCVoAu0BMWzSkardoowiugTavslfn_GuVX=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -6850,12 +6155,12 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Sk\u00f3gafoss",
+            "name": "Skógafoss",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMstbZ35JL9_ttMXJnSV1b91a5BfYCjggHUELv_=w148-h148-n-k-no",
             "score": "4.9"
         },
         {
-            "name": "J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon Boat Tours and Cafe",
+            "name": "Jökulsárlón Glacier Lagoon Boat Tours and Cafe",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOrqNWium3iUX4n_5DLGVDtIH1mfSiZWQbHoPxW=w148-h148-n-k-no",
             "score": "4.8"
         }
@@ -6882,7 +6187,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Humayun\u2019s Tomb",
+            "name": "Humayun’s Tomb",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNnBKMfN8uucbJm5I9Kv5lPfyVsRibhjSzU88_q=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -7123,7 +6428,7 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "Sam\u00ee Abdulrahman Park",
+            "name": "Samî Abdulrahman Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPr-BwOAADJicHCqdNhxqpvDRPz3Y8f0W8xwv9n=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -7153,7 +6458,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Imam al-K\u0101\u1e93im & Imam al-Jaw\u0101d Shrine",
+            "name": "Imam al-Kāẓim & Imam al-Jawād Shrine",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPLc_wdFMXvpy6_pAJYq4HnXDkckIge6Jk9-28t=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -7297,18 +6602,8 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Villa Marina",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNBSEmMZWCtv_HLQ0xOtbBsR0IEZT5px4Ir7mN0=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Home of Rest for Old Horses",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP4-37Xv4LzPRGMawkb9Dyp15q7yupblQQwuLRm=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Snaefell",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNZX_zkqxIS06mfaMCz-7M0BZLHbkVhECAdSRFC=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
@@ -7340,11 +6635,6 @@ const data = JSON.parse(`{
             "name": "Tynwald Hill",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMxEn99MEzRBIFJtcqgeA8mLvpg6THZII3IcogO=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Mad Jack's",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNtSjoVrTYGYUIjJ7yTldDs0aYlyta8Nio5dxE9=w148-h148-n-k-no",
-            "score": "4.9"
         }
     ],
     "Israel": [
@@ -7369,7 +6659,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Bah\u00e1\u02bc\u00ed Garden Haifa",
+            "name": "Baháʼí Garden Haifa",
             "image_url": "https://lh6.googleusercontent.com/proxy/55CauuF6nQo1QOtU4FlfTLyUiQkLbzJa75Yty3XBy2NdsS6NY2OybLP5qmalHUR0Ps__wDIcS_22bkc3vYLzp0IBFmjX8gksK4Qq66T7DQmurB6rqfS8ApaMkfEnUfbedHO8RZiOtBFNh6R9cwdvl9UF6brjMIU=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -7394,7 +6684,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "\u05e0\u05de\u05dc \u05d9\u05e4\u05d5",
+            "name": "נמל יפו",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPS05c_64_ayXMBDas1HXPym-_s-_bces5JAYB0=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -7434,11 +6724,6 @@ const data = JSON.parse(`{
             "name": "Colosseum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO0jDqEA4d2y-H9bcfOJ3NgTPhpbdFNFdwB3eZu=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Pantheon",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMZZUjB9LOvxFVdcKpWRjSKF8cGxLxwmRAKNSis=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Trevi Fountain",
@@ -7528,7 +6813,7 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Palais Pr\u00e9sidentiel",
+            "name": "Palais Présidentiel",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipONleCj1MehS6qHXbOBH99i-zqBLanrhFm5OZh4=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -7543,30 +6828,20 @@ const data = JSON.parse(`{
             "score": "4.0"
         },
         {
-            "name": "Mus\u00e9e des Civilisations de C\u00f4te d'Ivoire",
+            "name": "Musée des Civilisations de Côte d'Ivoire",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOytUWVvjotkIqX26FVO8p_BCTTTJy9Uo81D8dD=w148-h148-n-k-no",
             "score": "3.9"
         },
         {
-            "name": "Como\u00e9 National Park",
+            "name": "Comoé National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNfZVOsMDLbH-gJW0dquT_PfW3zxXU2k0PpFpM_=w148-h148-n-k-no",
             "score": "4.0"
-        },
-        {
-            "name": "Galerie C\u00e9cile Fakhoury",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOPyCTCVV1sayO3xIuNpg7Yku7rYq2dyraFGpGY=w148-h148-n-k-no",
-            "score": "4.4"
         }
     ],
     "Jamaica": [
         {
             "name": "The World Famous Dunn's River Falls & Park",
             "image_url": "https://lh6.googleusercontent.com/proxy/bB_Kmkqeemig-sr1T2yWsnzX6ZSfw2Y_cUTSz_HFDmlGiXcj_mhdJMUpOB1ZdgfUHZtogmZjBx67qqHZT3JGW6vvYbpj6doLxsgUt_9BJyUfph0dGWVtTceM7i8sQYv3elgbDqoDIGZFucTxu7vThjh5B-VfeA=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Bob Marley Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO0zI_gp_nrVkPvG00pas-gbdPhRHY6fSUjMKHX=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -7615,11 +6890,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mystic Mountain",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMsGUUefNkpURAZ6n6iIrvJUh6ZaKMOJGIAQl_n=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Appleton Estate",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPpBu7r6dtWjIte9iZz051KnRHU-mqa0GeB2RR-=w148-h148-n-k-no",
             "score": "4.7"
@@ -7647,7 +6917,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Sens\u014d-ji",
+            "name": "Sensō-ji",
             "image_url": "https://lh5.googleusercontent.com/proxy/0diPJjN9qaBKIKjeTUrLa0xZe_U54nyoPCCgX06VT_jXy4aA2Dpxw4uBxvDXdAxQl5cR_rY3ehxQXpggIiusgS-IgDnR6KxuspMjsNH1ybaz7ioWvtwZZH_4OCZ8oQpeaGf5_VRMyR8pbeDTAev1qIePUCD6Vw=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -7657,17 +6927,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Meiji Jingu",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPr04bcRSeYMNUIFgJFlkSQsoONO6t9_c-Mey4s=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Osaka Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMPljwQVCU4NjVQuCgIykprZvHEu9ZMn8wU6WXY=w148-h148-n-k-no",
             "score": "4.4"
         },
         {
-            "name": "T\u014ddai-ji",
+            "name": "Tōdai-ji",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNh5NW0LFaa9dAcIMJDM9fhd_DYGW9SWtjsNM2z=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -7759,11 +7024,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "La Corbi\u00e8re",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPxyuR2xU1_erPJuLi8SCfY5n8kejlMvxqVpYCg=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Grosnez Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPsA-yq0a2Ew3HSZ0p6l_sUNzVdclbuJfuEQusM=w148-h148-n-k-no",
             "score": "4.5"
@@ -7784,17 +7044,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Maritime Museum & Occupation Tapestry Gallery",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP6Bt9yJHtqTuXVMbt3qIMfOscR0m8KlHUZwVyi=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "St Ouens Bay",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMdQxkXffeQE6NuYsqMEv2q618KkS1nAWVfXiy7=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "The Botanic Gardens at Samar\u00e8s Manor",
+            "name": "The Botanic Gardens at Samarès Manor",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-19mKkcsgjp-tqgG3CHh2cjKiV8w5l0XQtcBU=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -7816,11 +7071,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Roman Theater",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNci1OfDz821ZU4PNDJcDVzoTIntiK0Uj9B3s3z=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "The Treasury",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNx4mIDG2l3xqgPCHBY_EnQP8C_UNcseCP7x7lu=w148-h148-n-k-no",
             "score": "4.8"
@@ -7829,16 +7079,6 @@ const data = JSON.parse(`{
             "name": "Amman Citadel",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPCtQwMLo5wVVLIrisgjs4YUtYE__Gv4sLQ0991=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "The Monastery",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM_RGuMgTxZ7r1GKo8mDyhnAx7DQqGXbxhaDtmn=w148-h148-n-k-no",
-            "score": "4.9"
-        },
-        {
-            "name": "Triclinium",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzQmv4xHbENzsWKdHCBlPI3ygNPsvLbbjiaI8W=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Al-Siq",
@@ -7958,11 +7198,6 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "\u04ae\u043b\u043a\u0435\u043d \u0410\u043b\u043c\u0430\u0442\u044b \u043a\u04e9\u043b\u0456",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP-cO23vdjL4fDPy-C5oB-v01tZu7tWR3t_dGMC=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Central State Museum of the Republic of Kazakhstan",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO_Kgdx3arjDzsY64kACGXZY_XTqnq6q_-C3eXM=w148-h148-n-k-no",
             "score": "4.4"
@@ -8015,24 +7250,9 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Elephant Nursery",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Fort Jesus Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOzo_W4GIxDd-aJMBQVYDgVLw9MUJiuxBk-jZUl=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Samburu National Reserve",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM67HxCe359vkJEfShBZXF0yMPtA2nDZSyKEQM8=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Haller Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNiHd1hQ-F19JcOhMt7TkXqL3E0DzFIBo7LW2pZ=w148-h148-n-k-no",
-            "score": "4.3"
         },
         {
             "name": "Mount Kenya",
@@ -8097,11 +7317,6 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Bonriki",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPJJrjjOgWiGPTQsJ5K_8VfTbzBQi57QStnfhoO=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "North Tarawa",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN_iRr3gn8VQ6m9K7mzkAYGFrIavj_VGdo2pk88=w148-h148-n-k-no",
             "score": "4.5"
@@ -8124,7 +7339,7 @@ const data = JSON.parse(`{
     ],
     "Kosovo": [
         {
-            "name": "Serbian Orthodox Monastery Gra\u010danica",
+            "name": "Serbian Orthodox Monastery Gračanica",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNq7M9z2VEAtchGO_5qB_IYFP7if45yt7fAT76W=w148-h148-n-k-no",
             "score": "4.9"
         },
@@ -8154,14 +7369,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Patriakana e Pej\u00ebs",
+            "name": "Patriakana e Pejës",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNTTUt1KEHDgBQNmWo8ecumSeD4caXUXPswPafo=w148-h148-n-k-no",
             "score": "4.9"
-        },
-        {
-            "name": "The Great Mosque",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP1LijuvHq3nSSoPgdPh-iCpBHFZ3IJ3pMTPJtN=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Ethnographic Museum - Muzeu Etnologjik",
@@ -8171,11 +7381,6 @@ const data = JSON.parse(`{
         {
             "name": "Tyrbja e Sulltan Muratit",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP2pvSehqBBN9Je7tVyqWwPzdwBKdIsmYwuAJLS=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Rugova",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMLftbnz-UuQTyjlVXOVNbZFDC1q67zBxVL9iLf=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
@@ -8189,12 +7394,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "G\u00ebrmia Park",
+            "name": "Gërmia Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipML_DsKoVi5RMCU9-QqtQvw_vuzMc_AvFxVsc14=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "The National University Library of Kosovo 'Pjet\u00ebr Bogdani'",
+            "name": "The National University Library of Kosovo 'Pjetër Bogdani'",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN6DTbgDR1IdTNUZGtgnWtT8QdIxUcI4vpWHhII=w148-h148-n-k-no",
             "score": "4.5"
         }
@@ -8256,11 +7461,6 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Mirror House",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPc1--keiVAJ_1RdvBSYeKRSZxFnE62262CwnYd=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Al Kout Beach Hotel",
             "image_url": "https://lh4.googleusercontent.com/proxy/VxnFKQFdhoPRpM-OkhmUX6_qNJDJz00yOeqqkEUUR3QM2-Y6j9n1btSV-22_dYROig4VaI7sY63jjAKoxOAx0v73A6o1-umIXkksv1KIPNi1eTuAelUO0oZvjTidTUu7R1HqfdKp9Q-G72kzwpoiKflG4JMUGgg=w148-h148-n-k-no",
             "score": "4.2"
@@ -8298,16 +7498,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Fairytale canyon 'Skazka'",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNR9VoNUWaY1YhJaZ3mosQ8hnMJeyBgxU9JL0lz=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Altyn-Arashan",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMOsFDL4DcIubhPpdJXVglcrd66O0SzPpZwr1JO=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "State History Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNFZ1LYxrMj6jbP3nBTbkDxvkFdLO2IpOAYHefs=w148-h148-n-k-no",
             "score": "4.6"
@@ -8316,11 +7506,6 @@ const data = JSON.parse(`{
             "name": "Rukh Ordo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO79Gm7Hy2Bv6QayfAviFQItu6i7q5f2ii35glX=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Panfilov Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOmnYImTh2zD4mHAKtBQuwrZOMrHtNQphn0Q1BJ=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Seven Bulls Rock",
@@ -8346,11 +7531,6 @@ const data = JSON.parse(`{
             "name": "Song-Kul",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPnZG57UjZLaYYWl_AoofRMtiL96fDkE0_-rhHi=w148-h148-n-k-no",
             "score": "4.9"
-        },
-        {
-            "name": "Tash Rabat",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMozYoPT46xZUmlLtGf4Uysf_fvcfPIc08BDRTD=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Ala-Kul",
@@ -8380,11 +7560,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Patuxay - Victory Monument",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMvEDkT3yArE3suGCWQtOOk8rTS5M3GZRHmlYwZ=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Phousi Hill",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMRMf4acpg30g9lkxWC03aNeW3Xf2GNh85uoM1K=w148-h148-n-k-no",
             "score": "4.3"
@@ -8395,19 +7570,9 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Vat Phou",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM1sSsPQK79CyWpec3t3Ts_XiMrXJvDhaje0Rv1=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Wat Sisaket",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOssIDaSL9zTydo1uJiqcVzbnrsK1lMXXTVX159=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "National Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM2IBxPR8v_MCCQDC5M2MXR1fgAjr9KoAjdTbe0=w148-h148-n-k-no",
-            "score": "4.1"
         },
         {
             "name": "COPE Visitor Centre",
@@ -8462,12 +7627,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "St. Peter's Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMt2sHIdICjba9mIdI0f5kwbZEGP4AR0PQhocCd=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Rund\u0101le Palace Museum",
+            "name": "Rundāle Palace Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN3ESGYG-0if0iz8GhxwkByakAEzDWLK25axjMi=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -8475,11 +7635,6 @@ const data = JSON.parse(`{
             "name": "Gauja National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOaSTs1puILOLDpdYDvfLVRhUK5qcWkOXiqvieP=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Riga Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNtkWG7WRQT69-HRmGuwIaBnhfF2p06PjVnI0yA=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Turaida Castle",
@@ -8492,7 +7647,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "C\u0113sis Castle",
+            "name": "Cēsis Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOVn2dOAW7jFNQTNLLgyIWiZ-_XUhC8e2Zr0Se-=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -8529,17 +7684,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mohammad Al Amin Mosque",
-            "image_url": "https://lh5.googleusercontent.com/proxy/h2t8OBN7rYn1z8fIBv0_ozHeWOhyhc-TRL2CKYJLjwIR6ME-IUScGH9C_5JFDzh2ngvrPbWSEFFEi_mZkavJI9gY4VwKw1AROABE2cT2loURN9Qxp6KeAJCrPp2-ujNMZHOat8H9jfREoeQjevK2m9xY7Nk9vEo=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Zaituna Bay",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP8vc1r7btvPOrlRFqQfnrvsh5sNYIIianj7Dli=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
-            "name": "Our Lady of Lebanon \u0628\u0627\u0632\u064a\u0644\u064a\u0643 \u0633\u064a\u062f\u0629 \u0644\u0628\u0646\u0627\u0646",
+            "name": "Our Lady of Lebanon بازيليك سيدة لبنان",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOGFzrzgo18RqUClFJ2KAc8ixDZVc_36WpvmgC2=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -8597,11 +7747,6 @@ const data = JSON.parse(`{
             "name": "Mleeta Landmark",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPFRctmTuSmp5m4M3lwPYmM3nWcCz6j2E_y1ul_=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Shouf Cedars",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOGhTRAVILxcROm3Kxrt8g_Pf1kUIZpxmhAWMit=w148-h148-n-k-no",
-            "score": "4.9"
         }
     ],
     "Lesotho": [
@@ -8659,11 +7804,6 @@ const data = JSON.parse(`{
             "name": "Thaba Bosiu Cultural Village",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP5nV9EqOE_xVfApwQDXoQ4avKiJCwhAV6QTBUC=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Sani Mountain Lodge",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNxQQt2cB9nM7783X1UgaonQwAPP2ztsS-fgrIm=w148-h148-n-k-no",
-            "score": "4.2"
         },
         {
             "name": "Basotho Hat",
@@ -8733,7 +7873,7 @@ const data = JSON.parse(`{
             "score": "4.0"
         },
         {
-            "name": "Estadio Edgardo Baltodano Brice\u00f1o",
+            "name": "Estadio Edgardo Baltodano Briceño",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOIHcwDo-gOF8Se-DGUPSRsbQUlh1JhJZQqxqW7=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -8753,7 +7893,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Parque Mario Ca\u00f1as Ruiz",
+            "name": "Parque Mario Cañas Ruiz",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMyV7noPZVsgJpJ2QBxPoJNE7wbO4rNSxyUGGPe=w148-h148-n-k-no",
             "score": "4.3"
         }
@@ -8842,7 +7982,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Alte Rheinbr\u00fccke",
+            "name": "Alte Rheinbrücke",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOOKqcSDmjFBFDz5thYpmJaTZTYSbbK7vi-zFPW=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -8862,7 +8002,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Regierungsgeb\u00e4ude des F\u00fcrstentums Liechtenstein",
+            "name": "Regierungsgebäude des Fürstentums Liechtenstein",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNa5CwZpNb0r5kidtwCRHB1zUGM9cSzT145uWSK=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -8934,7 +8074,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Luki\u0161ki\u0173 kal\u0117jimas 2.0",
+            "name": "Lukiškių kalėjimas 2.0",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPcrZFUwVEO9pmJF2O2JpFgtSylTeJB-9kjaxnc=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -8942,11 +8082,6 @@ const data = JSON.parse(`{
             "name": "Palangos gintaro muziejus",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNzrycRdEhA__v09Jvr_IBQb6Vfbd_NLCB2EOR8=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Cathedral Square",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP8z2xm9iBKosTyFjgxc5f7y8oGBrOFgZQBZwBu=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Three Crosses Monument",
@@ -8971,28 +8106,13 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Cath\u00e9drale Notre-Dame",
+            "name": "Cathédrale Notre-Dame",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMDIUitCb9PsOq-ocw27jqL-IYk0RzHjBPnU1Qu=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Bock Casemates",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMb4sF4uukPFm4ZWogKrwGS7Ot257H5BO9S_ztM=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Pont Adolphe",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNuzWa8wsWYEYgoiOSMa8Zpe9ESkfzeRp7pLiAW=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "National Art and History Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNjJjwHe6dFyYGaZxnT8OwGNnM8GfC5C0QCnBTB=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Mullerthal Trail",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPnx5pQJGFz4NUqBpyJ-E0XA0UAvyizHqpFF3Zz=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
@@ -9011,19 +8131,9 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "William Square",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPHyR_79Hf8i2enN7OQLAXhp790bH6SI8QhvIuD=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Mudam Museum of Modern Art",
             "image_url": "https://lh3.googleusercontent.com/proxy/I0PUna9IMsYyfo5twI-OZGHq8qBc9fabxzxPVJ3XUxSyncDEHYTgRpEBnWP7kys_Ej4sm8JusCtGGe5vRTG__kDp4VfvjIqnQQ7fuAmVz5jutydBPL_Pztr-rSmM6d7piayUtBhALEhMCY9pahxwMwhmNOltyPo=w148-h148-n-k-no",
             "score": "4.2"
-        },
-        {
-            "name": "La Passerelle",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMmoS0NHe8eL_hv8VwaF02aJSu-RArxa6sJZql4=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Butterfly Garden, Grevenmacher",
@@ -9041,11 +8151,6 @@ const data = JSON.parse(`{
             "name": "The Venetian Macao",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPZeIzE48ph4OzdJHsQ6bvOjeX5TtoHyZPInJIb=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Walls of St Paul Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO2iERN_2a0kN7ZHVXGuae_U_sF_NP493sRBrO0=w148-h148-n-k-no",
-            "score": "4.3"
         },
         {
             "name": "Senado Square",
@@ -9073,26 +8178,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "City of Dreams",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM2N5kWtoEugP8rLjWy7j1tE2MxIM5BguEPSzlt=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Coloane",
-            "image_url": "https://lh5.googleusercontent.com/proxy/2jK1QepzPjesgLMlPL4_BMRK1E1L4XVORMClRXVuSUYtQ9wYGLFB8o7Hm8sERP1yMzCGL5vZU_5SbnChtkbU343Y8tb2BMnQ1WfVdruTNkqFmPsY3j1-XWijQ6P-ZlpY1xIX8o6GvkQF3xGdfZDyukUVlwjsXA=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Galaxy Hotel",
-            "image_url": "https://lh4.googleusercontent.com/proxy/I7EfSeHlMA6hUFfL2D_GvR2eSiGp60LEzDdtLt8LEPcnT8GPBXmxfAJaYKt8C6jkv-S2SQorQHuPzmDQPUAVnhVuWsy5p5K8fKw8QVX5tdBIwHee1DZ61rxkjPOU-lCOK7fZDtnJ2QylwLGA7aAJiN8dMtAdQg=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Macao Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM36BZkzXVvCBV3y71MPj4-qjV6XqMJEaoHXEZa=w148-h148-n-k-no",
-            "score": "4.2"
-        },
-        {
             "name": "Studio City Macau",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNEsOF3jfWzbWl7Ew2mGKGRfL9hlWyyo4FX3Ii2=w148-h148-n-k-no",
             "score": "4.4"
@@ -9111,11 +8196,6 @@ const data = JSON.parse(`{
             "name": "Mandarin's House",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNG3m3cV7Crgnzt7EB3zvvZ5tQ6nk1Q2XvY6IBp=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "St. Dominic's Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNttT4tkz1E9sIVHSH4F7FKTvyjnCxAwVwwcd6S=w148-h148-n-k-no",
-            "score": "4.4"
         }
     ],
     "Macedonia": [
@@ -9123,11 +8203,6 @@ const data = JSON.parse(`{
             "name": "Old Bazaar",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNqYUk-wwskdHj19z5lJUA1uj54u1bTVZSS8lbl=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Monastery Saint Naum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipORR1hcJP0jp_bp64jRjZrYtohs7oEQWkND4pkU=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Church of Saint John the Theologian",
@@ -9140,12 +8215,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Church of Saint Sophia",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPdc9oHne92hkibWcVkjpC32YiuCKh-Chhy_DIx=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Museum \u201eThe Bay of Bones\u201c",
+            "name": "Museum „The Bay of Bones“",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNm3G85sC9Xn0CUxodIYPVMQ0_m-xmiYk5EJzJM=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -9185,22 +8255,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Monastery Winery",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOs6v2qqjpUD4aBC_H61o2IrjKV4nQDw3vpcBQc=w148-h148-n-k-no",
-            "score": "4.9"
-        },
-        {
             "name": "Holy Mother of God (Treskavec Monastery)",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOcr6LDqvDZt78S_MSYIF7M8x_Cgvn5BswczNQk=w148-h148-n-k-no",
             "score": "4.8"
         }
     ],
     "Madagascar": [
-        {
-            "name": "Andasibe-Mantadia National Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNDUpDa2EMNx7nuwPSdFtNAEJztViaIvx7Juknv=w148-h148-n-k-no",
-            "score": "4.5"
-        },
         {
             "name": "Ranomafana National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNi-evo5iiKX871-AmvPxdplexcR3atG_Im9heW=w148-h148-n-k-no",
@@ -9222,7 +8282,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "R\u00e9serve sp\u00e9ciale d\u2019Ankarana",
+            "name": "Réserve spéciale d’Ankarana",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNgxLpAkAXcLifcI32WWYsf9Mj3NTnOt2VtowkV=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -9272,7 +8332,7 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "R\u00e9serve sp\u00e9ciale d'Analamazoatra",
+            "name": "Réserve spéciale d'Analamazoatra",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNBIj4iGlv-3owSCzIzOI3HsbV9yHLMjy3JL4Ru=w148-h148-n-k-no",
             "score": "4.6"
         }
@@ -9287,11 +8347,6 @@ const data = JSON.parse(`{
             "name": "Zomba Massif",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNaEHQ-Qs9Z_atkwoAmlmJHaT6c-idQPu4ymrKT=w148-h148-n-k-no",
             "score": "3.8"
-        },
-        {
-            "name": "Vwaza Marsh Wildlife Reserve",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPx8VUgw9zL1Brr132tRuwGpce1WniAI1wa7Vhk=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Liwonde National Park",
@@ -9327,16 +8382,6 @@ const data = JSON.parse(`{
             "name": "Lilongwe Wildlife Centre",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvHm3WsY9vH7LhwN2vXwOr8z-89wQ1sMBSzR96=w148-h148-n-k-no",
             "score": "4.1"
-        },
-        {
-            "name": "Kuti Wildlife Reserve",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvq7mtYK1-KeAisTKFeFH8IkVZToGTtyZV-2Tv=w148-h148-n-k-no",
-            "score": "3.9"
-        },
-        {
-            "name": "Shire",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPji9G6yR7zod83uqThqOrF66VE1LoofVZ4IXJ0=w148-h148-n-k-no",
-            "score": "4.8"
         }
     ],
     "Malaysia": [
@@ -9428,16 +8473,6 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "Fish Market",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOLjvIM6J-LOxBh0G88qFH-z4Ryop1TfOx_Cl5D=w148-h148-n-k-no",
-            "score": "4.1"
-        },
-        {
-            "name": "Banana Reef",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPjlnU40kciQmqbKytxzhc32aThB8WXwe9h_LKA=w148-h148-n-k-no",
-            "score": "4.2"
-        },
-        {
             "name": "Alimathaa",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipORJPHYY0IHmPDYAldRktzyvdFJhBNbI9ztB6Hb=w148-h148-n-k-no",
             "score": "4.6"
@@ -9456,11 +8491,6 @@ const data = JSON.parse(`{
             "name": "Gulhi Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNbMy0SvG5Am4UdgVe-snf0X2kmd69KTpPhhDsv=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Sultan Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOLxty8jHl1CLxAGsdYmUwDThhFaytJKsewSoWG=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Ithaa Undersea Restaurant",
@@ -9515,17 +8545,12 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "National Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no",
-            "score": "4.1"
-        },
-        {
             "name": "ZOO NATIONAL DU MALI",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no",
             "score": "4.1"
         },
         {
-            "name": "Grande Mosqu\u00e9e de Bamako",
+            "name": "Grande Mosquée de Bamako",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -9555,22 +8580,12 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Casino de l'Amiti\u00e9 \u00e0 Bamako",
+            "name": "Casino de l'Amitié à Bamako",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no",
             "score": "3.8"
-        },
-        {
-            "name": "Sankore Mosquee",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO80FauZehq5q3oHylvX52sfOonfxD9FSVXD08s=w148-h148-n-k-no",
-            "score": "5.0"
         }
     ],
     "Malta": [
-        {
-            "name": "St. John's Co-Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMfsqHrmG7qOsVly7pMia1JbkQNlzfa1f1VbxsT=w148-h148-n-k-no",
-            "score": "4.7"
-        },
         {
             "name": "Upper Barrakka",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPrvU0uocugjsvfVJmAbF7IxLVtvD7a1P64JVhT=w148-h148-n-k-no",
@@ -9607,27 +8622,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Malta at War Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOWrPKmU_r-M3IbQ9DicL-z5mMakhL_jHCcQ5f_=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Visit Blue Lagoon Malta",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPTnAWeqkEHYH7AUY7FuLDOHn9oeG4SJrQjn5b7=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Dingli Cliffs",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOicwgMnge6iYszNmHireJRWh8zETdIHiQWkIJY=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "The Malta Classic Car Collection",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOrGRKqSNo1EuukGr8PjUwVplMxFgYJrlh56vVu=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "\u0126al Saflieni Hypogeum",
+            "name": "Ħal Saflieni Hypogeum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPVJ0QbJgXxgN7hMmtf0krnc96H3V6R2_TOQqOj=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -9667,11 +8667,6 @@ const data = JSON.parse(`{
             "name": "Roi-Namur",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNHGS2RktUVhF7U24fUuqNXfdM7d82QfL-UIB0G=w148-h148-n-k-no",
             "score": "4.8"
-        },
-        {
-            "name": "Laura Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPYWhgrX8elyLaCzIZK5Mn4e6pxJwyami4wgwmU=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Kili",
@@ -9736,12 +8731,7 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "Parc National du Diawling",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOt0KtRKryDEnnmyJP2VsmCTtnIFzLh4olUycXM=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Nouakchott\u2013Oumtounsy International Airport",
+            "name": "Nouakchott–Oumtounsy International Airport",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMe__ADKaPHA0aaVUqJIFK5p_6pstoAeu-IVIYd=w148-h148-n-k-no",
             "score": "3.9"
         }
@@ -9813,17 +8803,12 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Flic En Flac Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPR3GQ8dt2kaHSXpkRUxGR9ic_TG3DRwREjbLPz=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Le Morne Brabant",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO_CgNkoBVts7TjXQFnrp0dWR4g16wP4752whuu=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "\u00cele aux Cerfs",
+            "name": "Île aux Cerfs",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNWoB8nI313s3KA2e6G5-1oARQ70Vjcz1w2kLrK=w148-h148-n-k-no",
             "score": "4.4"
         }
@@ -9870,11 +8855,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Tahiti plage",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMQovC1Yq7s5KN6p2cNt4rdRp90x77FC_7p4NFL=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Dziani Dzaha",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvm88jM9KHkx2xuvcoUC2TvDR17CtX0X7mfx7L=w148-h148-n-k-no",
             "score": "4.4"
@@ -9900,7 +8880,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Abalone Plong\u00e9e",
+            "name": "Abalone Plongée",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN5eb0WPL7z0SeC1bXxM8kPywPaJ073FIphJVRF=w148-h148-n-k-no",
             "score": "4.8"
         }
@@ -9912,17 +8892,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Chich\u00e9n Itz\u00e1",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPVRyqNwBkPGFTPdcqXJRH_9UD9iRY3nZyUu3xB=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Palacio de Bellas Artes",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPxoRDsz7KDFBqchprvPlU3fH2Sylbxtiqgz5tn=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Museo Nacional de Antropolog\u00eda",
+            "name": "Museo Nacional de Antropología",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNvpH1TA_TTLmG6vsLgGbSBD6laECqt9KD9Kp8W=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -9947,23 +8922,13 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Zona Arqueol\u00f3gica Palenque",
+            "name": "Zona Arqueológica Palenque",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMy056L0YhoYvKyXgYf4Ove0D6oOns-QRbkm78V=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Mexico City Metropolitan Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP5sFW7Q_5mtfPCFmSCP1_rTk0-srjPDk9FqbiF=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Bosque de Chapultepec",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNlIbIusaFDr-eXCX_WY5_gXOh93mrjkug4q3Or=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Plaza de la Constituci\u00f3n",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOvCXLatTUJFRtXGxjJKWNvc4Q4TrJS8NuEe0c=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
@@ -9972,7 +8937,7 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "Xel-H\u00e1 Park",
+            "name": "Xel-Há Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzxd5Wxv48ueeohQYOQlbSjayiv8ePXJiCYPxd=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -10022,11 +8987,6 @@ const data = JSON.parse(`{
             "name": "Pikelot",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM9idSoC3fRlrlVScjxWh1f-ykkgKWFHWKksDhR=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "\u30b8\u30fc\u30d7\u5cf6",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOPqPM9nde2uvnrJMvAstEX0KyVKcSWe9SyGPRW=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Poluwat",
@@ -10111,19 +9071,9 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Cathedral Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN4auRNJ-oVM0wCsyAjiEC6xKm45usHeYHC_aQF=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Combinatul de Vinuri \u201eCricova\u201d",
+            "name": "Combinatul de Vinuri „Cricova”",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN98C4T1ZdlPU-dHB2ijB3xeAgtBbjmE0yVrXP0=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Rose Valley Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPW7-kskI0O3xjUfur8ZXkFpAY-UN3DhJmIx7uS=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Zoo of Chisinau",
@@ -10148,7 +9098,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mus\u00e9e oc\u00e9anographique de Monaco",
+            "name": "Musée océanographique de Monaco",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMr_L9fewMXA4rBHi2lDm6lqhggwtJsL_sJBZyB=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -10158,7 +9108,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Cath\u00e9drale de Monaco",
+            "name": "Cathédrale de Monaco",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNjMJDS9zsjvg7Km8iDYVeq8qrsrSTd9gSn2bHz=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -10178,7 +9128,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Op\u00e9ra de Monte-Carlo",
+            "name": "Opéra de Monte-Carlo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPJwOCu2BvJf8T9S_z-3A4ggKrbbKi6Za6SxD5B=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -10260,19 +9210,9 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Flaming Cliffs",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPOjU3d_uYBlXz_BHjOzKWMBa7gnL7W9yiLTxij=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Megjid Janraisig Datsan",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO5JS5Dsi--BzN_0n2u2Zn7RKaM3185q_hTDKz8=w148-h148-n-k-no",
             "score": "4.8"
-        },
-        {
-            "name": "GANDANTEGCHENLING",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOgTwx2ZDoWVRe19MeJvEUgj5W2Esv1t6tPFckq=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Khuvsgul Lake",
@@ -10292,13 +9232,8 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "\u0110ur\u0111evi\u0107a Tara Bridge",
+            "name": "Đurđevića Tara Bridge",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMHA-e-8_1_iigTqbKPtw1QQXHzVAoRfdmmFNx3=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Porto Montenegro",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNZRZal4YeGKaE4s4YSHf1sTn858DspJvq6Hp1n=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
@@ -10352,11 +9287,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "San Giovanni",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN1BMi8x_HI2yYwHV5flA5TBO5zmiFlWuuDGc-F=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Pavlova Strana Viewpoint",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNR7kGBCeRt0GrCV9-DsIdFWw8wKRGfFSLbu1hK=w148-h148-n-k-no",
             "score": "4.9"
@@ -10374,7 +9304,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Soufri\u00e8re Hills",
+            "name": "Soufrière Hills",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPkXcKQzOPedztupG5qEXhkgfGTyy6Ybf2osGE3=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -10407,11 +9337,6 @@ const data = JSON.parse(`{
             "name": "Montserrat Cultural Centre",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOcl7zjzjgGgGQh5h2itTSdxO2PodnwojwlYwpP=w148-h148-n-k-no",
             "score": "4.1"
-        },
-        {
-            "name": "National Museum of Montserrat",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPmFh-xvSp9pY24p1Q3z2ZPrX4fOhR8vzG5jQyz=w148-h148-n-k-no",
-            "score": "4.2"
         },
         {
             "name": "Shirley Heights Lookout",
@@ -10543,7 +9468,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Pra\u00e7a da Independ\u00eancia",
+            "name": "Praça da Independência",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNnPg3ir7jhyVSbt3erCvKiH2PjmixaJ3stZmxI=w148-h148-n-k-no",
             "score": "4.4"
         }
@@ -10558,11 +9483,6 @@ const data = JSON.parse(`{
             "name": "Kyaik Htee Yoe Pagoda",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzPiGOhKKKC_u2Pg6zeog5gG3pX4EnzXKRcXRd=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Ananda Temple",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOWhB_ODD-o4ymy5f3nYL-Ddr9uXyRkvK3yB7sa=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Kuthodaw Pagoda",
@@ -10712,11 +9632,6 @@ const data = JSON.parse(`{
             "name": "Moqua Well",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPwqlVrMTihToE-356Ku61gxB7a4CETl7m85N1t=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "Parliament House",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP0eqkSXzYmFk0JqD_RZ50GV0VVUD6kR1zO4C3j=w148-h148-n-k-no",
-            "score": "3.6"
         }
     ],
     "Nepal": [
@@ -10769,16 +9684,6 @@ const data = JSON.parse(`{
             "name": "World Peace Pagoda",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMT9CaAWiO5HxQg-h1EGTkQf-IpcYQ5RC1KVrE0=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Everest Base Camp",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO6rJzu_sBynucwIdHbfHJezErPyAtms_mcIhUS=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Everest Base Camp Trek",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMkaOHVn9QLzCChrgx8EL3KTUnbYyGrIDPBUVGt=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Sagarmatha National Park",
@@ -10848,11 +9753,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "NEMO Science Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOrR3ahHpop3fHxDTqamkFWLMoMJwggkJ_-QQ2a=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Heineken Experience",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNz6Zb1hM5lSx6aWKnq3Zr1cQHviEZxUadFIrl_=w148-h148-n-k-no",
             "score": "4.2"
@@ -10880,12 +9780,7 @@ const data = JSON.parse(`{
     ],
     "Netherlands Antilles": [
         {
-            "name": "Bachelor's Beach (38)",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOcqh3fzttMj-MJRQWz9m8_E5Vqko8Yp0jBB7Iw=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Cura\u00e7ao International Airport",
+            "name": "Curaçao International Airport",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOnt0rsoh7RuTHSQ6mlRUIK6C4H0mM4aeF9mXeb=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -10942,12 +9837,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Lagoon Aquarium",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMDiaZs8rICMExgPcP0oUR2f8QgqDF6G7E2ShN4=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Am\u00e9d\u00e9e Lighthouse",
+            "name": "Amédée Lighthouse",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMR4BZJK12eoXX6rzMizW_IzTo0rARVqNKvDHET=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -10982,22 +9872,12 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Oro Bay",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPzIKmWrg2jNLClXXVSIoQJnO-gp66wiofmmhZH=w148-h148-n-k-no",
-            "score": "4.9"
-        },
-        {
             "name": "Kanumera Bay",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMuW1mCHTb-atJKrWeoLWEZ3RNFdiVvxxvf-93T=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "\u00celot Ma\u00eetre",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMdsDCfYIYaomHkvirDtRrDjIeKMWm6PnrtqLPd=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Am\u00e9d\u00e9e Islet",
+            "name": "Amédée Islet",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNF9tCiMKXApfuJOwN0fAf38UUX-QR2ZwlN5I2P=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -11009,19 +9889,9 @@ const data = JSON.parse(`{
     ],
     "New Zealand": [
         {
-            "name": "Hobbiton\u2122 Movie Set Tours",
+            "name": "Hobbiton™ Movie Set Tours",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOpPyapgkoIimK5JKtt5qgxli0SnLAziSAeSyb9=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Waitomo Glowworm Caves",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPpSaQQ3rluApQbDNpK1iary03L7cQP11gpmYLE=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Sky Tower",
-            "image_url": "https://lh4.googleusercontent.com/proxy/BSlgfc6qlNeQsF3mDzYAPpuB4rBKic4Fv_CoYst2IugVkNDnlt37iVPwRV982ncUrP1maXqjtY8cUHfhhLNDBLZtnerz6NxxBY75YWxMEPOb_w29Kfc_9mdEjqU_72opMbTjzV06FrW_aafEyDN448VyNUcn5Q=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Museum of New Zealand Te Papa Tongarewa",
@@ -11042,16 +9912,6 @@ const data = JSON.parse(`{
             "name": "Waiotapu Thermal Wonderland",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPgzfTTTBx4-z1IwqqcinM0mt9iT5MWzKqDcoZC=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Hamilton Gardens",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPMB9jznzqehWy-yTjgiWGOM_5ztOScuN1CQkwL=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Te Puia - Rotorua, NZ",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNDxtvecynh-X3I_1KY0VucX_20S_d2uIWoTVtR=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Christchurch Botanic Gardens",
@@ -11076,7 +9936,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Parque Nacional Volc\u00e1n Masaya",
+            "name": "Parque Nacional Volcán Masaya",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM-ReXBL2VafxfAgvz21f7gMcRVPBWjh5hul544=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -11086,12 +9946,12 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Teatro Nacional Rub\u00e9n Dar\u00edo",
+            "name": "Teatro Nacional Rubén Darío",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPe366aqd5OEHUWPbYbH1_sXcL9pANUcgc6hlBS=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Ort\u00edz Gurdi\u00e1n Foundation Art Center",
+            "name": "Ortíz Gurdián Foundation Art Center",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNnjAmM3pSJF3lQBM_izBl2NW2FPnx7KeT9hehA=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -11126,11 +9986,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Cerro Negro",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMfaXZZpOoj4kGDG9skRddi-DbWsxzFtxYpfSdR=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Santiago of Managua Cathedral",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPrfsfGAEAw2pUUrn5OQvnl4LjgVZ6cjOtAoRQ7=w148-h148-n-k-no",
             "score": "4.6"
@@ -11158,11 +10013,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Lotus SPA Beauty & Health center Niamey",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNxKR0obsviQfCz4l3GrC3noa3_KXRbWYpYdctd=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "FERME YOUYOU",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP5H722CQBthmEO0HQmMivuI5bmCljJ3cBNNKXP=w148-h148-n-k-no",
             "score": "4.3"
@@ -11183,7 +10033,7 @@ const data = JSON.parse(`{
             "score": "3.9"
         },
         {
-            "name": "Mosqu\u00e9e Cit\u00e9 Caisse",
+            "name": "Mosquée Cité Caisse",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-FZdCCzzTi5i3GEmPeaL9Y2iP5Jtl6t_1zSB6=w148-h148-n-k-no",
             "score": "4.2"
         },
@@ -11193,12 +10043,7 @@ const data = JSON.parse(`{
             "score": "3.8"
         },
         {
-            "name": "LEVEL CLUB & LOUNGE",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMMN8pPLlSPmDpxdUqbKe_pPYeO89pnrXxK6sVq=w148-h148-n-k-no",
-            "score": "3.9"
-        },
-        {
-            "name": "Parque nacional W de N\u00edger",
+            "name": "Parque nacional W de Níger",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMlLVu-0GmCcC7uRB0B-hP9FJPDUmX0Scdlg7l7=w148-h148-n-k-no",
             "score": "4.8"
         }
@@ -11213,11 +10058,6 @@ const data = JSON.parse(`{
             "name": "Lekki Conservation Centre",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMEh8i5OIVVu_1Lu-MpgNxSx1z7giJLTAmXu2De=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "Freedom Park Lagos",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMn7mo7MHuDlMZLdX7aj_s_0Zv3ti_mY0VUDRld=w148-h148-n-k-no",
-            "score": "4.2"
         },
         {
             "name": "Nike Art Gallery",
@@ -11322,11 +10162,6 @@ const data = JSON.parse(`{
             "score": "5.0"
         },
         {
-            "name": "Ekalesia Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM82ejgJtx-biRhQSRp5Jmvh-2z40G9CSZjXWwV=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
             "name": "Avaiki Cave",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPMEs5qF-xv-KcyrtyfRzQPSJUS33tojZ68-WXw=w148-h148-n-k-no",
             "score": "4.9"
@@ -11374,7 +10209,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Pohy\u014fnsa",
+            "name": "Pohyŏnsa",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNIAJb68jn6Ci_XuE_nMYmylBu9GQnMAFJAXCC9=w148-h148-n-k-no",
             "score": "5.0"
         }
@@ -11394,11 +10229,6 @@ const data = JSON.parse(`{
             "name": "Taga Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO7hnccU8EuCdAKKIQReoep-S4EyyTQGdMAtSgz=w148-h148-n-k-no",
             "score": "4.9"
-        },
-        {
-            "name": "Old Man By The Sea",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM_LiqzSHsbSfwlMLkwk54AmSTtDoVFMzV3YSXX=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Micro Beach",
@@ -11508,24 +10338,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Munch",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPVmT5ftckIT38HUOZUWHJ23D5ZHR4Ynf8EXOBA=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Fl\u00e5msbana",
+            "name": "Flåmsbana",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMdeMDiFAMlLiLH7UrxjFX_zQD8-QLmV2bAyZ3E=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "The National Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOOudYnDgol7YKxr2txY97KnIwwEa76pzZw0wY-=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Fl\u00f8ibanen - mountain cable car",
-            "image_url": "https://lh3.googleusercontent.com/proxy/5KzUn4DFCf05EgW8aB-ZsstU4MAh9JBxNBmrwbMyLe6bwBaZHprKv1W8OuK_YW1NgSZTwHS_r7T_VgEDF2kCiwU-wEa8bvlHUowreprKnbUoUdcPqZjmM8AOFT4lPnAke2qcnS1L1KPIWD8eXzS1xehl37O-e80=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Nidaros Cathedral",
@@ -11582,11 +10397,6 @@ const data = JSON.parse(`{
         {
             "name": "Wadi Ash Shab",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOxiStHy8c_tsysG7VeXPQzT0eUo4hQyaMkwHht=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Adventure Snake canyon oman",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPQ7fXue9WPIndwY4aH8fpE3ru-ap6CYloMqXzZ=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -11836,7 +10646,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "\u05d9\u05d3 \u05dc\u05e9\u05e8\u05d9\u05d5\u05df \u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df",
+            "name": "יד לשריון מוזיאון",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMSHq51FKWmoCtitGc4OylL6rmW8IcwN0QiCcTe=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -11888,23 +10698,18 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Panam\u00e1 Viejo",
+            "name": "Panamá Viejo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNL5Dr1_dz3xlKx0CkbEUaPW0E0-Y53-jCV7-vd=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Parque Nacional Soberan\u00eda",
+            "name": "Parque Nacional Soberanía",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO40f0-glqEukZqsgIEagEdEEsi7Y7vwx_mnjKB=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
             "name": "Panama Canal",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNFL5YneaMVFmsSgxujS652P6Lk8hEgrdFO19ic=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "France Square",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMTFYko6MMt3CC4gE8k2zYeySTi9MygTBTp4P58=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -12002,7 +10807,7 @@ const data = JSON.parse(`{
     ],
     "Paraguay": [
         {
-            "name": "Paseo La Galer\u00eda",
+            "name": "Paseo La Galería",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPeotQWdvqTLuSK477udHrr9EqlznCD-YfOSKgs=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12015,16 +10820,6 @@ const data = JSON.parse(`{
             "name": "Monday Falls",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOUCWR_1clt9H4DY9gWWE2F7T3xZ-7kkRNcVdXn=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Shopping Paris",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipP7h6Ou3iEW8gkaxP_xcDntUYeL06_7WBGhX9tq=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Shopping China Importados",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN43Am5CRYzd5ekyQDCwYQCN0OcQZL550B1BWyh=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Caacupe Cathedral",
@@ -12047,12 +10842,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Costanera de Asunci\u00f3n",
+            "name": "Costanera de Asunción",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMiPUUoGroKP0aycEqKsRaHxuGfSrj9OoaztR9z=w148-h148-n-k-no",
             "score": "4.4"
         },
         {
-            "name": "Jesuit Mission of Jes\u00fas de Tavarang\u00fce",
+            "name": "Jesuit Mission of Jesús de Tavarangüe",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMwEHQ7X5Fll-3bwFKgwjacYU959Cspje0JDGwk=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -12072,7 +10867,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Palacio de L\u00f3pez",
+            "name": "Palacio de López",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPRbZs4q5AIQLwY-cmSgA4JI1Jd7pAE0VRbxdEz=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -12144,11 +10939,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Chan Chan",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPuHXrg_in5NOCX5Ir1E9ddXc-ebwspwyAO3nP6=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Sillustani",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPbzkM0gpaKGUGbG75t84byfYLBPKB6l13mftbV=w148-h148-n-k-no",
             "score": "4.6"
@@ -12191,17 +10981,12 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "White Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMh7HsJxOmW8AfsotwBNnsfUZeSo1wpsvcCleop=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Minor Basilica and Metropolitan Cathedral of the Immaculate Conception - The Manila Cathedral (Archdiocese of Manila)",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN-e2lF9K8QqFFZJ6BGLJsQfX4oURsJszhegOWN=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Minor Basilica of the Holy Child of Cebu (Basilica Minore Del Sto. Ni\u00f1o de Cebu)",
+            "name": "Minor Basilica of the Holy Child of Cebu (Basilica Minore Del Sto. Niño de Cebu)",
             "image_url": "https://lh5.googleusercontent.com/proxy/LPxOkbCuREVYzlCUE8cY2-jHLrnT_7gUrwacllk4GceFuX61XK_nmD74iIQpjpOTaBcLaFdsAEFKnVJBjvGeAfpgTmnldSikAyKGyPa_Ns-RwxzEqdNUIrT2pyoU4o76tzV6mIM9Tz-o2JTZ7BDfVOxVlHrEyuc=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12231,7 +11016,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Pint\u00f4 Art Museum",
+            "name": "Pintô Art Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMnHOp8B21eY-VtwMkAS3DkzjCYrolPhAfP3Uo9=w148-h148-n-k-no",
             "score": "4.6"
         }
@@ -12258,7 +11043,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "\u0141azienki Kr\u00f3lewskie",
+            "name": "Łazienki Królewskie",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNhIe9Eboo0PIPrRnJ4rjq2ZNfleqNKTWzfYJhy=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -12268,7 +11053,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Rynek G\u0142\u00f3wny",
+            "name": "Rynek Główny",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOBP6SYE8Jr5NCGQc1AOjGP5VwHoDG54AWTVxyg=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -12288,7 +11073,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Wroc\u0142aw Market Square",
+            "name": "Wrocław Market Square",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP9_RMx0l0PTFod88nt0eJqY1xOew8ui9fXxRaI=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -12298,7 +11083,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Museum of King Jan III's Palace at Wilan\u00f3w",
+            "name": "Museum of King Jan III's Palace at Wilanów",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN70fVQtAKo8EZbS25XeGW3KyuI0aj5fZwDX98=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12308,7 +11093,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "S\u0142owi\u0144ski National Park",
+            "name": "Słowiński National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPaknu3gPNRS-zcYTZk7PMbhavvfRz9wCcRfSf4=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -12320,7 +11105,7 @@ const data = JSON.parse(`{
     ],
     "Portugal": [
         {
-            "name": "Jer\u00f3nimos Monastery",
+            "name": "Jerónimos Monastery",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -12330,22 +11115,22 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Pra\u00e7a do Com\u00e9rcio",
+            "name": "Praça do Comércio",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Lu\u00eds I Bridge",
+            "name": "Luís I Bridge",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOAXB_Lz8Fmvq4doQiPDTFessDZoLfOkP0ZTpzE=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "Bel\u00e9m Tower",
+            "name": "Belém Tower",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Ocean\u00e1rio de Lisboa",
+            "name": "Oceanário de Lisboa",
             "image_url": "https://lh3.googleusercontent.com/proxy/0cUMCGTIkefsl1g9i9JgCAmIA-f3jM0BlYMRVpDdOqt_XkTFmDIgCHpl9csAfYvpYTUGg5t_tpeSCpKMqbdJ_nrusCOId89gBGoqrfgBz9SIGNK2PN1bOZiLKxBY6XUwlLumBLiH3K5Ai5M-NkxHUxTolmypB6s=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12380,7 +11165,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Alcoba\u00e7a Monastery",
+            "name": "Alcobaça Monastery",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNAu_5KY_CB2mMsHOgJXStp7JUXoiF21Ez9s39Q=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -12390,7 +11175,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Chapel of Bones (\u00c9vora)",
+            "name": "Chapel of Bones (Évora)",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMIVkrvOOVRdlytkiH2LMxsNAX-NUdxnCddhkuL=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -12412,7 +11197,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Castillo San Crist\u00f3bal",
+            "name": "Castillo San Cristóbal",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP9nnKkWDrLAJqi2WZjJXqi6Fn5OcVl7VWnO2Cg=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -12422,7 +11207,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Casa BACARD\u00cd",
+            "name": "Casa BACARDÍ",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMO-nQhenCRRlo8orsaFyrOyHsd2ijp0sFXcDUu=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -12462,17 +11247,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Puerta de San Juan",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOf0LJvqkmXA-_2fWA7pdS7ti5Z5X-1YIUBnFNM=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "El Yunque",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPv22Fo_zPtuIPFs191Ka6tNueNXWgGTHVhbUT5=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Bah\u00eda Bioluminiscente",
+            "name": "Bahía Bioluminiscente",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPo-MetHISK8nTm_yhDWibZhPH4gq0Lm_yqWYs=w148-h148-n-k-no",
             "score": "4.5"
         }
@@ -12481,11 +11256,6 @@ const data = JSON.parse(`{
         {
             "name": "Souq Waqif",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMUXY0E9kRjKcSanTicNQT8wFhKjYudw3XyTcS2=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Museum of Islamic Art",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO9NznDgXT5NgnxQ7d9xoDM9yC_J2CRb1zf1x89=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
@@ -12571,7 +11341,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "I.F.C Institut Fran\u00e7ais du Congo",
+            "name": "I.F.C Institut Français du Congo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMYRlygRuz8znIcuaQD_RnP4Tuq_nFDfAa7uzfC=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -12579,16 +11349,6 @@ const data = JSON.parse(`{
             "name": "African Circle Museum of Pointe-Noire",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP7m6TycLRCcSoX5kzFoM5pVrXb-mmkTSA6-gw-=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Sacred Heart Cathedral in Brazzaville",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMdpoc8WmKiORTqcVt0S0EG0FTkUKVfaZ9-AvMa=w148-h148-n-k-no",
-            "score": "4.2"
-        },
-        {
-            "name": "Casino Salut",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPQsNvgz_G2rfrWej2rnY8BvAk3NXtQXmja2t_K=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Palace of the Nation",
@@ -12599,11 +11359,6 @@ const data = JSON.parse(`{
             "name": "Congo River",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPaJtRXAdO5LI0Sfw8odGae4mSUe1XdkIXOj0r1=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "PONTON PLAGE",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNSo74Y6WzAcoEF-3bSRrNCQGdM3wOA1lGIQzzA=w148-h148-n-k-no",
-            "score": "3.5"
         },
         {
             "name": "CASINO ETOILE",
@@ -12618,7 +11373,7 @@ const data = JSON.parse(`{
     ],
     "Reunion": [
         {
-            "name": "K\u00e9lonia",
+            "name": "Kélonia",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM2TwJ9Rhq0B5Y85dHR9aoegP6gTi70EVKqYGFh=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -12633,12 +11388,12 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Parfums et \u00c9pices Garden",
+            "name": "Parfums et Épices Garden",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMBwq7X4VhVnxDz0thDZGi1cLfuYG5K7M2C8tO-=w148-h148-n-k-no",
             "score": "4.4"
         },
         {
-            "name": "Domaine du Caf\u00e9 Grill\u00e9",
+            "name": "Domaine du Café Grillé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNL91vYtaQEnjELoqYYaJueM7gFG4GwQUKbHka8=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -12658,12 +11413,7 @@ const data = JSON.parse(`{
             "score": "4.1"
         },
         {
-            "name": "The House of Coco",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOZ5dxHvR7z59n6rzGzO8uBSUUxRsBcgbsLvGDj=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Belv\u00e9d\u00e8re de Bois Court",
+            "name": "Belvédère de Bois Court",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP-NwvnLHg_cuk33TcG4lrRx-LZJCOqDvwb1_wb=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -12673,7 +11423,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Mus\u00e9e Stella Matutina",
+            "name": "Musée Stella Matutina",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNjlU7hX_X9fuFJ0q8aZWzQYWlRTWGJrn6Fq6_r=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -12683,7 +11433,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Plage de l\u2019hermitage",
+            "name": "Plage de l’hermitage",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNBnCZ4cA-uuMK0Z_WHZuO2lF6ySlamHCgX6di3=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12705,7 +11455,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Pele\u0219 Castle",
+            "name": "Peleș Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNJ2qKCX_NT9x4znuReK2IPPEmwDDa2HdTcS0Rt=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12745,18 +11495,8 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Gr\u0103dina Ci\u0219migiu",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOM0OLGfaozSsMpRlIUzVT4C_RBedNZMARyjkoa=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Alba-Carolina Citadel",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPyF9yoo4DnwXPMCkm_2dWsIAV0pdGwf-cU1EmO=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Palace of Culture",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNOQbPpwqA8lS-x8HJxt5j05i1fTf97PdX4mmWR=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
@@ -12884,11 +11624,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Ethnographic Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOoIMjiIXTtQh6CVqlj6xpIvzjdg_aJlYlCJ2Lp=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Nyamata Church Genocide Memorial",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOieCSc7AryUrjTaCnXCNNVaA9vD19DFb-tAGHI=w148-h148-n-k-no",
             "score": "4.4"
@@ -12904,7 +11639,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "H\u00f4tel des Mille Collines",
+            "name": "Hôtel des Mille Collines",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO1w88PZElaaw9RyDQy1J9kz3wywa7o3UlADxFD=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -12931,24 +11666,9 @@ const data = JSON.parse(`{
     ],
     "Saint Barthelemy": [
         {
-            "name": "Lorient, Saint Barth\u00e9lemy",
+            "name": "Lorient, Saint Barthélemy",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOZQoJQGN6o1rMI6eYD3sN8Bwe3KuQtfUVGV1AY=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Corossol",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOyhSaTn7MCszg_2Xtxr7Ts8dFxWkpwJELoCl_8=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Fort Karl",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMUltN50h9DiBorFzyU0Obd35BAi8md0ho7-7wC=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Grand Cul-de-Sac",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNVQLlm_0e9tbO3TL3AV22uYUvXm35JPrCx5_bR=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Gustavia Lighthouse",
@@ -12956,7 +11676,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Saint-Jean, Saint Barth\u00e9lemy",
+            "name": "Saint-Jean, Saint Barthélemy",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMzwpPXh5wCwIEIExxtw6_Sapki3rT5NWZncBB0=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -12971,7 +11691,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Gouverneur, Saint Barth\u00e9lemy",
+            "name": "Gouverneur, Saint Barthélemy",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOEqM5HwAdXg432tfLHbJTdVTsFU6lMNS1zMIWC=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -12991,14 +11711,9 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Saint-Barth\u00e9lemy Island",
+            "name": "Saint-Barthélemy Island",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPmnN7UO18pIGFyBeI2p_I5YVQcX2I8axSBQXw=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "Colombier",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMlnwJ9pmIuVeAG2V37d0LDrTAHzZnqXQX0lrpg=w148-h148-n-k-no",
-            "score": "4.9"
         }
     ],
     "Saint Helena": [
@@ -13021,11 +11736,6 @@ const data = JSON.parse(`{
             "name": "Heart Shaped Waterfall",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPcWGi7piPDfXVLblc2yHdU2w_rxXsEm-Vg_Y6n=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "Jacob's Ladder",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO9Fy9yiiFyd4qQHAwZO2kFEmf-pGDva6UIdCKv=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Diana's Peak",
@@ -13127,7 +11837,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Soufri\u00e8re Drive In Volcano",
+            "name": "Soufrière Drive In Volcano",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN5_6hGeYewwsWT4VlKdZi9kZ-AOc8bDz4AUmhK=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -13234,11 +11944,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Fort Amsterdam",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOFkkpl4P48tWyeqQuoi5swRvgNy9yQ8C0ooylx=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Loterie Farm",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOkk88jhMLi6r1CoqXfyaO_bEX67ey5r5cnCPbp=w148-h148-n-k-no",
             "score": "4.5"
@@ -13268,11 +11973,6 @@ const data = JSON.parse(`{
         {
             "name": "Ark Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipORGlL_hlsuNdWfllAIoVnJyB2f0bxRXqNyVoaE=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Heritage Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOpCrc-VUlLL5eCi5otLdn06I5NqVno3WpoAMLy=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
@@ -13312,11 +12012,6 @@ const data = JSON.parse(`{
         }
     ],
     "Saint Vincent and the Grenadines": [
-        {
-            "name": "Botanical Gardens",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMNOTRq2aIgJdGeuawtobp0YeFw9Vaq2qJxzw8=w148-h148-n-k-no",
-            "score": "4.5"
-        },
         {
             "name": "Fort Charlotte, Saint Vincent",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPZz2DilQGdWZN_Aaw2sx5c163MmP0VA639QfX-=w148-h148-n-k-no",
@@ -13358,11 +12053,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Montreal Gardens",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOURlS5sIhqZLEDpU__d7pJ8DlqdV5W_W3pyCi3=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Canouan",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO9x3bDeAlkqZTRlFTY8t0MLYww8a-3Tgj4lrJQ=w148-h148-n-k-no",
             "score": "4.7"
@@ -13370,11 +12060,6 @@ const data = JSON.parse(`{
         {
             "name": "Union Island",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPC167rBKa1tv2RKHgS5oHuEyJF54q1ciQ0aidG=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Palm Island",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO6hwLN5HNRhrpMLk06m6W-Q06Peg47EXp63O76=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -13445,11 +12130,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Immaculate Conception Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNWGiyAmy_psGhdeU9RNozHGLiNZWXdXgtwoAhS=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Mount Matavanu",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOVpNruUmlhx4U_zjylvh5qsvxeZ5HUi0k5lTf5=w148-h148-n-k-no",
             "score": "3.4"
@@ -13479,11 +12159,6 @@ const data = JSON.parse(`{
         {
             "name": "Falesia Second Tower",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP1xOMb1WWmIz02yxZC_RMu3Zh3gaCsX7gOPcgT=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Liberty Square",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOx3chAc3CVuVzKBjKkfPRRasQPtDzxks3hXhvi=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
@@ -13522,7 +12197,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Funivia \u00b7 Borgo Maggiore (Campo della Fiera)",
+            "name": "Funivia · Borgo Maggiore (Campo della Fiera)",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN32D0nvI1Si0YxwRSkvjMYSr6Gen3u7IKibH3l=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -13574,7 +12249,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "C\u00e3o Grande Peak",
+            "name": "Cão Grande Peak",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPS0U0Tf4ImyQyyGv-bFcXxblx1K9oRSQtKb0DC=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -13589,22 +12264,12 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Praia Piscina",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNNzTY19wyxmDkmp4TnUJe8crjoPvt9V2zB1Z_v=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Lagoa Azul",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO5_tzORGpPd6ZSHFgJGS1_1z83s810NHFR7w0A=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
-            "name": "Ro\u00e7a \u00c1gua-Iz\u00e9",
+            "name": "Roça Água-Izé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN7OVjXeaEAr6n5mFK5WZlVd_t825leBlFh5xMB=w148-h148-n-k-no",
             "score": "4.1"
         },
         {
-            "name": "Cathedral of S\u00e3o Tom\u00e9",
+            "name": "Cathedral of São Tomé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOzowNZ8nsPPIGJEGjF54MLlsgGbiz9Mkd-BI0r=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -13614,12 +12279,12 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Lagoa Am\u00e9lia",
+            "name": "Lagoa Amélia",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOmS5CvbuAA74jQHW5Vz2nCSKH758p7PiYEgAGG=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "Presidential Palace, S\u00e3o Tom\u00e9",
+            "name": "Presidential Palace, São Tomé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOtIYzo1tg0Of-BiNNHucMlg7L7KLiAXEtYSm2f=w148-h148-n-k-no",
             "score": "5.0"
         }
@@ -13639,11 +12304,6 @@ const data = JSON.parse(`{
             "name": "Masjid Quba",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOFlICcEcX1htERgcZk7YoO0LoFu9vFUblIj46o=w148-h148-n-k-no",
             "score": "4.9"
-        },
-        {
-            "name": "The National Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOqH8BgQ8r7sf4pia5jgJOiA-8tzr14Ri9zYy6J=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "King Fahad's Fountain",
@@ -13748,7 +12408,7 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "Gor\u00e9e",
+            "name": "Gorée",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNxueYpDtYffcVtGaCnu7ZjRMI_02yLv3r5vBr4=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -13867,7 +12527,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Vall\u00e9e de Mai, Praslin, Seychelles",
+            "name": "Vallée de Mai, Praslin, Seychelles",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOFHqrnmF2fBIfnDwjsizflborH1U1WDzRrRT-0=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -13922,7 +12582,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Mah\u00e9",
+            "name": "Mahé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPUJrP3-jklZaBOU3QEpVXSkBKOnM1m1amp0A_e=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -13989,11 +12649,6 @@ const data = JSON.parse(`{
             "score": "4.2"
         },
         {
-            "name": "National Railway Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOOJhmaRcENWtaLWrUQzZq_Qu7YHymAmbHK9IxK=w148-h148-n-k-no",
-            "score": "3.9"
-        },
-        {
             "name": "Lumley Beach Road",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNDlzdAxj2B_SnqxcIpoyIHTp6fNpi7Q9dm9T0B=w148-h148-n-k-no",
             "score": "4.4"
@@ -14023,11 +12678,6 @@ const data = JSON.parse(`{
         {
             "name": "Singapore Zoo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMXC14V9OwQgxvO-WpoZxAoxzDv9ZVA_l2x-DgX=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Singapore Flyer",
-            "image_url": "https://lh4.googleusercontent.com/proxy/bS_3sZR82UJcwwHNA7WtRo0xNgCmWMppIaE15xbvc3bVDIIDWMQxVUNmo_tdAd1u4leZdbzxYM1hNchC1egvZgpiXkbK6NIDcyoFVena3hysT_BezXMPCxKbE-_p1mF4N2Uk-lyqS1fMujCkFQm6k4dUMEuHkw=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -14143,11 +12793,6 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Fort Amsterdam",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOFkkpl4P48tWyeqQuoi5swRvgNy9yQ8C0ooylx=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Rainforest Adventures St Maarten",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN7Bp1pXZ2ln4L-ffVk7XuxHL5n6G8WskrAc6PA=w148-h148-n-k-no",
             "score": "4.4"
@@ -14165,7 +12810,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Hrad Dev\u00edn",
+            "name": "Hrad Devín",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMGaN6RoW1Xak7PSXbGZjOoHnUUX3LcbogTxv9l=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -14180,7 +12825,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Spi\u0161 Castle",
+            "name": "Spiš Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPZQT1nAP4Jmi502qZ07EmJLPPIJSVipOcNMccJ=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -14200,12 +12845,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Slav\u00edn",
+            "name": "Slavín",
             "image_url": "https://lh6.googleusercontent.com/proxy/gfDBvxWItYLhpZD8uHaP__72WFRzO75e8cx5dCkIUzuYtJTz2F7SvS-66sYwTNspEYMz3WwXOtq-8FLcd0R9OIbo-SxhcT2foUSWy0f4b9vn5kWHJgq_i9xH6R34O7j6yzoUD94G89bSeNCdKXvnaD3Rr4cuyQ=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
-            "name": "\u010cumil",
+            "name": "Čumil",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNAY9YzG8DBg1Jdqstkk4Thz1e8pj5e9YkLF4Gv=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -14215,7 +12860,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Tren\u010d\u00edn Castle",
+            "name": "Trenčín Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN5DfA_zQ7pw6FpyCmV-2xl6V_S8BNVyjkj0kuH=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -14235,7 +12880,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "\u010cerven\u00fd Kame\u0148 Castle",
+            "name": "Červený Kameň Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOBLarmTdhj9LKsTvr6-_KDVVxW779lI0fWK7F0=w148-h148-n-k-no",
             "score": "4.7"
         }
@@ -14287,7 +12932,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Pre\u0161ernov trg",
+            "name": "Prešernov trg",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNy0cX1iG5jOh_pjiyUHgeFQb-neJ6Y1Wk_DZPC=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -14305,11 +12950,6 @@ const data = JSON.parse(`{
             "name": "Waterfall Kozjak",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPE2BKsQYtw3ucu_kMiAUvTc4bAZXOyXzPypfh1=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Saint Nicholas's Cathedral",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN8Vl4qfo-Avx2uo0wdf7JgX6z9KWviiMVAnZrE=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Lake Bled",
@@ -14396,11 +13036,6 @@ const data = JSON.parse(`{
     ],
     "Somalia": [
         {
-            "name": "Laas Geel tour Safaris Tourism Company",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMLh7frz_dmYO2qhxv4FMhWlODwDVCQajkmENgX=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Liido beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNqHKOW8y7c1n_1VTjEIDKPcXPCYPhE6V0-M3_s=w148-h148-n-k-no",
             "score": "4.3"
@@ -14473,19 +13108,9 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "V&A Waterfront",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMGtBD9Lsv03zPp1UudZxSPMVmMv-JxsOLy5-tN=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Boulders Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMKoguvmj4UPnGj4o-irD8cmevb1UNxkT9yW4Ft=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Cape of Good Hope",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMVUZCrtnyGXbLdQHsV58rm0kWsU4A-SwW6RX_y=w148-h148-n-k-no",
-            "score": "4.7"
         },
         {
             "name": "Sun City Resort",
@@ -14508,7 +13133,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "God\u2019s Window",
+            "name": "God’s Window",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPQSrvGae9Q6SToQo1VtxgOLt_C_ooOHx66_T0g=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -14516,11 +13141,6 @@ const data = JSON.parse(`{
             "name": "iSimangaliso Wetland Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOwWY9NbgJln3CCTo5I5H6rdvkQLZl8YCPkOElP=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Two Oceans Aquarium",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMuhxA4WMHD9azuY4XSXPhHiQxsO4qiP2NMfYie=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Cape Point Nature Reserve",
@@ -14545,11 +13165,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Bukchon Hanok Village",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPwD-2jC2dDaxaOCgpTszh4bH3HtRvTO2OVg-Oa=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "National Museum of Korea",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO2KheCFYzkAoJSWpOGQdEyxNhfcI5jP2ty9YMa=w148-h148-n-k-no",
             "score": "4.7"
@@ -14557,16 +13172,6 @@ const data = JSON.parse(`{
         {
             "name": "War Memorial of Korea",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvpe_hqa32bJnFgncwtSBQ87lm0yDbewa0Yd2j=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Cheonggyecheon",
-            "image_url": "https://lh5.googleusercontent.com/proxy/vxJGZHpAKUZ0CTwexJVUphyZQksYuj69WHHzGudZrAdYyHz_GgOhwZHrVFR5aJGZdK58cf4W3F9aqBXHOk9J1mb5pvo1PgB_chUnfyrYhMOwFADwNTkRkSKJ6w-l22aEvJoEFNJUlviB2Sz7XN1CpfG-5akl6g=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Bulguksa Temple",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO-ij0IeCljBQlhkcfOvIRNghvJ7BULaTk1CtCh=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -14632,19 +13237,9 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Juba Tours",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN3r2QboctdSK13sfkmC7fWAs55s3Ndrjelg2Qp=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
             "name": "Jebel Kujur",
             "image_url": "https://lh6.googleusercontent.com/proxy/e7OowjXxpQBU_tcz-fKa1jFQPkUq4emgj3PHJkI5yJU21SVbsj75LE5Wl08SLRNV4yCNTV6rDOLeJukaUU7CRsLWRiXrOSHxDhsee6SK0_fiWzLwb0VQuDnBUTFKZF0WqRD5PscaMLWqGI7mpaHAFBPOupqHZ8E=w148-h148-n-k-no",
             "score": "5.0"
-        },
-        {
-            "name": "Konyo Konyo Market",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOaBByj78yOFBHv2P6_fiIGbWXCr8tL3oKLLEck=w148-h148-n-k-no",
-            "score": "4.0"
         },
         {
             "name": "Boma National Park",
@@ -14667,11 +13262,6 @@ const data = JSON.parse(`{
             "score": "3.5"
         },
         {
-            "name": "St. Joseph's Catholic Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOjnpFhbdwH6ejqd7jjtTitBBkX3HHRJewBfqRY=w148-h148-n-k-no",
-            "score": "3.8"
-        },
-        {
             "name": "Radom National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM0a60VMgm7Lchr40tuotWpIUO6GHyqQzgmN-L0=w148-h148-n-k-no",
             "score": "4.0"
@@ -14679,17 +13269,12 @@ const data = JSON.parse(`{
     ],
     "Spain": [
         {
-            "name": "La Sagrada Familia",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvcLglf3S0-gNAZEVATnRTaObdbR4fcclktCO0=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
-            "name": "Park G\u00fcell",
+            "name": "Park Güell",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNgwQHFyIjmdNz9RYHLND4_2hXzrBmqObHjBIfR=w148-h148-n-k-no",
             "score": "4.4"
         },
         {
-            "name": "Casa Batll\u00f3",
+            "name": "Casa Batlló",
             "image_url": "https://lh5.googleusercontent.com/proxy/NNGWAoD-gihXmhVKsHzaQlo4WobzFsI08ASSjegGJVnksf7UNJVtWCnhsTe5534OaHSVErksd5CcjZd31grC9bbddD4biOUCOfBF9u03K8gYM9mWIdMj1oDpPOpkMY0ULuEV5GjyLkvOnP7-RKwZ6U1cHfz9uQ=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -14704,7 +13289,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Royal Alc\u00e1zar of Seville",
+            "name": "Royal Alcázar of Seville",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOAuVq-fwD8y6QCv5jBhOyo35jiu59uxWrA2-Ts=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -14724,7 +13309,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Mosque-Cathedral of C\u00f3rdoba",
+            "name": "Mosque-Cathedral of Córdoba",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPZOYLmFURt7ta3dx9NBDtHQ2xVKeIAx7GyfIyu=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -14734,12 +13319,12 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "La Pedrera-Casa Mil\u00e0",
+            "name": "La Pedrera-Casa Milà",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOK8urPgM-eSceVGxSuCLyHpxeggLFStgmUfoL5=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Plaza de Espa\u00f1a",
+            "name": "Plaza de España",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM0_CDH7Ci2pNYaAjMAS1JnstKtUbvWRSwDts-K=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -14754,7 +13339,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Museo Nacional Centro de Arte Reina Sof\u00eda",
+            "name": "Museo Nacional Centro de Arte Reina Sofía",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO_ynC4sHhNjtO1Iy4eTqMbsM3kVPm3-vcZL8IP=w148-h148-n-k-no",
             "score": "4.5"
         }
@@ -14843,7 +13428,7 @@ const data = JSON.parse(`{
     ],
     "Sudan": [
         {
-            "name": "Pyramids of Mero\u00eb West",
+            "name": "Pyramids of Meroë West",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMqoFjZ0kCn36qXM7UmkNAGyNGUrmwGP5OUH_k1=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -15022,24 +13607,9 @@ const data = JSON.parse(`{
             "score": "5.0"
         },
         {
-            "name": "Nordover",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNbxj_BoAL5EW9Jmer4MUN-cdcxWxVgPlWYfDMG=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Barbara Foto & Ramme AS",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPW2abdsU3Y7ujjMf-NqL3fmm-UetWO3UDkgwFv=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
             "name": "Svalbard Buss og Taxi AS",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOoW2yrlDsHvn7cQGSrEbgCDQGM5tLqnrpDdK0K=w148-h148-n-k-no",
             "score": "4.3"
-        },
-        {
-            "name": "ART ARCTIC GALLERY",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOYzqGA66bkF3qc7JjFSGfZJkjr_rTS5kfGUARq=w148-h148-n-k-no",
-            "score": "4.1"
         },
         {
             "name": "Svalbard Museum",
@@ -15126,11 +13696,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "The Royal Palace",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNeJsPgXBJcXBzTHIQSr1MlhsBAYd_IGAn-hUH3=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Liseberg",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOlFzAVVhaw-QyTiIjSGhRJIiHiv-bTWJPOVeci=w148-h148-n-k-no",
             "score": "4.5"
@@ -15151,7 +13716,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "\u00d8resund Bridge",
+            "name": "Øresund Bridge",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMn3BvrHlfl9wQKNnOL8sVyjtFLsKRrJuvDFQzt=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -15186,11 +13751,6 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Kungstr\u00e4dg\u00e5rden",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPUgsvA9PqQvScQ4hlOcaDPrceLY5rvv1FOSwCU=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Disgusting Food Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMLhTFr_DabGH3ZiKIVBrjWXbVBefe1ShrxdzhY=w148-h148-n-k-no",
             "score": "4.5"
@@ -15208,12 +13768,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Rhine Falls",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN3C5f-WZZEQWewZ_1wFbhkPUyHBPDeKJMHzlpm=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Kunsthaus Z\u00fcrich",
+            "name": "Kunsthaus Zürich",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPBs-LTQyfCmLf7T9nkrGA-GpNcdHhi1vVvYWk_=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -15223,19 +13778,14 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Zoo Z\u00fcrich",
+            "name": "Zoo Zürich",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM_b7qwH3GkNL2oiNPC7b41Cdv-JN3MzJWvZCcz=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "Grossm\u00fcnster",
+            "name": "Grossmünster",
             "image_url": "https://lh4.googleusercontent.com/proxy/5ddZqE72Xm6NMgzKnfwoQcX3LNHyANGtAY4kRhaUVHEC8mMyStEyoPsVi0mhOHo8GPndy4l4FaMaB58TSUhfbFWnycEC2ubTeOeYUbcNcbyIB2EqgOvtFg2OTUhlWkEU9BZcuqgogaWSn4fu8J6RHU3EHyx6qTk=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Fine Arts Museum Basel",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMHvbaBf0cM6nhzARpgShttkhawBNZRR6QOcJk9=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Matterhorn",
@@ -15248,7 +13798,7 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Fraum\u00fcnster Church",
+            "name": "Fraumünster Church",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMEOuCAisfmyrJJByzwintMs7m-ORMdI1OyX6WU=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -15283,11 +13833,6 @@ const data = JSON.parse(`{
             "name": "Al Azem Palace",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNZt4wIOwHQja3wimCY5YVQsHnwKhkyiIB3hRcq=w148-h148-n-k-no",
             "score": "4.7"
-        },
-        {
-            "name": "National Museum of Syria",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipM9ycIVjljXq-T8qAQWo6xrZgVLh2armJL8oPpV=w148-h148-n-k-no",
-            "score": "4.5"
         },
         {
             "name": "Al-Hamidiyeh Souq",
@@ -15365,11 +13910,6 @@ const data = JSON.parse(`{
             "name": "Shifen Waterfall",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPiffqSrfmJ8GNW2voFM0f4E3bfrIUBOUyrbd8=w148-h148-n-k-no",
             "score": "4.4"
-        },
-        {
-            "name": "Taipei Zoo",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOv6FPumKIcHnpfv1znCeHhbGcHuon_BhI45_ml=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Dalongdong Baoan Temple",
@@ -15516,11 +14056,6 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "Selous Mapumziko Lodge",
-            "image_url": "https://lh6.googleusercontent.com/proxy/QnejGZthP2Axa2PqqJyix2M8FAImBTDVZAMpEsI1lpq6fideMRuORs8PUImIqSxNHaQYpK0sAv1DG25-dwju9UAojqFz7DEB5mR9fWMGXUjjpMOtUdv5yzM9GXn9HO3VVQILvOrOEiEFRQ0kKHdacbW3WG9cwSk=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Olduvai Gorge Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPB4Ro8duSDo-SAch-AmOg26UI0FZNCCMcpSt10=w148-h148-n-k-no",
             "score": "4.5"
@@ -15547,11 +14082,6 @@ const data = JSON.parse(`{
         }
     ],
     "Thailand": [
-        {
-            "name": "The Grand Palace",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMF-ocWKAetApFQh-i2hmgdKQZTXKkxAXTVjqAL=w148-h148-n-k-no",
-            "score": "4.5"
-        },
         {
             "name": "Wat Arun Ratchawararam Ratchawaramahawihan",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNFnjBjDVmOM_t020qRsryyVdXGcWMAGFRg1sCV=w148-h148-n-k-no",
@@ -15630,12 +14160,12 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Cascade de Kpim\u00e9",
+            "name": "Cascade de Kpimé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP__KxhEjWWkGMGh3hETKlzp2GG3Akv8jmQfSbR=w148-h148-n-k-no",
             "score": "4.2"
         },
         {
-            "name": "Palais de Lom\u00e9",
+            "name": "Palais de Lomé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOyGRwxf95AuIqLIIC0RbqVNTJm3ZOlnUvSQjVw=w148-h148-n-k-no",
             "score": "4.2"
         },
@@ -15650,12 +14180,12 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Village artisanal de Lom\u00e9",
+            "name": "Village artisanal de Lomé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPNGU2s-QHXSLRbRyprCg0lKpQv1gOnupiw_HLQ=w148-h148-n-k-no",
             "score": "4.1"
         },
         {
-            "name": "Cascade de Wom\u00e9",
+            "name": "Cascade de Womé",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMidQxYzAOIb_ITyFbXO8P_GxjwPUO0j4iN4BZS=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -15665,7 +14195,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Lom\u00e9 Grand Market",
+            "name": "Lomé Grand Market",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOLBFn3r6CGrb8Ia-ejogqe5nrS6NDXzIQzKeZs=w148-h148-n-k-no",
             "score": "4.1"
         },
@@ -15834,7 +14364,7 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Yerett\u00ea - Home of the Hummingbird",
+            "name": "Yerettê - Home of the Hummingbird",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMNip-lVvwywvpUqp51blBhlne2qoJb3Z1zi8uY=w148-h148-n-k-no",
             "score": "4.6"
         }
@@ -15938,7 +14468,7 @@ const data = JSON.parse(`{
             "score": "4.9"
         },
         {
-            "name": "Dolmabah\u00e7e Palace",
+            "name": "Dolmabahçe Palace",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMbbzXCvQmC9MKmpvkaTgX-eyTUtjYqaz_Xezh6=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -15948,7 +14478,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "G\u00f6beklitepe",
+            "name": "Göbeklitepe",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPVR1JpMmBw49C7FI8PlpKhXkQvXfJxAclFD2pd=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -15997,11 +14527,6 @@ const data = JSON.parse(`{
         {
             "name": "Darvaza Gas Crater - 'Door to Hell'",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipM9kbfrPcVNyxUsYhCDUpg1v2-rojcUjspAthIf=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Independence Monument",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOoJh3AGyotjPb3rsmcj-bq7PkmibgbD62zx_fv=w148-h148-n-k-no",
             "score": "4.5"
         },
         {
@@ -16072,7 +14597,7 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Smith\u2019s Reef",
+            "name": "Smith’s Reef",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN7lMen3ocYSlhEz9FHE4PkxpQlR9-LlpMzwDgN=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -16092,7 +14617,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Governor\u2019s Beach",
+            "name": "Governor’s Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNQ1fLYe8lzzAn-xfcuOgyVcyH2rjV6QHdNW9-U=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -16154,7 +14679,7 @@ const data = JSON.parse(`{
             "score": "5.0"
         },
         {
-            "name": "Tuvalu Women\u2019s Handicraft Centre",
+            "name": "Tuvalu Women’s Handicraft Centre",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPknramI8coHmkBNB3fVdmZ5vDqVWka0BvqGsG-=w148-h148-n-k-no",
             "score": "4.8"
         }
@@ -16173,11 +14698,6 @@ const data = JSON.parse(`{
         {
             "name": "Lindquist Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPoeFDed55uroJfuiU1Q5rJ7L-Dv1Isl70Je0Kj=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Honeymoon Beach",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPcfHKrFzd3KoN7dYSxPLPY2Q5fMr2NgLvRLYTp=w148-h148-n-k-no",
             "score": "4.7"
         },
         {
@@ -16365,11 +14885,6 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "St. Andrew's Church",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMz1hiex8FFiErDesUmAJnmPX4H9cuFaFSh3dSJ=w148-h148-n-k-no",
-            "score": "4.8"
-        },
-        {
             "name": "Palanok Castle",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNTTJBI-ccEzU9sAYDAUo4JCJvMEIrYLgDc5GcD=w148-h148-n-k-no",
             "score": "4.7"
@@ -16457,24 +14972,9 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Madinat Jumeirah",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPUf_0CPJ6DrMnZW-fMQdIxyHMkRVpm1_zbtXyR=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
-            "name": "Dubai Gold Souk",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPxZ8B5PDWYmkAIUz4FXDINQhVYFstv_Ab40_7d=w148-h148-n-k-no",
-            "score": "4.4"
-        },
-        {
             "name": "Ski Dubai",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPfyfVPRrU7MhlCttbT4DjTgEJVZ6MoGtKFjtVV=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Dubai Museum",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMtdLn-2bgR4S4flMqXrwj0ReHmKs7vbFbDk7Ti=w148-h148-n-k-no",
-            "score": "4.3"
         }
     ],
     "United Kingdom": [
@@ -16561,12 +15061,12 @@ const data = JSON.parse(`{
     ],
     "United States": [
         {
-            "name": "Hawai\u02bbi Volcanoes National Park",
+            "name": "Hawaiʻi Volcanoes National Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNwpEaixMI9kXeobTDO8gdygoFSviOCbCbb7RDY=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "N\u0101 Pali Coast State Wilderness Park",
+            "name": "Nā Pali Coast State Wilderness Park",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMjzsOQHszUr11mGqsEFub2RyXYwHdpU9PCFTmN=w148-h148-n-k-no",
             "score": "4.8"
         },
@@ -16611,11 +15111,6 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "The High Line",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNMAN7ET9-Li8qemRK73L7RVNkO__GWt4AU7tI=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Hoover Dam",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOjftFEjz2rOc4syrLnJled7A-xVCQp6MFg2yI2=w148-h148-n-k-no",
             "score": "4.7"
@@ -16648,7 +15143,7 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "Mercado Agr\u00edcola de Montevideo",
+            "name": "Mercado Agrícola de Montevideo",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMKgHQ2XKYlmFugS2aaJQGZnnm3AzDwjB8UUb4o=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -16666,11 +15161,6 @@ const data = JSON.parse(`{
             "name": "Constitution Plaza",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMlJVpHF0pLCNpY86LRtZOhl8Cfc2L9-j2ZzaU-=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Port Market",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNsolTy21nv9dcua_acNKcrRVH08h8s9aUEMqZa=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Palacio Salvo",
@@ -16703,7 +15193,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Laguna Garz\u00f3n Bridge",
+            "name": "Laguna Garzón Bridge",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP-Q2xSuW1BaeQKiAbgJlIyHJMaeoZiFv1NIWfS=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -16730,7 +15220,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Amir Temur Mausoleum Gur-i Amir \u0421omplex",
+            "name": "Amir Temur Mausoleum Gur-i Amir Сomplex",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOTE_3ancg0p_RcWy4d2ClVYLFnjE35L8gn7_2x=w148-h148-n-k-no",
             "score": "4.7"
         },
@@ -16755,18 +15245,8 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Juma Mosque",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipO7HSdsebpcK-PujBGi7qCjXWFcZ9TZgaoY8eZ-=w148-h148-n-k-no",
-            "score": "4.7"
-        },
-        {
             "name": "Ark of Bukhara",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMLp8_-Z4zo1aolYHaclyVsvJ2VOjFl1KiymFQI=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
-            "name": "Ulug\u02bbbek madrasasi",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOejcmpQ0Pe6Lef_rmdUedJnbfaYoZhZSlMpI0S=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
@@ -16847,11 +15327,6 @@ const data = JSON.parse(`{
             "score": "4.3"
         },
         {
-            "name": "Pentecost",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMx_HNkfjPumYZftpRxO-XXpz1BkzeeVINDSR89=w148-h148-n-k-no",
-            "score": "4.3"
-        },
-        {
             "name": "Ekasup Cultural Village",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMjJoTlRrE7Aa0yVUwxq720B2vOIycwiujLKF5s=w148-h148-n-k-no",
             "score": "4.9"
@@ -16872,11 +15347,6 @@ const data = JSON.parse(`{
             "name": "Vatican Museums",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNtv8GWruvlWPcaytfAbTwJJnSHixDqw3jh60q1=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Pantheon",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMZZUjB9LOvxFVdcKpWRjSKF8cGxLxwmRAKNSis=w148-h148-n-k-no",
-            "score": "4.8"
         },
         {
             "name": "Colosseum",
@@ -16971,7 +15441,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Sim\u00f3n Bol\u00edvar Birthplace House",
+            "name": "Simón Bolívar Birthplace House",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP0HEYAm-5IZtACA8tgyWf8CQzV5sHAg1Vzt8kI=w148-h148-n-k-no",
             "score": "4.6"
         },
@@ -16991,7 +15461,7 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Bas\u00edlica de Nuestra Se\u00f1ora del Rosario de Chiquinquir\u00e1 y Cristo de Aranza",
+            "name": "Basílica de Nuestra Señora del Rosario de Chiquinquirá y Cristo de Aranza",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPTyEBnhJbr9hnB6awIvVRdaCxRbvCwdNvLCpDm=w148-h148-n-k-no",
             "score": "4.9"
         },
@@ -17004,16 +15474,6 @@ const data = JSON.parse(`{
             "name": "Bolivar Square",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipO1ueFV3bnlakKNUppwDGP_8LUnwwEjtqaQr1bY=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Orinoco delta",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNPMqWXwW_MvsfLthKjLhU8m9_sTO86itAS_vOw=w148-h148-n-k-no",
-            "score": "5.0"
-        },
-        {
-            "name": "Cayo Sombrero",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOxkPRkXfAktrBHkdplK1ALM8BkLvs8uk9QFvwn=w148-h148-n-k-no",
-            "score": "4.8"
         }
     ],
     "Vietnam": [
@@ -17063,14 +15523,9 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "H\u1ea1 Long Bay",
+            "name": "Hạ Long Bay",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPHp-LtvaKbfcEx9m3LldllJfwvdt2n-JZuJj3P=w148-h148-n-k-no",
             "score": "4.6"
-        },
-        {
-            "name": "Independence Palace",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMSw2-evUD0n0ibQLXkkthzFwOhDct59iVvQLA=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Thien Mu Pagoda",
@@ -17085,11 +15540,6 @@ const data = JSON.parse(`{
         {
             "name": "Notre Dame Cathedral of Saigon",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipPfkHG1dWgp7htwiQMwSHgAja0vuFshSnwNtwoU=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
-            "name": "Tam C\u1ed1c-B\u00edch \u0110\u1ed9ng",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipNuz16LhOFE1P-F8Fyb87yft6dwgquR2Kdi8Ug=w148-h148-n-k-no",
             "score": "4.5"
         }
     ],
@@ -17108,11 +15558,6 @@ const data = JSON.parse(`{
             "name": "Mata Utu Cathedral of Our Lady of the Assumption",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMA_7sJ30xVXljmuizA0jLOhblFm3VxykUHlKqe=w148-h148-n-k-no",
             "score": "4.9"
-        },
-        {
-            "name": "\u00celot Saint Christophe",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipMzwV8vXiz6rjQ4xfPrrHqg9JrV5iBAnX-_Rvkf=w148-h148-n-k-no",
-            "score": "4.0"
         },
         {
             "name": "Four cannibale",
@@ -17144,11 +15589,6 @@ const data = JSON.parse(`{
             "score": "4.6"
         },
         {
-            "name": "Dar AlHajar",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipODEdunmH5BqsoVjzWW_sflZL8cmaTuvz_FnMiF=w148-h148-n-k-no",
-            "score": "4.6"
-        },
-        {
             "name": "Socotra",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOpTmf5a_bujxj5QVEKS9-zIb6pwM5T7m5kWf_L=w148-h148-n-k-no",
             "score": "4.1"
@@ -17164,12 +15604,12 @@ const data = JSON.parse(`{
             "score": "4.5"
         },
         {
-            "name": "\u0634\u0627\u0637\u0626 \u062f\u0644\u064a\u0634\u0629 Delisha Beach",
+            "name": "شاطئ دليشة Delisha Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN_9dh-Kl2gasKTk5BzLwLWDMVdryjS6AiIJwQG=w148-h148-n-k-no",
             "score": "4.6"
         },
         {
-            "name": "\u0634\u0627\u0637\u0626 \u0639\u0631\u0639\u0647\u0631 Arher Beach",
+            "name": "شاطئ عرعهر Arher Beach",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipMTPGZ0wG2RjesRImzbg_N2NA5qck_mVtfnzrC4=w148-h148-n-k-no",
             "score": "4.5"
         },
@@ -17184,12 +15624,12 @@ const data = JSON.parse(`{
             "score": "4.8"
         },
         {
-            "name": "\u0643\u0647\u0641 \u0647\u0648\u0643",
+            "name": "كهف هوك",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipNmhDhvYx6UlOckmuDJwNKDAg_HViROTkRO7qTj=w148-h148-n-k-no",
             "score": "4.8"
         },
         {
-            "name": "\u0642\u0635\u0631 \u0627\u0644\u0643\u062b\u064a\u0631\u064a",
+            "name": "قصر الكثيري",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipOK1ZMTmutO_YGmLijpdMvXFvQGbPCyFVCa--fl=w148-h148-n-k-no",
             "score": "4.4"
         },
@@ -17236,19 +15676,9 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Liuwa Plain National Park",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOXZurinBq3DyA_8Xo-92o_kVqemsrXbpHsRPMu=w148-h148-n-k-no",
-            "score": "4.5"
-        },
-        {
             "name": "Livingstone Museum",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipN7zBQ3UasL27zFt6Z032pMRb5mLIrolFwT_iDY=w148-h148-n-k-no",
             "score": "4.2"
-        },
-        {
-            "name": "Devil's Pool",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipPPNWDWKcQzUjL5TrHizW_WZ6MOtf22a6LX_3Zw=w148-h148-n-k-no",
-            "score": "4.6"
         },
         {
             "name": "Kariba Dam",
@@ -17256,14 +15686,9 @@ const data = JSON.parse(`{
             "score": "4.4"
         },
         {
-            "name": "Mok\u0159ady Bangweulu",
+            "name": "Mokřady Bangweulu",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP6wFuIxpgNgK7-hscpMNcp69JH6HQo_XkQM9XH=w148-h148-n-k-no",
             "score": "4.5"
-        },
-        {
-            "name": "Kalambo Falls",
-            "image_url": "https://lh5.googleusercontent.com/p/AF1QipN0ouHOuGfoqXIJM-sr1xH7FsPMlud_5zgAzaJM=w148-h148-n-k-no",
-            "score": "4.4"
         },
         {
             "name": "Nsumbu National Park",
@@ -17333,7 +15758,7 @@ const data = JSON.parse(`{
             "score": "4.7"
         },
         {
-            "name": "Bulawayo Railway Museum of Zimbabwe \ud83c\uddff\ud83c\uddfc",
+            "name": "Bulawayo Railway Museum of Zimbabwe 🇿🇼",
             "image_url": "https://lh5.googleusercontent.com/p/AF1QipP5hj0lvblbA2ZqwvhBBZqS6p5rXhJlY7MqCNHd=w148-h148-n-k-no",
             "score": "4.1"
         }

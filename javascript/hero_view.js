@@ -1,10 +1,11 @@
 // get the hero view object
 var hero_view = document.getElementById('hero');
-// const url_link = '../data/image/hero-image.webp';
 const url_link = "https://wallpapers.com/images/hd/travel-hd-2fsg31b3wqteinpa.jpg"
+
 // get the hero view object
 var hero_view = document.getElementById('hero');
-var backgroundImageUrl = hero_view.style.backgroundImage.slice(4, -1).replace(/"/g, "");
+hero_view.style.background = "url('https://source.unsplash.com/1920x1080/?travel') no-repeat center center/cover";
+var backgroundImageUrl = hero_view.style.background.slice(4, -1).replace(/"/g, "");
 var image = new Image();
 image.src = backgroundImageUrl;
 image.onerror = function() {

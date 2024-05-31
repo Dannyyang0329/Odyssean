@@ -25,34 +25,39 @@
                 </ul>
             </nav>
 
-            <div class="wrapper">
-                <div class="bg-cover text-white py-5 min-vh-100 d-flex flex-column justify-content-between">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-8 mx-auto attraction-info text-dark">
-                                <h1 class="text-center" id="text-center"></h1>
-                                <p class="lead mb-4" id="attraction-intro"></p>
-                                <p>
-                                    <span class="badge badge-secondary" id="badge-secondary"></span>
-                                    <span class="badge badge-primary" id="badge-primary"></span>
-                                </p>
-                                <div id="click-container" class="click-container">
-                                    <div class="button-container">
-                                        <button type="button" id="map-btn" class="btn btn-primary" data-toggle="modal" data-target="#mapModal">
-                                            View Location
-                                        </button>
-                                    </div>
-                                    <div class='heart-btn-wrapper text-right'>
-                                        <ion-icon name="heart">
-                                            <div class='red-bg'></div>
-                                        </ion-icon>
+            <!-- hero -->
+            <header class="hero" id="hero">
+                <div class="hero-content">
+                        <!-- <div class="bg-cover text-white py-5 min-vh-100 d-flex flex-column justify-content-between"> -->
+                        <div class="bg-cover">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8 mx-auto attraction-info text-dark">
+                                        <h1 class="text-center" id="text-center"></h1>
+                                        <p class="lead mb-4" id="attraction-intro"></p>
+                                        <p>
+                                            <span class="badge badge-secondary" id="badge-secondary"></span>
+                                            <span class="badge badge-primary" id="badge-primary"></span>
+                                        </p>
+                                        <div id="click-container" class="click-container">
+                                            <div class="button-container">
+                                                <button type="button" id="map-btn" class="btn btn-primary" data-toggle="modal" data-target="#mapModal">
+                                                    View Location
+                                                </button>
+                                            </div>
+                                            <div class='heart-btn-wrapper text-right'>
+                                                <ion-icon name="heart">
+                                                    <div class='red-bg'></div>
+                                                </ion-icon>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
                 </div>
-            </div>
+            </header>
+
 
             <div class="modal fade" id="mapModal" tabindex="-1" aria-labelledby="mapModalLabel" aria-hidden="true">
                 <div class="modal-dialog modal-lg">
@@ -76,5 +81,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
         <script src="javascript/attraction_scripts.js"></script>
+        <script src="javascript/hero_view.js"></script>
     </body>
 </html>

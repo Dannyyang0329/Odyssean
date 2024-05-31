@@ -1,6 +1,6 @@
 function get_attraction_info(attraction_name, attraction_country) {
     return new Promise((resolve, reject) => {
-        fetch("../data/attractions_with_iframe.json").then((res) => res.json()).then((data) => {
+        fetch("data/attractions_with_iframe.json").then((res) => res.json()).then((data) => {
             const attraction = data[attraction_country].find(attraction => attraction.name == attraction_name);
             resolve(attraction);
         }).catch((error) => console.error("Unable to fetch data:", error));
@@ -29,7 +29,6 @@ function heart_init() {
 
 const click_container = document.getElementById("click-container");
 click_container.addEventListener("click", function(event) {
-    // const btn = event.target.closest(".btn");
     if(event.target.classList.contains("md")) {
         const attraction_name = localStorage.getItem("attraction_name");
         const attraction_country = localStorage.getItem("attraction_country");

@@ -1,20 +1,33 @@
 body {
     background-color: #f8f9fa;
     font-family: 'Arial', sans-serif;
+    overflow: hidden;
 }
 
-.container {
-    padding-top: 20px;
-    border-radius: 15px;
+.hero {
+    background: url("https://wallpapers.com/images/hd/travel-hd-2fsg31b3wqteinpa.jpg") no-repeat center center/cover;
 }
 
+
+.card {
+    background: linear-gradient(to bottom, #f1f1f1, #ffffff);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    border-radius: 1rem;
+}
 .card-header {
-    border-bottom: 2px solid #dee2e6;
+    background: #ffe8c4;
+    color: #333;
     text-align: center;
 }
+.card-header:first-child {
+    border-radius: 1rem 1rem 0 0;
+}
 
-.table-responsive {
-    margin-top: 20px;
+.card-body {
+    width: 800px;
+    max-height: 640px;
+    overflow-y: auto;
+    padding-top: 0;
 }
 
 .table thead th {
@@ -22,12 +35,24 @@ body {
     border-bottom: 2px solid #dee2e6;
     color: #495057;
 }
-
+.table td {
+    vertical-align: middle;
+    border-top: 1px solid #dee2e6;
+}
+.table img {
+    width: 120px;
+    height: 120px;
+    border-radius: 5%;
+}
+.table .attraction-text-container {
+    padding-left: 1rem;
+    text-align: left;
+}
 .table tbody tr .d-flex.align-items-center{
     transition: all 0.3s ease-in-out;
 }
-
 .table tbody tr .d-flex.align-items-center:hover {
-    background-color: #f1f1f1;
+    background-color: #e4e4e4;
+    border-radius: 5px;
     cursor: pointer;
 }

@@ -19,7 +19,7 @@ function addFavoriteAttractionRow(favoriteAttractions) {
             cell1.innerHTML = `
                 <div class="d-flex align-items-center">
                     <img src="${data[favoriteAttraction.country][i].image_url}" alt="${data[favoriteAttraction.country][i].name}" class="mr-3">
-                    <div>
+                    <div class="attraction-text-container">
                         <h5 class="mb-0">${data[favoriteAttraction.country][i].name}</h5>
                         <small class="text-muted">${favoriteAttraction.country}</small> <br>
                         <small class="text-muted">${data[favoriteAttraction.country][i].score}</small>

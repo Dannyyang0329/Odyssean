@@ -2,15 +2,11 @@ body {
     overflow: hidden;
 }
 
-.wrapper {
-    padding-top: 250px;
-    background-image: url("https://wallpapers.com/images/hd/travel-hd-2fsg31b3wqteinpa.jpg");
-}
-
 .bg-cover {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: left;
 }
 .attraction-info {
     padding: 30px;
